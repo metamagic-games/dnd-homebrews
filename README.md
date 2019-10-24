@@ -1,23 +1,19 @@
-# handbooker-sample-project
+# dnd-homebrews
 
-With this sample project you can generate Player's Handbook-style documents from Markdown, using [Handbooker](https://github.com/paragon-games/handbooker).
+This repo includes a collection of finished and work-in-progress homebrew content for D&D 5th Edition.
+
+It includes both:
+- Custom content presented as Player's Handbook-style documents, generated using [Handbooker](https://github.com/metamagic-games/handbooker).
+- Code for use with the MorePurpleMoreBetter character creator.
 
 ## Getting started
 
+### Generating the handbook content
+
 1. Clone this repo
-2. Edit and rename `example-document.md`, or add your own markdown document
-3. Change create the `target` and `destination` paths in `createRulebooks.js` (if necessary)
-4. `npm install`
-5. `npm run build`
+2. `npm install`
+3. `npm run build`
 
-## Why not just use [Homebrewery](http://homebrewery.naturalcrit.com/)?
+### Using the MPMB character sheet content
 
-Homebrewery is a fantastic tool, and this project wouldn't be possible without their fantastic stylesheet. However, Homebrewery doesn't make collaboration and tracking changes to your document easy. If you're just working alone, and you're not used to working with git, npm, or Markdown, this might not be the tool for you.
-
-## Combining multiple markdown files
-
-Handbooker allows you to combine multiple Markdown files into a single PDF. Simply pass in an ordered array of paths, as below:
-
-```
-    const target = [ "./example-document.md", "./example-document.md", ];
-```
+Import it
