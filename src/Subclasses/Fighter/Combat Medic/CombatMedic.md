@@ -4,7 +4,7 @@ At 3rd level, a fighter gains the Martial Archetype feature. The following optio
 
 ## COMBAT MEDIC
 
-Combat Medic's are veterans of the battlefield, accustomed to the carnage and bloodshed of war. These expert fighters know when to attack, and when to retreat to care for the wounded. Combat Medics also learn how to save those in their charge from even the most grevious of injuries, often serving as the protectors of their superiors and of the weak. Compelled to, many of these fighters leave their lives of comfort to adventure where they are needed most. 
+Combat Medics are veterans of the battlefield, accustomed to the carnage and bloodshed of war. Combat Medics have learned how to save those around them from even the most grevious of injuries, and even to protect those under their care from potential injuries. These expert fighters know when to attack, and when to retreat to care for the wounded. Compelled by those they failed to save in the past, many of these fighters leave their lives of comfort to adventure where they are needed most. 
 
 #### COMBAT MEDIC FEATURES
 
