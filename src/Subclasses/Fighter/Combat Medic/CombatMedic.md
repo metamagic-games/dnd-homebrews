@@ -1,6 +1,6 @@
 # Martial archetype
 
-At 3rd level, a fighter gains the Martial Archetype feature. The following options are available to a fighter, in addition to those offered in the Player’s Handbook: the Combat Medic.
+At 3rd level, a fighter gains the Martial Archetype feature. Here is a playtest option for that feature: the Combat Medic.
 
 ## COMBAT MEDIC
 

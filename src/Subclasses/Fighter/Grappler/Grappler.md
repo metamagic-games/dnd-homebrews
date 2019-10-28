@@ -1,5 +1,7 @@
 # Fighter
 
+Here is a playtest option for that feature
+
 ### Grappler
 
 You are specialised in hand-to-hand martial skills

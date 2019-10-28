@@ -2,7 +2,7 @@
 
 ## Monastic Traditions
  
-At 3rd level, a monk gains the Monastic Tradition feature. The following options are available to a monk, in addition to those offered in the Player’s Handbook: the Way of the Shadow Realm.
+At 3rd level, a monk gains the Monastic Tradition feature. Here is a playtest option for that feature: the Way of the Shadow Realm.
 
 ### Way of the Shadow Realm
 

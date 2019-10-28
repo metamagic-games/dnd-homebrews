@@ -1,6 +1,6 @@
 # Martial archetype
 
-At 3rd level, a fighter gains the Martial Archetype feature. The following options are available to a fighter, in addition to those offered in the Player’s Handbook: the Cavalier.
+At 3rd level, a fighter gains the Martial Archetype feature. Here is a playtest option for that feature: the Cavalier.
 
 ## CAVALIER
 The archetypal Cavalier excels at mounted combat. Usually born among the nobility and raised at court, a Cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Compelled to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure. 
