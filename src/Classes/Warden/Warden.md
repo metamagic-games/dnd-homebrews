@@ -1,6 +1,6 @@
-# Warden
+## Warden
 
-What is the raw magic Necromancers tap into? What is the essence of life that Druids access within nature? By what channels do divine beings restore life to the faithful?
+What is the raw magic that Necromancers tap into? What is the essence of life that Druids access within nature? Through what channels do divine beings restore life to the faithful? 
 
 At some point in a Warden's life, they were brought to the precipice of death, only to survive the experience. However, they never truly left death behind either. Caught in a limbo between life and death, Wardens have learned to harness this proximity to death, leveraging the terrible understanding they'vw gain from their experience.
 
@@ -32,16 +32,23 @@ As a warden, you gain the following class features.
 #### Hit Points
 
 __Hit Dice:__ 1d12 per warden level
+
 __Hit Points at 1st Level:__ 12 + your Constitution modifier
+
 __Hit Points at Higher Levels:__ 1d12 (or 7) + your Constitution modifier per warden level after 1st
 
 #### Proficiencies
 
 __Armour:__ Light armor, medium armor, shields
+
 __Weapons:__ All simple weapons
+
 __Tools:__ None
 
+<br/>
+
 __Saving Throws:__ Constitution, Wisdom
+
 __Skills:__ Choose two from Insight, Intimidation, Medicine, Perception, Stealth, Survival
 
 #### Equipment
@@ -88,6 +95,8 @@ As you learn to tap into the energies governing life and death, you can cast war
 #### Cantrips
 
 At 1st level, you know three cantrips of your choice from the warden spell list. You learn additional warden cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warden table.
+
+\page
 
 #### Preparing and Casting Spells
 

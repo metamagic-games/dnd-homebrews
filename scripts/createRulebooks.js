@@ -9,10 +9,12 @@ const options = {
 	},
 };
 
-const target = "./example-document.md";
-
-const destination = "./example-document.pdf";
+const homebrewDocuments = [
+  './src/Classes/Warden/Warden',
+]
 
 // ---------------------------------
 
-handbooker( target, destination, options, );
+homebrewDocuments.map(
+  homebrewDocument => handbooker(`${homebrewDocument}.md`, `${homebrewDocument}.pdf`, options)
+)

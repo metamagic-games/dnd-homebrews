@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "format": "mcclowes-scripts format",
-    "build": "node --harmony scripts/createRulebooks",
-    "watch": "node --harmony scripts/createRulebooks",
+    "build:rules": "node --harmony scripts/createRulebooks",
+    "watch:rules": "node --harmony scripts/createRulebooks",
     "test": "jest",
     "test:watch": "jest --watch --runInBand --bail"
   },

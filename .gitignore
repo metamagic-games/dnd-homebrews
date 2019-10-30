@@ -8,6 +8,7 @@ yarn-error.log
 /public
 /lib
 /.cache
+.DS_Store
 
 # Build res
 *.pdf
