@@ -334,3 +334,11 @@ Whatever force brought you back, you now know the truth about yourself: that you
 
 
 
+# to sort
+- Tormented essence - you didn't die, you've been around death so frequently that you have become haunted. Either you killed a lot or were around people who died
+- How did you die?
+- Your spirit was detached from your body
+- You were murdered
+- you were old
+- you had a disease or illnesss
+- Roleplaying -> Make sure you have a lingering illness
