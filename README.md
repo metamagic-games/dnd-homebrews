@@ -14,6 +14,10 @@ It includes both:
 2. `npm install`
 3. `npm run build`
 
-### Using the MPMB character sheet content
+### Using this content with the [MPMB character sheet](https://www.google.co.uk/search?hl=en&q=more+purple+more+better+patreon&meta=)
 
-Import it
+When setting up you MPMB character sheet, there is an option to import a new file.
+
+## Contributing
+
+If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are welcome!
