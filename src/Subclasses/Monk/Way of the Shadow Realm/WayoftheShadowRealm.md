@@ -14,10 +14,12 @@ Playing as a Monk of the Way of the Shadow Realm requires Yu-Gi-Oh! cards.
 
 #### Way of the Shadow Realm Features
 
-- 3rd | Spirit Bonds, Call on Spirits, Gift of the Mystical Elf
-- 6th | Dark Strike
-- 11th | Heart of the Cards
-- 17th | Shadow Game
+| Monk Level | Feature |
+| :-: | :-: |
+| 3rd | Spirit Bonds, Call on Spirits, Gift of the Mystical Elf |
+| 6th | Dark Strike |
+| 11th | Heart of the Cards |
+| 17th | Shadow Game |
 
 ##### Spirit Bonds
 

@@ -50,8 +50,6 @@ __Speed.__ Pearls have no physical form.
 
 __Vision.__ Pearls have no vision of their own, and instead use the vision of their vessel.
 
-__Languages.__ Having lived many ages and having inhabitted many bodies, Pearls speak many languages. You can speak, and read Common and 3 other languages.
-
 __Ancient Watcher.__ Pearl's remember almost everything they see over their long lives. You are proficient in History.
 
 __Invasive Mind.__ As an action, once per 30 days, Pearls can try to invade the mind of another and switch hosts. The target must pass a Wisdom saving throw or be invaded. If the invasion fails, the Pearl remains in its current host, but the host can resist the Pearl once more, and has advantage on the next time they resist. They can target any humanoid of intelligence 10 or greater, of size Medium or less. They may invade the mades of other player characters.
@@ -64,6 +62,8 @@ Additionally, Pearls have the cantrip Message.
 
 __Insidious Mind.__ From character level 3, Pearls can cast Command once per Short Rest. From character level 3, Pearls can cast the spell Charm Person once per Long Rest.
 
-__Inscrutible Mind.__ The minds of Pearls and their hosts cannot be read. Pearls have advantage against charms.
+__Inscrutible Mind.__ Pearls have an unarmoured defence of 13 + intelligence modifier. The minds of Pearls and their hosts cannot be read, and Pearls have advantage against charms.
 
 __Manifest Mind.__ Pearls can cast spells without their spoken components, and therefore can can cast some spells even when they don't have control of their host.
+
+__Languages.__ Having lived many ages and having inhabitted many bodies, Pearls speak many languages. You can speak, and read Common and 3 other languages.

@@ -23,6 +23,7 @@ As you create a warden, the most important thing to consider is the circumstance
 Also consider who you were before that event. How much did your death change you?
 
 #### Quick Build
+
 You can makea. warden quickly by following these suggestions. First, Constitution should be your highest ability score, followed by Charisma or Wisdom. Second, choose the outlander background.
 
 ## Class Features
@@ -47,7 +48,7 @@ __Tools:__ None
 
 <br/>
 
-__Saving Throws:__ Constitution, Wisdom
+__Saving Throws:__ Constitution, Charisma  (Or maybe Wisdom?)
 
 __Skills:__ Choose two from Insight, Intimidation, Medicine, Perception, Stealth, Survival
 
@@ -57,170 +58,330 @@ You start with the following equipment, in addition to the equipment granted by 
 
 - leather armor
 - (a) a short sword or (b) a club
-- an explorer's pack and a relic of a past life - a simple non-functional possession, such as a picture, a letter, or simple clothing.
+- an explorer's pack
+- a relic of a past life - a simple non-functional possession, such as a picture, a letter, or simple clothing.
 
-1 | Soul Essence, Essence feature ( How you survived )
-2 | Last Gasp
-3 | Spellcasting
-4 | Ability Score Improvement
-5 | Life Lesson
-6 | -
-7 | x 
-8 | Ability Score Improvement
-9 | -
-10 | Soul Essence feature ( How you died )
-11 | x
-12 | Ability Score Improvement
-13 | Essence: Inner Power
-14 | -
-15 | Allies in death (Sprits that aid you)
-16 | Ability Score Improvement
-17 | x
-18 | x
-19 | Ability Score Improvement
-20 | Deal with Death
+The story of your death
+1. Soul Essence - your subclass, who you are
+1. Essence feature: Nature - how you survived
+5. Life Lesson - lvl 5, what you saw
+10.  - How you died
+13. Essence feature: Inner Power
+15. Unlikely Ally - Spirits you have influence over
+
+| Level | Features |
+| :-: | :-: |
+| 1 | Soul Essence, Warden Spellcasting |
+| 2 | Essence Feature: Soul Nature |
+| 3 | - |
+| 4 | Ability Score Improvement |
+| 5 | Deathly Insights |
+| 6 | - |
+| 7 | Uncanny Cadaver  |
+| 8 | Ability Score Improvement |
+| 9 | - |
+| 10 | SOMETHING ( How you died ) |
+| 11 | Spectral Vision |
+| 12 | Ability Score Improvement |
+| 13 | Essence feature: Inner Power |
+| 14 | - |
+| 15 | Allies in death (Sprits that aid you) |
+| 16 | Ability Score Improvement |
+| 17 | Essence Feature: SOMETHING |
+| 18 | Undead Resilience |
+| 19 | Ability Score Improvement |
+| 20 | Deal with Death |
+
+Combine with the above later
+
+| - | - | Spell Slots |
+| Level | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 1  | 1 | - | - | - | - | - | - | - | - |
+| 2  | 1 | - | - | - | - | - | - | - | - |
+| 3  | 2 | 2 | 1 | - | - | - | - | - | - |
+| 4  | 2 | 3 | 1 | - | - | - | - | - | - |
+| 5  | 3 | 4 | 1 | 1 | - | - | - | - | - |
+| 6  | 3 | 4 | 1 | 1 | - | - | - | - | - |
+| 7  | 4 | 5 | 2 | 1 | 1 | - | - | - | - |
+| 8  | 4 | 5 | 2 | 1 | 1 | - | - | - | - |
+| 9  | 5 | 6 | 2 | 2 | 1 | 1 | - | - | - |
+| 10 | 5 | 6 | 2 | 2 | 1 | 1 | - | - | - |
+| 11 | 5 | 7 | 2 | 2 | 2 | 1 | 1 | - | - |
+| 12 | 5 | 7 | 2 | 2 | 2 | 1 | 1 | - | - |
+| 13 | 5 | 8 | 2 | 2 | 2 | 2 | 1 | 1 | - |
+| 14 | 5 | 8 | 2 | 2 | 2 | 2 | 1 | 1 | - |
+| 15 | 5 | 9 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
+| 16 | 5 | 9 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
+| 17 | 5 | 10 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
+| 18 | 5 | 10 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
+| 19 | 5 | 10 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
+| 20 | 5 | 10 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
 
 ### Spellcasting
 
 As you learn to tap into the energies governing life and death, you can cast warden spells.
 
-| Warden Level | Spells |
-| Cantrips | spare the dying, resistance, mage hand, minor illusion, stabilise, chill touch, true strike, guidance |
-| 1st | bane, healing word, inflict wounds, fog cloud, dancing lights, dissonant whispers, silent image, sleep, unseen servant, sanctuary, protection from evil and good |
-| 3rd | lesser restoration, |
-| 5th | revivify |
-| 7th | death ward |
-| 9th | mass cure wounds, raise dead |
+#### Warden Spell List
+
+##### Cantrips
+
+chill touch
+guidance
+mage hand
+minor illusion
+resistance
+spare the dying
+stabilise
+true strike
+
+##### 1st Level
+
+bane
+dancing lights
+dissonant whispers
+healing word
+inflict wounds
+sanctuary
+silent image
+
+##### 2nd Level
+
+lesser restoration
+phantasmal force
+ray of enfeeblement
+revivify
+
+##### 3rd Level
+
+animate dead
+feign death
+mass healing word
+revivify
+speak with dead
+spirit guardians
+vampiric touch
+
+##### 4th Level
+
+antilife shell
+death ward
+phantasmal killer
+
+##### 5th Level
+
+mass cure wounds
+raise dead
+reincarnate
+
+##### 6th Level
+
+create undead
+heal
+
+##### 7th Level
+
+etherealness
+finger of death 
+regenerate 
+resurrection 
 
 #### Cantrips
 
-At 1st level, you know three cantrips of your choice from the warden spell list. You learn additional warden cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warden table.
+At 1st level, you know two cantrips of your choice from the warden spell list. You learn additional warden cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warden table.
 
 \page
 
-#### Preparing and Casting Spells
+#### Casting Spells
 
 The Warden table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-You prepare the list of warden spells that are available for you to cast, choosing from the warden spelllist. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your warden level (minimum of one spell). The spells must be of a level for which you have spell slots.
+The power of your spells comes from the strength of your soul, and whenever you cast a spell, you consume some of that life-force. When you attempt to cast a spell, you first take 1d4 of damage. This damage does not interup your concentration.
 
-You can change your list of prepared spells when you finish a long rest. Preparing a new list of warden spells requires tapping into the fabric of death and communing with spirits. It requires at least 1 minute per spell level for each spell on your list, and you take 1d4 - 1 damage per spell prepared.
+#### Spellcasting Ability
 
-#### SPELLCASTING ABILITY
+Constitution is your spellcasting ability for your warden spells.
 
-Constitution is your spellcasting ability for your warden spells. The power of your spells comes from the strength of your soul. You use your Constitution whenever a warden spell refers to your spellcasting ability. In addition, you use your Constitution modifier when setting the saving throw DC for a warden spell you cast and when making an attack roll with one.
+You use your Constitution whenever a warden spell refers to your spellcasting ability. In addition, you use your Constitution modifier when setting the saving throw DC for a warden spell you cast and when making an attack roll with one.
 
 __Spell save DC__ = 8 + your proficiency bonus + your Constitution modifier
 __Spell attack modifier__ = your proficiency bonus + your Constitution modifier
 
-#### RITUAL CASTING
+#### Ritual Casting
 
-You can cast a warden spell as a ritual if that spell has the ritual tag and you have the spell prepared. To cast a spell as a ritual, you must add 10 minutes to the spell’s casting time, during which you take 1d4 necrotic damage per spell level.
+You can cast a warden spell as a ritual if that spell has the ritual tag. To cast a spell as a ritual, you must add 10 minutes to the spell’s casting time, during which you take 1d4 necrotic damage per spell level.
 
-#### SPELLCASTING FOCUS
+#### Spellcasting Focus
+
 You can use your relic of a past life as a spellcasting focus for your warden spells.
 
 ### Soul Essence
 
-When you miraculously came back from the brink of death, you discover something about your soul's very essence. Choose 
+From 1st level, you.... When you miraculously came back from the brink of death, you discovered something about your soul's very essence. It was this unique aspect of your soul which saved you from death. Choose one of the following options: Resilient Soul, Vengeful Soul, Undying Soul, Elusive Soul.
 
 #### Essence Spells
 
 Each Essence has a list of spells - its essence spells - that you gain at the warden leveis noted in the essence description. Once you gain a essence spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a essence spell that doesn't appear on the warden spellist, the spell is nonetheless a warden spell for YOU.
 
-#### Essence
+#### Essence Feature: Soul Nature
 
-sdadasda
+At 2nd level, you gain an ability related to your soul's true nature.
 
-#### Essence: Inner Power
+#### Essence Feature: Inner Power
 
-At 13th level you gain a further ability.
+At 13th level, you gain a further ability related to your soul's true nature.
+
+#### Essence Feature: Something
+
+At 17th level, you gain a further ability related to your soul's true nature.
 
 ### Ability Score Improvement
 
-When you reach 4th leveI, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
-### Life Lesson
+### Deathly Insights
 
-5th-level warden feature
+Beginning at 5th level, you learn something about the nature of death, and are able to exploit it. At your closest to death, you saw and understood an aspect of the nature of death and the dead. Choose one of the following options.
 
-At your closest to death, you saw and understood the nature of death.
+##### Borrowed Capabilities
+
+| d3 | Capability |
+| :-: | :-: |
+| 01 | You learn how to speak, read, and write one language of your choice. |
+| 02 | You gain one skill or tool proficiency of your choice. |
+| 03 | You gain proficiency with one saving throw of your choice. |
 
 #### Last Gasp
 
 When you are within 5 foot of a corpse, as an action you can create a link with a spirit through their corpse. When you do so, you cast the _speak with dead_ spell, without using a spell slot or material components. Intelligence is your spellcasting ability for this spell.
 
-Speaking with the dead in this way temporarily gives you a capability from a past life — you’re unsure whether it’s from your past or the spirit’s. When the spell ends, you gain one random benefit from the Revived Capabilities table. The benefit lasts until you finish a short or long rest.
+Speaking with the dead in this way temporarily gives you a capability from a past life — you’re unsure whether it’s from your past or the spirit’s. When the spell ends, you gain one random benefit from the Borrowed Capabilities table. The benefit lasts until you finish a short or long rest.
 
-#### Pain of Death
+#### Lingering Lifeforce
 
-sdhashdas
-
-#### Life Energies
-
-ThWhen you are within 5 foot of a corpse, as an action you can harvest the remaining life energy that still lingers within. Choose one of the following:
-- Gain temporary hit points
-- Gain a spell slot
+You learned that the souls of the dead do not immediately leave the body. When you are within 5 foot of a corpse that died within the past hour, you can use an action to harvest the remaining life force still lingering within. Gain hitpoints equal to 1d4 per that target's constitution modifier + your constitution modifier. You gain one random benefit from the Borrowed Capabilities table. The benefit lasts until you finish a short or long rest.
 
 This ability can only be cast once on a given corpse.
 
-#### Nature of Undeath
+#### Pain of Death
 
-##### Turn Undead
+You learned the excruciating experience that death truly is.
 
-As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. lt also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
+When a creature within 15 feet of you drops to 0 hit points, you can use a reaction to share the pain with others. Cast bane for free on all nearby targets. You gain one random benefit from the Borrowed Capabilities table. The benefit lasts until you finish a short or long rest.
+
+### Uncanny Cadaver
+
+Beginning at 7th level, you can:
+- Cast feign death once without expending a spell slot
+- Cast the reverse of feign death - feign life - on a corpse
+- Disguise a corpse as the corpse of another
+
+### dhauidas
+
+Beginning at 10th level, you remember how you died
+
+### Spectral Vision
+
+Beginning at 11th level, you can sense undead and ethereal creatures within 30 feet, even behind walls.
 
 ### Allies in Death
 
-17th-level Warden feature
-
-#### Borrow knowledge
-
-Sprit guides come to your aid, and give you knowledge from their own lifetimes.
-
-| d3 | Capability |
-| 1 | You learn how to speak, read, and write one language of your choice. |
-| 2 | You gain one skill or tool proficiency of your choice. |
-| 3 | You gain proficiency with one saving throw of your choice. |
-
-In addition, you can change any of your personal characteristics: personality trait, ideal, bond, or flaw.
-
-After you cast the spell with this feature, you can’t do so again until you finish a short or long rest.
+Beginning at 15th level,You have communed with the dead so frequently that, when at death’s door, spirits of the dead come to your aid. Choose one of the following options.
 
 #### Ethereal Jaunt
 
-Sprit guides come to your aid, and you have the ability to slip in and out of the Ethereal Plane. You can use an action to teleport to an unoccupied space within 30 feet of you. You don’t need to see that space to teleport to it, but your teleportation fails, wasting your bonus action, if you attempt to teleport through magical force that is Medium or larger, such as a wall of force.
+Sprit guides come to your aid, and you have the ability to slip in and out of the Ethereal Plane. When your health is lower than your constitution modifier, you can use an action to teleport to an unoccupied space within 30 feet of you. You don’t need to see that space to teleport to it, but your teleportation fails, wasting your bonus action, if you attempt to teleport through magical force that is Medium or larger, such as a wall of force.
 
 If you appear in a space occupied by another creature or filled by an object, you are immediately shunted to the nearest unoccupied space that you can occupy and take force damage equal to twice the number of feet you are shunted.
 
+#### Deathly Parlay
+
+Powerful undead entities stand beside you and attempt to repel other undead forces. When your health is lower than your constitution modifier, each undead that can see or hear you within 30 feet of you must make a Charisma saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. lt also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
+
+#### Audience with Death
+
+You can converse with the forces of death itself. You have advantage on death saving throws, and whenever you make a death saving throw, your spirit can ask an entity of death a question that can be answered with “yes,” “no,” or “unknown.” The entity answers truthfully, using the knowledge of all those who have died.
+
+### Undead Resilience
+
+Beginning at 18th level, your time spent among spirits and undead has toughened you body and resolve. You gain resistance to cold and necrotic damage, and you become immune to the frightened condition.
+
 ### Deal with Death
 
-You can exchange your life for anothers, and die in their place.
+Beginning at 20th level, you can exchange your life for another's, and die in their place.
 
-#### Feign death
+--------------------------------
 
-Your knowledge of death allows you to appear dead. You have advantage on performance checks on appearing dead.
+## Soul Essence
 
-## Soul Essences
+Beginning at 1st level, you begin to understand the essence of your soul, and how it was changed by it's proximity to death. / how you survived because of its nature
 
-At 1st level, you begin to understand the essence of your soul, and how it was changed by it's proximity to death.
+--------------------------------
 
 ### Resilient Soul
 
-Your soul has such raw energy - Where you would die, you are reborn. Healing
+Your soul is naturally overflowing with lif-force. It has such raw energy that, where others would die, you are reborn. Healing
 
 #### Resilient Soul spells
 
-| Warden Level | Spells |
+| Spell Level | Spells |
 | 1st | cure wounds, false life |
-| 3rd | lesser restoration, |
-| 5th | revivify |
-| 7th | death ward |
-| 9th | mass cure wounds, raise dead |
+| 2nd | lesser restoration, |
+| 3rd | revivify |
+| 4th | death ward, aura of life |
+| 5th | mass cure wounds, raise dead |
+| 6th | mass cure wounds, raise dead |
+| 7th | mass cure wounds, raise dead |
 
-#### Resilient Nature
+##### 1st Level
 
+cure wounds
+false life
+
+##### 2nd Level
+
+lesser restoration
+phantasmal force
+ray of enfeeblement
+revivify
+
+##### 3rd Level
+
+animate dead
+feign death
+mass healing word
+revivify
+speak with dead
+spirit guardians
+vampiric touch
+
+##### 4th Level
+
+death ward
+
+##### 5th Level
+
+mass cure wounds
+raise dead
+reincarnate
+
+##### 6th Level
+
+create undead
+heal
+
+##### 7th Level
+
+etherealness
+finger of death 
+regenerate 
+resurrection 
+
+#### Soul Nature: Resilient
+
+Beginning at 2nd level,
 Life drain?
+- You were resurrected and are undead. You are tougher, damage resistant, and have certain necromantic abilities
 
 #### Inner Power: Enduring Essence
 
@@ -230,86 +391,169 @@ Your soul is brimming with life-force. If you drop to 0 hit points and don’t d
 
 Once you use this feature, you can’t use it again until you finish a long rest.
 
+--------------------------------
+
 ### Vengeful Soul
 
-#### Vengeful Nature
+You were almost killed by another, but your anger and drive for vengeance brought you back.
 
-As a bonus action, you ean utter a vow of enmity against a ereature you ean see within 10 feet of you. You gain the following benefits:
+### Vengeful Soul Spells
+
+##### 1st Level
+
+bane
+inflict wounds
+
+##### 2nd Level
+
+ray of enfeeblement
+
+##### 3rd Level
+
+vampiric touch
+
+##### 4th Level
+
+antilife shell
+phantasmal killer
+
+##### 5th Level
+
+-
+
+##### 6th Level
+
+-
+
+##### 7th Level
+
+finger of death 
+
+#### Soul Nature: Vengeful
+
+Beginning at 2nd level, As a bonus action, you ean utter a vow of enmity against a ereature you ean see within 10 feet of you. You gain the following benefits:
 - You gain advantage on attack rolls against the creature for 1 minute or until it drops to O hit points or falls unconscious.
 - Reduce healing done to target by 1d4 / Warden level
 
 #### Inner Power: Audience with Death
 
-13th-level Vengeful Soul feature
+Beginning at 13th level, When at death’s door, you can converse with the powers of death. You have advantage on death saving throws, and whenever you make a death saving throw, your spirit can ask an entity of death a question that can be answered with “yes,” “no,” or “unknown.” The entity answers truthfully, using the knowledge of all those who have died.
 
-When at death’s door, you can converse with the powers of death. You have advantage on death saving throws, and whenever you make a death saving throw, your spirit can ask an entity of death a question that can be answered with “yes,” “no,” or “unknown.” The entity answers truthfully, using the knowledge of all those who have died.
+#### Inner Power: Reaper
+
+Beginning at 17th level, whenever you kill at enemy, regenerate health
+
+--------------------------------
 
 ### Undying Soul
 
-You were resurrected and are undead. You are tougher, damage resistant, and have certain necromantic abilities
+Although you did actually die, you were resurrected and are undead. You are tougher, damage resistant, and have certain necromantic abilities
+- Vengeance is a powerful - damage etc
 
-#### Undying Soul SPELLS
+#### Undying Soul Spells
 
-| Cleric Level | Spells |
-| 1st | Inflict wounds |
-| 3rd |  |
-| 5th | revivify |
-| 7th | death ward |
-| 9th |  |
+##### 1st Level
 
-#### Undying Nature
+healing word
+sanctuary
 
-You have the following benefits:
+##### 2nd Level
+
+lesser restoration
+revivify
+
+##### 3rd Level
+
+animate dead
+mass healing word
+
+##### 4th Level
+
+-
+
+##### 5th Level
+
+mass cure wounds
+reincarnate
+
+##### 6th Level
+
+heal
+
+##### 7th Level
+
+regenerate 
+
+#### Soul Nature: Eternal
+
+Beginning at 2nd level, you have the following benefits:
 • You have advantage on saving throws against disease and being poisoned, and you have resistance to poison damage.
 • You don’t need to eat, drink, or breathe.
 • You don’t need to sleep. When you take a long rest, you must spend at least four hours in an inactive, motionless state, rather than sleeping. In this state, you remain semiconscious, and you can hear as normal.
 
 #### Inner Power: Share Undeath
 
-13th-level Undying soul feature
+Beginning at 13th level, when necromantic powers that give you life begin to unravel, those energies can affect those around you. If you drop to 0 hit points and don’t die outright, cast Raise Dead.
 
-When necromantic powers then give you life begin to unravel, those energies can affect those around you. If you drop to 0 hit points and don’t die outright, cast Raise Dead.
+#### Inner Power: Share Undeath
+
+Beginning at 17th level, 
+
+--------------------------------
 
 ### Elusive Soul
 
 dasuidhas charms and illusions
+- You eluded death - Illusions
+- Disguises and charms?
+
+#### Elusive Soul Spells
+
+##### 1st Level
+
+dancing lights
+silent image
+
+##### 2nd Level
+
+-
+
+##### 3rd Level
+
+-
+
+##### 4th Level
+
+-
+
+##### 5th Level
+
+-
+
+##### 6th Level
+
+-
+
+##### 7th Level
+
+etherealness
+
+#### Soul Nature: Shifting
+
+Beginning at 2nd level, 
 
 #### Inner Power: Evade death
 
-13th-level Elusive soul feature
+Beginning at 13th level, If you drop to 0 hit points and don’t die outright, become ethereal? Too like the other feature
 
-If you drop to 0 hit points and don’t die outright, become ethereal?
+#### Inner Power: Evade death
+
+Beginning at 17th level, If you drop to 0 hit points and don’t die outright, become ethereal? Too like the other feature
 
 ---
 
-
-
-
-
-The nature of your past death
-1. How you survived -> Subclass
-2. What you saw/learned
-3. How you died
-
-1. How you survived
-- 
-- You were resurrected and are undead. You are tougher, damage resistant, and have certain necromantic abilities
-- Vengeance is a powerful - damage etc
-- You eluded death - Illusions
-
-2. What you saw
-
-
-
-
-
 Notes
-- Disguises and charms?
-- Primary thing is Const
 - Some abilities require charisma? To win over the dead?
-- As theu weaken, they get weaker in some ways, but their connection to death increases.
-- Tougher to kill than most, with high const and damage resistances
-- Memories from past life
 - when under x health and dealt damage, unlock reactions - hellish rebuke, shield, misty step
 - Kill to unlock spell slots?
 - Damage done this turn becomes temp hit points?
@@ -330,10 +574,6 @@ You’ve had a soul-shaking realization: you’ve been dead before, yet somehow 
 
 Whatever force brought you back, you now know the truth about yourself: that you are one of death’s representatives among the living.
 
-
-
-
-
 # to sort
 - Tormented essence - you didn't die, you've been around death so frequently that you have become haunted. Either you killed a lot or were around people who died
 - How did you die?
@@ -341,4 +581,4 @@ Whatever force brought you back, you now know the truth about yourself: that you
 - You were murdered
 - you were old
 - you had a disease or illnesss
-- Roleplaying -> Make sure you have a lingering illness
+- Roleplaying -> Make sure you have a lingering illness or injury
