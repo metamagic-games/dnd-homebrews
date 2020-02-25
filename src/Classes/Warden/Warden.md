@@ -324,11 +324,9 @@ You were almost killed by another, but your anger and drive for vengeance brough
 | 6th | Harm |
 | 7th | Finger of Death |
 
-#### Soul Nature: Vengeful
+#### Soul Nature: Vengeance
 
-Beginning at 2nd level, As a bonus action, you ean utter a vow of enmity against a ereature you ean see within 10 feet of you. You gain the following benefits:
-- You gain advantage on attack rolls against the creature for 1 minute or until it drops to O hit points or falls unconscious.
-- Reduce healing done to target by 1d4 / Warden level
+Beginning at 2nd level, when you take damage, you can attack back as a reaction. 1 use per long rest.
 
 #### Inner Power: Audience with Death
 
