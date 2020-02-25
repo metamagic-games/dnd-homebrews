@@ -2,20 +2,26 @@
 
 Monks of the Way of the Selfless follow a tradition that condones self-sacrifice for the greater good. In line with that mindset, they have developed a number of techniques that unlock the full capabilities of the body, but risk its integrity in the process
 
+Unleash the energy reserves of the body in rapid explosive bursts, providing superhuman speed and agility for but a moment.
+No sooner is limit broken, that the energy reserve dries up,rendering the user a husk of their former self.
+
 ### Limit Break
 
-Starting when you choose this tradition at 3rd level, you can choose to use Limit Break to push you body beyond its limits and perform incredible feats.
+Starting when you choose this tradition at 3rd level, you can choose to use  Limit Break to push you body beyond its limits and perform incredible feats. When you move or attack, you can activate Limit Break as a reaction.
 
-When you activate limit break:
-- Gain 1 ki
-- Take 1d6 - constitution modifier damage
+When you activate limit break, you immediately:
+- Gain 1 ki (or 1 per exhaustion level???)
 - Gain a point of exhaustion
 
-For the duration of your turn:
-- Advantage on attacks
-- Advantage on ability checks
+Until your next turn:
+- You have advantage on attacks
+- Your attacks deal an additional 1d4 damage per level of exhaustion (???)
+- You have advantage on ability checks
 - You ignore the effects of exhaustion for this turn
 - You can perform the dash action as a bonus action
+- Enemies have disadvantage on ranged weapon attacks against you
+
+Basically the ability should be more powerful the more you use it, to make up for the harsh punishment of exhaustion
 
 ### Exhaustion
 
@@ -65,3 +71,17 @@ A deafened creature can’t hear and automatically fails any ability check that 
 ### Pressure Point
 
 At 17th level, you gain the ability to damage the bodies of your opponent. After a successful hit, you can expend a ki point to cripple your target. The must pass a constitution saving throw, or take a point of exhaustion.
+
+# Designer Notes
+
+## The Concept
+
+The idea behind this subclass is to capture that anime trope (exemplified by Rock Lee in Naruto) of - just when the enemy thinks you're down - unleashing unbridled energy.
+
+## Considerations
+
+This is a complex subclass to play. Limit Break provides an extremely powerful tool for the player, but using it too early in a fight or dungeon will leave the monk exposes.
+
+Allowing a player to use this monk also requires consideration from the DM. Limit Break has potential to be exploited, if the player remains in situations where long rests are always feasible.
+
+## Roleplaying notes

@@ -1,16 +1,18 @@
 ## Warden
 
-What is the raw magic that Necromancers tap into? What is the essence of life that Druids access within nature? Through what channels do divine beings restore life to the faithful? 
 
-At some point in a Warden's life, they were brought to the precipice of death, only to survive the experience. However, they never truly left death behind either. Caught in a limbo between life and death, Wardens have learned to harness this proximity to death, leveraging the terrible understanding they'vw gain from their experience.
 
-Wardens gain their connection through a proximity to death.
+What is the raw deathly magic that Necromancers tap into? What is the essence of life that Druids access within nature? Through what channels do divine beings restore life to the faithful?
+
+At some point in a warden's life, they were brought to the precipice of death, only to survive the experience. However, they never truly left death behind. Caught in a limbo between life and death, Wardens have learned to harness this proximity to death, leveraging the terrible understanding they've gain from their experience.
 
 ### Masters of Life and Death
 
-Wardens understand and access the essence of life itself, and can manipulate it through a raw connection to that essence.
+Wardens understand the essences of life and death, and can access and manipulate them through their raw connection to death.
 
-Most of all, Warden's can govern and manipulate their own soul, appearing differently to others,...
+Wardens gain their connection through a proximity to death.
+
+Wardens can govern and manipulate their own soul, appearing differently to others,...
 
 ### On the edge of death
 
@@ -73,7 +75,7 @@ The story of your death
 | :-: | :-: |
 | 1 | Soul Essence, Warden Spellcasting |
 | 2 | Essence Feature: Soul Nature |
-| 3 | - |
+| 3 | Mark for Death |
 | 4 | Ability Score Improvement |
 | 5 | Deathly Insights |
 | 6 | - |
@@ -100,91 +102,59 @@ Combine with the above later
 | 1  | 1 | - | - | - | - | - | - | - | - |
 | 2  | 1 | - | - | - | - | - | - | - | - |
 | 3  | 2 | 2 | 1 | - | - | - | - | - | - |
-| 4  | 2 | 3 | 1 | - | - | - | - | - | - |
-| 5  | 3 | 4 | 1 | 1 | - | - | - | - | - |
-| 6  | 3 | 4 | 1 | 1 | - | - | - | - | - |
-| 7  | 4 | 5 | 2 | 1 | 1 | - | - | - | - |
-| 8  | 4 | 5 | 2 | 1 | 1 | - | - | - | - |
-| 9  | 5 | 6 | 2 | 2 | 1 | 1 | - | - | - |
-| 10 | 5 | 6 | 2 | 2 | 1 | 1 | - | - | - |
-| 11 | 5 | 7 | 2 | 2 | 2 | 1 | 1 | - | - |
-| 12 | 5 | 7 | 2 | 2 | 2 | 1 | 1 | - | - |
-| 13 | 5 | 8 | 2 | 2 | 2 | 2 | 1 | 1 | - |
-| 14 | 5 | 8 | 2 | 2 | 2 | 2 | 1 | 1 | - |
-| 15 | 5 | 9 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
-| 16 | 5 | 9 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
-| 17 | 5 | 10 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
-| 18 | 5 | 10 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
-| 19 | 5 | 10 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
-| 20 | 5 | 10 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
+| 4  | 2 | 2 | 1 | - | - | - | - | - | - |
+| 5  | 3 | 3 | 1 | 1 | - | - | - | - | - |
+| 6  | 3 | 3 | 1 | 1 | - | - | - | - | - |
+| 7  | 4 | 4 | 2 | 1 | 1 | - | - | - | - |
+| 8  | 4 | 4 | 2 | 1 | 1 | - | - | - | - |
+| 9  | 4 | 5 | 2 | 2 | 1 | 1 | - | - | - |
+| 10 | 4 | 5 | 2 | 2 | 1 | 1 | - | - | - |
+| 11 | 4 | 6 | 2 | 2 | 2 | 1 | 1 | - | - |
+| 12 | 4 | 6 | 2 | 2 | 2 | 1 | 1 | - | - |
+| 13 | 4 | 7 | 2 | 2 | 2 | 2 | 1 | 1 | - |
+| 14 | 4 | 7 | 2 | 2 | 2 | 2 | 1 | 1 | - |
+| 15 | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
+| 16 | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
+| 17 | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
+| 18 | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
+| 19 | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
+| 20 | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
 
 ### Spellcasting
 
 As you learn to tap into the energies governing life and death, you can cast warden spells.
 
+Warden's lack the breadth of insight of other casters, but ... can cast a few spells many times
+
 #### Warden Spell List
 
 ##### Cantrips
 
-chill touch
-guidance
-mage hand
-minor illusion
-resistance
-spare the dying
-stabilise
-true strike
+chill touch, guidance, mage hand, minor illusion, resistance, spare the dying, stabilise, true strike
 
 ##### 1st Level
 
-bane
-dancing lights
-dissonant whispers
-healing word
-inflict wounds
-sanctuary
-silent image
+Arms of Hadar, Bane, Dancing lights
 
 ##### 2nd Level
 
-lesser restoration
-phantasmal force
-ray of enfeeblement
-revivify
+Phantasmal force
 
 ##### 3rd Level
 
-animate dead
-feign death
-mass healing word
-revivify
-speak with dead
-spirit guardians
-vampiric touch
+Animate dead, Feign death, Speak with dead, Spirit guardians
 
 ##### 4th Level
 
-antilife shell
-death ward
-phantasmal killer
+Antilife shell, death ward, Phantasmal Killer
 
 ##### 5th Level
 
-mass cure wounds
-raise dead
-reincarnate
+Raise dead, Reincarnate
 
 ##### 6th Level
 
-create undead
-heal
-
-##### 7th Level
-
-etherealness
-finger of death 
-regenerate 
-resurrection 
+Circle of death, Create undead
 
 #### Cantrips
 
@@ -234,6 +204,26 @@ At 13th level, you gain a further ability related to your soul's true nature.
 #### Essence Feature: Something
 
 At 17th level, you gain a further ability related to your soul's true nature.
+
+### Mark for Death
+
+When you reach 3rd level, 
+
+A target within 5ft
+Con save or
+Marked by necrotic energies
+Disadvantage on intimidation checks
+-1 healing
+1 target at a time
+Until that target takes a long rest? Or you
+If a marked target dies, heal off it
+
+Cantrip or ability? Probably ability
+Action, bonus action, or reaction to mark?
+
+#### Reap
+
+When you deal damage against a marked target, you may reap as a reaction, draining both of your life forces. You can choose to deal an additional 1d6 plus your constitution modifier to both the target and yourself.
 
 ### Ability Score Improvement
 
@@ -318,64 +308,61 @@ Beginning at 1st level, you begin to understand the essence of your soul, and ho
 
 --------------------------------
 
+### Vengeful Soul
+
+You were almost killed by another, but your anger and drive for vengeance brought you back.
+
+### Vengeful Soul Spells
+
+| Spell Level | Spells |
+| :-: | :-: |
+| 1st | Inflict Wounds, Ray of Sickness |
+| 2nd | Ray of Enfeeblement |
+| 3rd | Vampiric Touch |
+| 4th | Blight |
+| 5th | Destructive Wave |
+| 6th | Harm |
+| 7th | Finger of Death |
+
+#### Soul Nature: Vengeful
+
+Beginning at 2nd level, As a bonus action, you ean utter a vow of enmity against a ereature you ean see within 10 feet of you. You gain the following benefits:
+- You gain advantage on attack rolls against the creature for 1 minute or until it drops to O hit points or falls unconscious.
+- Reduce healing done to target by 1d4 / Warden level
+
+#### Inner Power: Audience with Death
+
+Beginning at 13th level, When at death’s door, you can converse with the powers of death. You have advantage on death saving throws, and whenever you make a death saving throw, your spirit can ask an entity of death a question that can be answered with “yes,” “no,” or “unknown.” The entity answers truthfully, using the knowledge of all those who have died.
+
+#### Inner Power: Mark of the Reaper
+
+Beginning at 17th level, your Mark for Death is upgraded.
+
+Whenever you take damage from a target, you can use a reaction to apply Mark for Death to them.
+
+Whilst a target is marked for death:
+- They cannot sleep
+- If they die, their soul cannot rest
+
+Whenever you attack a target marked with Mark of Death and choose to reap, you reap with an upgraded reap and no longer take damage. If that target dies, you heal for the damage dealt.
+
+--------------------------------
+
 ### Resilient Soul
 
-Your soul is naturally overflowing with lif-force. It has such raw energy that, where others would die, you are reborn. Healing
+Your soul is naturally overflowing with life-force. The magical energy of your soul manifests as a force that protects both you and others.
 
 #### Resilient Soul spells
 
 | Spell Level | Spells |
-| 1st | cure wounds, false life |
-| 2nd | lesser restoration, |
-| 3rd | revivify |
-| 4th | death ward, aura of life |
-| 5th | mass cure wounds, raise dead |
-| 6th | mass cure wounds, raise dead |
-| 7th | mass cure wounds, raise dead |
-
-##### 1st Level
-
-cure wounds
-false life
-
-##### 2nd Level
-
-lesser restoration
-phantasmal force
-ray of enfeeblement
-revivify
-
-##### 3rd Level
-
-animate dead
-feign death
-mass healing word
-revivify
-speak with dead
-spirit guardians
-vampiric touch
-
-##### 4th Level
-
-death ward
-
-##### 5th Level
-
-mass cure wounds
-raise dead
-reincarnate
-
-##### 6th Level
-
-create undead
-heal
-
-##### 7th Level
-
-etherealness
-finger of death 
-regenerate 
-resurrection 
+| :-: | :-: |
+| 1st | False life, Sanctuary |
+| 2nd | Aid |
+| 3rd | Aura of Vitality |
+| 4th | Stoneskin |
+| 5th |  |
+| 6th |  |
+| 7th | Regenerate |
 
 #### Soul Nature: Resilient
 
@@ -393,58 +380,6 @@ Once you use this feature, you can’t use it again until you finish a long rest
 
 --------------------------------
 
-### Vengeful Soul
-
-You were almost killed by another, but your anger and drive for vengeance brought you back.
-
-### Vengeful Soul Spells
-
-##### 1st Level
-
-bane
-inflict wounds
-
-##### 2nd Level
-
-ray of enfeeblement
-
-##### 3rd Level
-
-vampiric touch
-
-##### 4th Level
-
-antilife shell
-phantasmal killer
-
-##### 5th Level
-
--
-
-##### 6th Level
-
--
-
-##### 7th Level
-
-finger of death 
-
-#### Soul Nature: Vengeful
-
-Beginning at 2nd level, As a bonus action, you ean utter a vow of enmity against a ereature you ean see within 10 feet of you. You gain the following benefits:
-- You gain advantage on attack rolls against the creature for 1 minute or until it drops to O hit points or falls unconscious.
-- Reduce healing done to target by 1d4 / Warden level
-
-#### Inner Power: Audience with Death
-
-Beginning at 13th level, When at death’s door, you can converse with the powers of death. You have advantage on death saving throws, and whenever you make a death saving throw, your spirit can ask an entity of death a question that can be answered with “yes,” “no,” or “unknown.” The entity answers truthfully, using the knowledge of all those who have died.
-
-#### Inner Power: Reaper
-
-Beginning at 17th level, whenever you kill at enemy, regenerate health
-
---------------------------------
-
 ### Undying Soul
 
 Although you did actually die, you were resurrected and are undead. You are tougher, damage resistant, and have certain necromantic abilities
@@ -452,37 +387,15 @@ Although you did actually die, you were resurrected and are undead. You are toug
 
 #### Undying Soul Spells
 
-##### 1st Level
-
-healing word
-sanctuary
-
-##### 2nd Level
-
-lesser restoration
-revivify
-
-##### 3rd Level
-
-animate dead
-mass healing word
-
-##### 4th Level
-
--
-
-##### 5th Level
-
-mass cure wounds
-reincarnate
-
-##### 6th Level
-
-heal
-
-##### 7th Level
-
-regenerate 
+| Spell Level | Spells |
+| :-: | :-: |
+| 1st | Cure Wounds, Healing Word |
+| 2nd | Lesser Restoration |
+| 3rd | Mass Healing Word, Revivify |
+| 4th | Aura of Life |
+| 5th | Greater Restoration, Mass Cure Wounds |
+| 6th | Heal |
+| 7th | Resurrection |
 
 #### Soul Nature: Eternal
 
@@ -509,34 +422,15 @@ dasuidhas charms and illusions
 
 #### Elusive Soul Spells
 
-##### 1st Level
-
-dancing lights
-silent image
-
-##### 2nd Level
-
--
-
-##### 3rd Level
-
--
-
-##### 4th Level
-
--
-
-##### 5th Level
-
--
-
-##### 6th Level
-
--
-
-##### 7th Level
-
-etherealness
+| Spell Level | Spells |
+| :-: | :-: |
+| 1st | Dissonant Whispers, Silent Image |
+| 2nd | Misty Step |
+| 3rd | Blink |
+| 4th | Leomund's Secret Chest |
+| 5th | Greater Invisibility |
+| 6th | Wind Walk |
+| 7th | Etherealness |
 
 #### Soul Nature: Shifting
 
