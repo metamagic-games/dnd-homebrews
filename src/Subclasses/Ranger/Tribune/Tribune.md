@@ -7,9 +7,7 @@ At 3rd level, a ranger gains the Ranger Archetype feature. The following options
 
 ## Tribune
 
-Though most with magical abilities embrace their talents, some fear the power of the magic they hold. That fear consumes some, and many lose or never develop their latent magic abilities. As a fear of magic consumes these cursed few, they find the cannot help but to negate and consume magic, and are even able to turn spells upon their original casters.
-
-Tribune are rare and their abilities are prized: they make ideal assassins for magic-weilding targets, as well as powerful Rangers in lands where magic creatures run rampant. Young Tribunes are often forced into servitude as body guards or hitmen by those who fear magic. This servitude, and the deeds they are forced to perform, take their toll on a Tribune.
+Though most with magical abilities embrace their talents, some fear the power of the magic they hold. The universe is full of terrible magical entities, and those that have seen what magic can do in the wrong hands may reject it. As that fear grows, and many lose or never develop their latent magic abilities, whilst other nurture the power to negate and consume magic, even able to turn spells upon their original casters.
 
 A Tribune's self-hatred undermines and isolates them, and after years of wandering alone, hunting the arcane, they may come across as damaged and unhinged, even insane. However, they will protect their allies fiercely, even in the face of terrifying power.
 

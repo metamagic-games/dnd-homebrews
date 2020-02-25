@@ -1,4 +1,4 @@
-# Way of the Selfless
+## Way of the Selfless
 
 Monks of the Way of the Selfless follow a tradition that condones self-sacrifice for the greater good. In line with that mindset, they have developed a number of techniques that unlock the full capabilities of the body, but risk its integrity in the process
 
