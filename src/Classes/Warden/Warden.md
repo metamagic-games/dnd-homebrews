@@ -84,14 +84,6 @@ You start with the following equipment, in addition to the equipment granted by 
 | 19 | Ability Score Improvement          | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
 | 20 | Deal with Death                    | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
 
-[NOTE - features tell the story of your death]
-1.  Soul Essence - your subclass, who you are
-1.  Essence feature: Nature - how you survived
-5.  Life Lesson - lvl 5, what you saw
-10.  - How you died
-13. Essence feature: Inner Power
-15. Unlikely Ally - Spirits you have influence over
-
 ### Spellcasting
 
 As you learn to tap into the energies governing life and death, you can cast warden spells.
