@@ -20,6 +20,8 @@ As you create a warden, the most important thing to consider is the circumstance
 
 Also consider who you were before that event. How much did your death change you?
 
+Make sure you have a lingering illness or injury?
+
 #### Quick Build
 
 You can make a warden quickly by following these suggestions. First, Constitution should be your highest ability score, followed by Charisma or Wisdom. Second, choose the outlander background.
@@ -59,16 +61,6 @@ You start with the following equipment, in addition to the equipment granted by 
 - an explorer's pack
 - a relic of a past life - a simple non-functional possession, such as a picture, a letter, or simple clothing.
 
-[NOTE]
-The story of your death
-1. Soul Essence - your subclass, who you are
-1. Essence feature: Nature - how you survived
-5. Life Lesson - lvl 5, what you saw
-10.  - How you died
-13. Essence feature: Inner Power
-15. Unlikely Ally - Spirits you have influence over
-
-| - | - | Spell Slots |
 | Level | Features                        | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th |
 | :-:| :-:                                | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1  | Soul Essence, Warden Spellcasting  | 1 | - | - | - | - | - | - | - | - |
@@ -80,17 +72,25 @@ The story of your death
 | 7  | Uncanny Cadaver                    | 4 | 4 | 2 | 1 | 1 | - | - | - | - |
 | 8  | Ability Score Improvement          | 4 | 4 | 2 | 1 | 1 | - | - | - | - |
 | 9  | -                                  | 4 | 5 | 2 | 2 | 1 | 1 | - | - | - |
-| 10 | SOMETHING ( How you died )         | 4 | 5 | 2 | 2 | 1 | 1 | - | - | - |
+| 10 | Brush with Death                   | 4 | 5 | 2 | 2 | 1 | 1 | - | - | - |
 | 11 | Spectral Vision                    | 4 | 6 | 2 | 2 | 2 | 1 | 1 | - | - |
 | 12 | Ability Score Improvement          | 4 | 6 | 2 | 2 | 2 | 1 | 1 | - | - |
-| 13 | Essence feature: Inner Power       | 4 | 7 | 2 | 2 | 2 | 2 | 1 | 1 | - |
+| 13 | Essence Feature: Inner Power       | 4 | 7 | 2 | 2 | 2 | 2 | 1 | 1 | - |
 | 14 | -                                  | 4 | 7 | 2 | 2 | 2 | 2 | 1 | 1 | - |
 | 15 | Allies in death                    | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
 | 16 | Ability Score Improvement          | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
-| 17 | Essence Feature: SOMETHING         | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
+| 17 | Essence Feature: Last Gasp         | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
 | 18 | Undead Resilience                  | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
 | 19 | Ability Score Improvement          | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
 | 20 | Deal with Death                    | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
+
+[NOTE - features tell the story of your death]
+1.  Soul Essence - your subclass, who you are
+1.  Essence feature: Nature - how you survived
+5.  Life Lesson - lvl 5, what you saw
+10.  - How you died
+13. Essence feature: Inner Power
+15. Unlikely Ally - Spirits you have influence over
 
 ### Spellcasting
 
@@ -102,31 +102,47 @@ Wardens lack the breadth of insight of other casters but, as they grow in power,
 
 ##### Cantrips
 
-Chill touch, Guidance, Mage hand, Minor illusion, Resistance, Spare the dying, Stabilise, True strike
+_chill touch_
+_guidance_
+_mage hand_
+_minor illusion_
+_resistance_
+_spare the dying_
+_stabilise_
+_true strike_
 
 ##### 1st Level
 
-Arms of Hadar, Bane, Dancing lights
+_arms of hadar_
+_bane_
+_dancing lights_
 
 ##### 2nd Level
 
-Phantasmal force
+_phantasmal force_
 
 ##### 3rd Level
 
-Animate dead, Feign death, Speak with dead, Spirit guardians
+_animate dead_
+_feign death_
+_speak with dead_
+_spirit guardians_
 
 ##### 4th Level
 
-Antilife shell, Death ward, Phantasmal Killer
+_antilife shell_
+_death ward_
+_phantasmal killer_
 
 ##### 5th Level
 
-Raise dead, Reincarnate
+_raise dead_
+_reincarnate_
 
 ##### 6th Level
 
-Circle of death, Create undead
+_circle of death_
+_create undead_
 
 #### Cantrips
 
@@ -175,29 +191,25 @@ At 2nd level, you gain an ability related to your soul's true nature.
 
 At 13th level, you gain a further ability related to your soul's true nature.
 
-#### Essence Feature: Something
+#### Essence Feature: Last Gasp
 
-At 17th level, you gain a further ability related to your soul's true nature.
+At 17th level, you gain a further ability related to your soul's true nature that manifests when you die or reach the brink of death.
 
 ### Mark for Death
 
-When you reach 3rd level, 
+When you reach 3rd level, you can mark a target within 15ft as a bonus action, cursed by dark necrotic energies. They must take a constitution saving throw or become marked for death.
 
-A target within 5ft
-Con save or
-Marked by necrotic energies
-Disadvantage on intimidation checks
--1 healing
-1 target at a time
-Until that target takes a long rest? Or you
-If a marked target dies, heal off it
+Targets marked for death remain so until they take a long rest, or you mark another target.
 
-Cantrip or ability? Probably ability
-Action, bonus action, or reaction to mark?
+The target has the following disadvantages:
+- Whenever the target is healed, that healing is reduced by 1d4.
+- Characters have advantage on intimidation checks against the target.
+
+If a marked target dies, gain 1d12 health.
 
 #### Reap
 
-When you deal damage against a marked target, you may reap as a reaction, draining both of your life forces. You can choose to deal an additional 1d6 plus your constitution modifier to both the target and yourself.
+When you deal damage against a marked target, you may reap as a reaction, draining both of your life forces. When you reap, you deal an additional 1d6 plus your constitution modifier to both the target and yourself.
 
 ### Ability Score Improvement
 
@@ -240,9 +252,13 @@ Beginning at 7th level, you can:
 - Cast the reverse of feign death - feign life - on a corpse
 - Disguise a corpse as the corpse of another
 
-### dhauidas
+### Brush with Death
 
-Beginning at 10th level, you remember how you died
+Beginning at 10th level, you remember how you died or came to the brink of death.
+
+You gain the ability to project a vision of this experience into the minds of others. As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warden spell save DC. The creatures that fail their saving throws are all frightened by you until the end of your next turn. 
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ### Spectral Vision
 
@@ -272,11 +288,11 @@ Beginning at 18th level, your time spent among spirits and undead has toughened 
 
 ### Deal with Death
 
-Beginning at 20th level, you can exchange your life for another's, and die in their place.
+Beginning at 20th level, you can exchange your life for another's, and die in their place. When a target within 15 feet of you dies, you die instead. That target is restored to full health. [You cannot be brought back to life with the spell Resurrection?]. 
 
 ## Soul Essence
 
-Beginning at 1st level, you begin to understand the essence of your soul, and how it was changed by it's proximity to death. / how you survived because of its nature.
+Beginning at 1st level, you begin to understand the essence of your soul, and how you survived your experiences because of its true nature. As your powers grow, you begin to understand how it has been changed by this proximity to death.
 
 ### Vengeful Soul
 
@@ -286,27 +302,21 @@ You were almost killed by another, but your anger and drive for vengeance brough
 
 | Spell Level | Spells |
 | :-: | :-: |
-| 1st | Inflict Wounds, Ray of Sickness |
-| 2nd | Ray of Enfeeblement |
-| 3rd | Vampiric Touch |
-| 4th | Blight |
-| 5th | Destructive Wave |
-| 6th | Harm |
-| 7th | Finger of Death |
+| 1st | _inflict wounds, ray of sickness_ |
+| 2nd | _ray of enfeeblement_ |
+| 3rd | _vampiric touch_ |
+| 4th | _blight_ |
+| 5th | _destructive wave_ |
+| 6th | _harm_ |
+| 7th | _finger of death_ |
 
 #### Soul Nature: Vengeful
 
-Beginning at 2nd level, As a bonus action, you ean utter a vow of enmity against a ereature you ean see within 10 feet of you. You gain the following benefits:
-- You gain advantage on attack rolls against the creature for 1 minute or until it drops to O hit points or falls unconscious.
-- Reduce healing done to target by 1d4 / Warden level
-
-#### Inner Power: Audience with Death
-
-Beginning at 13th level, When at death’s door, you can converse with the powers of death. You have advantage on death saving throws, and whenever you make a death saving throw, your spirit can ask an entity of death a question that can be answered with “yes,” “no,” or “unknown.” The entity answers truthfully, using the knowledge of all those who have died.
+Beginning at 2nd level, after the target of you Mark for Death damages you, you can attack them as a reaction.
 
 #### Inner Power: Mark of the Reaper
 
-Beginning at 17th level, your Mark for Death is upgraded.
+Beginning at 13th level, your Mark for Death is upgraded.
 
 Whenever you take damage from a target, you can use a reaction to apply Mark for Death to them.
 
@@ -314,54 +324,57 @@ Whilst a target is marked for death:
 - They cannot sleep
 - If they die, their soul cannot rest
 
-Whenever you attack a target marked with Mark of Death and choose to reap, you reap with an upgraded reap and no longer take damage. If that target dies, you heal for the damage dealt.
+Whenever you attack a target marked with Mark of Death and choose to reap, you reap with an upgraded reap and no longer take damage. If that target dies, you heal for an additional 1d12.
+
+#### Last Gasp: Haunt
+
+When you are killed by a target, you can come back as a ghost and really annoy them xD
 
 ### Resilient Soul
 
-Your soul is naturally overflowing with life-force. The magical energy of your soul manifests as a force that protects both you and others.
+Your soul is naturally overflowing with life-force. The energy of your soul manifests as a force that protects both you and others.
 
 #### Resilient Soul spells
 
 | Spell Level | Spells |
 | :-: | :-: |
-| 1st | False life, Sanctuary |
-| 2nd | Aid |
-| 3rd | Aura of Vitality |
-| 4th | Stoneskin |
-| 5th | ? |
-| 6th | ? |
-| 7th | Regenerate |
+| 1st | _false life, sanctuary_ |
+| 2nd | _aid_ |
+| 3rd | _aura of vitality_ |
+| 4th | _stoneskin_ |
+| 5th | _?_ |
+| 6th | _?_ |
+| 7th | _regenerate_ |
 
 #### Soul Nature: Resilient
 
-Beginning at 2nd level,
-Life drain?
-- You were resurrected and are undead. You are tougher, damage resistant, and have certain necromantic abilities
+Beginning at 2nd level, you gain resistance to one of the following types of damage: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, and thunder.
 
-#### Inner Power: Enduring Essence
+#### Inner Power: Necrotic Shield
 
-13th-level Resilient Soul feature
+Beginning at 13th level, when you would take damage, you can use a reaction to gain 1AC. You can use this feature three times between long rests.
 
-Your soul is brimming with life-force. If you drop to 0 hit points and don’t die outright, you drop to 1 hit point instead and gain temporary hit points equal to five times your warden level, and each creature of your choice within 30 feet of you that you can see takes necrotic damage equal to 2d10 + your warden level.
+#### Last Gasp: Second Wind
+
+Beginning at 17th level, your life-force becomes near unstoppable. If you drop to 0 hit points and don’t die outright, you drop to 1 hit point instead and gain temporary hit points equal to five times your warden level, and each creature of your choice within 30 feet of you that you can see takes necrotic damage equal to 2d10 + your warden level.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
 
 ### Undying Soul
 
-Although you did actually die, you were resurrected and are undead. You are tougher, damage resistant, and have certain necromantic abilities
-- Vengeance is a powerful - damage etc
+Although you did actually die, you were resurrected and are undead. You have come back tougher, damage resistant, and have certain necromantic abilities.
 
 #### Undying Soul Spells
 
 | Spell Level | Spells |
 | :-: | :-: |
-| 1st | Cure Wounds, Healing Word |
-| 2nd | Lesser Restoration |
-| 3rd | Mass Healing Word, Revivify |
-| 4th | Aura of Life |
-| 5th | Greater Restoration, Mass Cure Wounds |
-| 6th | Heal |
-| 7th | Resurrection |
+| 1st | _cure wounds, healing word_ |
+| 2nd | _lesser restoration_ |
+| 3rd | _mass healing word, revivify_ |
+| 4th | _aura of life_ |
+| 5th | _greater restoration, mass cure wounds_ |
+| 6th | _heal_ |
+| 7th | _resurrection_ |
 
 #### Soul Nature: Eternal
 
@@ -374,39 +387,39 @@ Beginning at 2nd level, you have the following benefits:
 
 Beginning at 13th level, when necromantic powers that give you life begin to unravel, those energies can affect those around you. If you drop to 0 hit points and don’t die outright, cast Raise Dead.
 
-#### Something: Something
+#### Last Gasp: Audience with Death
 
-Beginning at 17th level, 
+Beginning at 17th level, when at death’s door, you can converse with the powers of death. You have advantage on death saving throws, and whenever you make a death saving throw, your spirit can ask an entity of death a question that can be answered with “yes,” “no,” or “unknown.” The entity answers truthfully, using the knowledge of all those who have died.
 
 ### Elusive Soul
 
-dasuidhas charms and illusions
-- You eluded death - Illusions
-- Disguises and charms?
+You eluded the forces of death through charms and illusions. You brush of death through the subtle nature of your soul, even dancing between the material and ethereal planes.
 
 #### Elusive Soul Spells
 
 | Spell Level | Spells |
 | :-: | :-: |
-| 1st | Dissonant Whispers, Silent Image |
-| 2nd | Misty Step |
-| 3rd | Blink |
-| 4th | Leomund's Secret Chest |
-| 5th | Greater Invisibility |
-| 6th | Wind Walk |
-| 7th | Etherealness |
+| 1st | _dissonant whispers, silent image_ |
+| 2nd | _misty step_ |
+| 3rd | _blink_ |
+| 4th | _leomund's secret chest_ |
+| 5th | _greater invisibility_ |
+| 6th | _wind walk_ |
+| 7th | _etherealness_ |
 
 #### Soul Nature: Shifting
 
-Beginning at 2nd level, 
+Beginning at 2nd level, you can cast the spell Disguise Self. You gain advantage on deception whilst in this disguised form.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
 
 #### Inner Power: Evade death
 
-Beginning at 13th level, If you drop to 0 hit points and don’t die outright, become ethereal? Too like the other feature
+Beginning at 13th level, once per short rest, when you would take damage, you can use a reaction to become ethereal. This effect lasts until your next turn.
 
-#### Something: Evade death
+#### Last Gasp: Escape
 
-Beginning at 17th level, 
+Beginning at 17th level, randomly teleport to some other plane?
 
 -------
 
@@ -423,11 +436,4 @@ Stories
 - Ritual spell
 - Not patron like, more a looses association - might offer to avenge spirit, and that spirit will help for that quest
 
-# to sort
 - Tormented essence - you didn't die, you've been around death so frequently that you have become haunted. Either you killed a lot or were around people who died
-- How did you die?
-- Your spirit was detached from your body
-- You were murdered
-- you were old
-- you had a disease or illnesss
-- Roleplaying -> Make sure you have a lingering illness or injury
