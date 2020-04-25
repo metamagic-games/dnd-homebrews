@@ -1,7 +1,5 @@
 ## Warden
 
-
-
 What is the raw deathly magic that Necromancers tap into? What is the essence of life that Druids access within nature? Through what channels do divine beings restore life to the faithful?
 
 At some point in a warden's life, they were brought to the precipice of death, only to survive the experience. However, they never truly left death behind. Caught in a limbo between life and death, Wardens have learned to harness this proximity to death, leveraging the terrible understanding they've gain from their experience.
@@ -16,6 +14,10 @@ Wardens can govern and manipulate their own soul, appearing differently to other
 
 ### On the edge of death
 
+You’ve had a soul-shaking realization: you’ve been dead before, yet somehow you are alive again. This life isn’t your first; it might not even be your second. Your past life, or lives, are unclear to you, but you know that you passed through the gates of death. And the powers of death, or some other influence, wasn’t done with you. 
+
+Whatever force brought you back, you now know the truth about yourself: that you are one of death’s representatives among the living.
+
 Death is something that remains with Wardens
 
 ### Creating a Warden
@@ -26,7 +28,7 @@ Also consider who you were before that event. How much did your death change you
 
 #### Quick Build
 
-You can makea. warden quickly by following these suggestions. First, Constitution should be your highest ability score, followed by Charisma or Wisdom. Second, choose the outlander background.
+You can make a warden quickly by following these suggestions. First, Constitution should be your highest ability score, followed by Charisma or Wisdom. Second, choose the outlander background.
 
 ## Class Features
 
@@ -94,7 +96,7 @@ The story of your death
 | 19 | Ability Score Improvement |
 | 20 | Deal with Death |
 
-Combine with the above later
+[Combine with the above later]
 
 | - | - | Spell Slots |
 | Level | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th |
@@ -166,6 +168,8 @@ At 1st level, you know two cantrips of your choice from the warden spell list. Y
 
 The Warden table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
+[Note that you do not need to prepare spells?]
+
 The power of your spells comes from the strength of your soul, and whenever you cast a spell, you consume some of that life-force. When you attempt to cast a spell, you first take 1d4 of damage. This damage does not interup your concentration.
 
 #### Spellcasting Ability
@@ -187,11 +191,11 @@ You can use your relic of a past life as a spellcasting focus for your warden sp
 
 ### Soul Essence
 
-From 1st level, you.... When you miraculously came back from the brink of death, you discovered something about your soul's very essence. It was this unique aspect of your soul which saved you from death. Choose one of the following options: Resilient Soul, Vengeful Soul, Undying Soul, Elusive Soul.
+From 1st level, your soul's essence becomes apparent. When you miraculously came back from the brink of death, it was this unique aspect of your soul which saved you. Choose one of the following options: Resilient Soul, Vengeful Soul, Undying Soul, Elusive Soul.
 
 #### Essence Spells
 
-Each Essence has a list of spells - its essence spells - that you gain at the warden leveis noted in the essence description. Once you gain a essence spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a essence spell that doesn't appear on the warden spellist, the spell is nonetheless a warden spell for YOU.
+Each Essence has a list of spells - its essence spells - that you gain at the warden levels noted in the essence description. If you have a essence spell that doesn't appear on the warden spellist, the spell is nonetheless a warden spell for YOU.
 
 #### Essence Feature: Soul Nature
 
@@ -324,9 +328,11 @@ You were almost killed by another, but your anger and drive for vengeance brough
 | 6th | Harm |
 | 7th | Finger of Death |
 
-#### Soul Nature: Vengeance
+#### Soul Nature: Vengeful
 
-Beginning at 2nd level, when you take damage, you can attack back as a reaction. 1 use per long rest.
+Beginning at 2nd level, As a bonus action, you ean utter a vow of enmity against a ereature you ean see within 10 feet of you. You gain the following benefits:
+- You gain advantage on attack rolls against the creature for 1 minute or until it drops to O hit points or falls unconscious.
+- Reduce healing done to target by 1d4 / Warden level
 
 #### Inner Power: Audience with Death
 
@@ -406,7 +412,7 @@ Beginning at 2nd level, you have the following benefits:
 
 Beginning at 13th level, when necromantic powers that give you life begin to unravel, those energies can affect those around you. If you drop to 0 hit points and don’t die outright, cast Raise Dead.
 
-#### Inner Power: Share Undeath
+#### Something: Something
 
 Beginning at 17th level, 
 
@@ -438,18 +444,15 @@ Beginning at 2nd level,
 
 Beginning at 13th level, If you drop to 0 hit points and don’t die outright, become ethereal? Too like the other feature
 
-#### Inner Power: Evade death
+#### Something: Evade death
 
-Beginning at 17th level, If you drop to 0 hit points and don’t die outright, become ethereal? Too like the other feature
+Beginning at 17th level, 
 
 ---
 
 Notes
 - Some abilities require charisma? To win over the dead?
-- when under x health and dealt damage, unlock reactions - hellish rebuke, shield, misty step
 - Kill to unlock spell slots?
-- Damage done this turn becomes temp hit points?
-- 
 
 Stories
 - Died in the past and some aspect of that death bridges a connectino to life itself
@@ -459,12 +462,6 @@ Stories
 - Talk to tdead with and guided by spirits
 - Ritual spell
 - Not patron like, more a looses association - might offer to avenge spirit, and that spirit will help for that quest
-
-Even communing with the dead.
-
-You’ve had a soul-shaking realization: you’ve been dead before, yet somehow you are alive again. This life isn’t your first; it might not even be your second. Your past life, or lives, are unclear to you, but you know that you passed through the gates of death. And the powers of death, or some other influence, wasn’t done with you. 
-
-Whatever force brought you back, you now know the truth about yourself: that you are one of death’s representatives among the living.
 
 # to sort
 - Tormented essence - you didn't die, you've been around death so frequently that you have become haunted. Either you killed a lot or were around people who died
