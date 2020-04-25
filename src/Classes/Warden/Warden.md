@@ -94,47 +94,47 @@ Wardens lack the breadth of insight of other casters but, as they grow in power,
 
 ##### Cantrips
 
-_chill touch_
-_guidance_
-_mage hand_
-_minor illusion_
-_resistance_
-_spare the dying_
-_stabilise_
-_true strike_
+_chill touch_  
+_guidance_  
+_mage hand_  
+_minor illusion_  
+_resistance_  
+_spare the dying_  
+_stabilise_  
+_true strike_  
 
 ##### 1st Level
 
-_arms of hadar_
-_bane_
-_dancing lights_
+_arms of hadar_  
+_bane_  
+_dancing lights_  
 
 ##### 2nd Level
 
-_phantasmal force_
+_phantasmal force_  
 
 ##### 3rd Level
 
-_animate dead_
-_feign death_
-_speak with dead_
-_spirit guardians_
+_animate dead_  
+_feign death_  
+_speak with dead_  
+_spirit guardians_  
 
 ##### 4th Level
 
-_antilife shell_
-_death ward_
-_phantasmal killer_
+_antilife shell_  
+_death ward_  
+_phantasmal killer_  
 
 ##### 5th Level
 
-_raise dead_
-_reincarnate_
+_raise dead_  
+_reincarnate_  
 
 ##### 6th Level
 
-_circle of death_
-_create undead_
+_circle of death_  
+_create undead_  
 
 #### Cantrips
 
