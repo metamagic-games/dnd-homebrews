@@ -2,27 +2,21 @@
 
 What is the raw deathly magic that Necromancers tap into? What is the essence of life that Druids access within nature? Through what channels do divine beings restore life to the faithful?
 
-At some point in a warden's life, they were brought to the precipice of death, only to survive the experience. However, they never truly left death behind. Caught in a limbo between life and death, Wardens have learned to harness this proximity to death, leveraging the terrible understanding they've gain from their experience.
-
-### Masters of Life and Death
-
-Wardens understand the essences of life and death, and can access and manipulate them through their raw connection to death.
-
-Wardens gain their connection through a proximity to death.
-
-Wardens can govern and manipulate their own soul, appearing differently to others,...
+At some point in a warden's life, they were brought to the precipice of death, only to survive the experience. However, they never truly left death behind. Caught in a limbo between life and death, Wardens have learned to harness this proximity to the essence of life, leveraging the terrible understanding they've gain from their experience.
 
 ### On the edge of death
 
-You’ve had a soul-shaking realization: you’ve been dead before, yet somehow you are alive again. This life isn’t your first; it might not even be your second. Your past life, or lives, are unclear to you, but you know that you passed through the gates of death. And the powers of death, or some other influence, wasn’t done with you. 
+You’ve had a soul-shaking realization: maybe you’ve been dead before, yet somehow you are alive again; maybe you were almost killed, but survived by the skin of your teeth. One thing is for sure: who you are now is not who you once were. Your past life, or lives, are unclear to you, but you know that the shadow of death looms close by.
 
-Whatever force brought you back, you now know the truth about yourself: that you are one of death’s representatives among the living.
+Through whatever means you survived your near-death experience, you now know the truth about yourself: that you are one of death’s representatives among the living. This is something that remains with Wardens throughout the rest of their lives. At times, it is a curse, distancing them from those around them, and at times, it is a blessing, giving them power over life itself.
 
-Death is something that remains with Wardens
+### Masters of Life and Death
+
+Wardens understand the essence of life and death, and can access and manipulate them through their raw connection to this force. Wardens gain their connection through both their knowledge and insights of the other side, and an inner power that resides in their soul.
 
 ### Creating a Warden
 
-As you create a warden, the most important thing to consider is the circumstances of your near-death. As your warden levels up, they begin to remember how they survived death, what they saw in that moment, and, crucially, how they died. It is this event that defines who your warden is today, and as your character begins to piece together what happened to them, their influence over life and death grows more potent.
+As you create a warden, the most important thing to consider is the circumstances of your brush with death. As your warden levels up, they begin to remember how they survived death, what they saw in that moment, and, crucially, how they died. It is this event that defines who your warden is today, and as your character begins to piece together what happened to them, their influence over life and death grows more potent.
 
 Also consider who you were before that event. How much did your death change you?
 
@@ -65,6 +59,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - an explorer's pack
 - a relic of a past life - a simple non-functional possession, such as a picture, a letter, or simple clothing.
 
+[NOTE]
 The story of your death
 1. Soul Essence - your subclass, who you are
 1. Essence feature: Nature - how you survived
@@ -73,66 +68,41 @@ The story of your death
 13. Essence feature: Inner Power
 15. Unlikely Ally - Spirits you have influence over
 
-| Level | Features |
-| :-: | :-: |
-| 1 | Soul Essence, Warden Spellcasting |
-| 2 | Essence Feature: Soul Nature |
-| 3 | Mark for Death |
-| 4 | Ability Score Improvement |
-| 5 | Deathly Insights |
-| 6 | - |
-| 7 | Uncanny Cadaver  |
-| 8 | Ability Score Improvement |
-| 9 | - |
-| 10 | SOMETHING ( How you died ) |
-| 11 | Spectral Vision |
-| 12 | Ability Score Improvement |
-| 13 | Essence feature: Inner Power |
-| 14 | - |
-| 15 | Allies in death (Sprits that aid you) |
-| 16 | Ability Score Improvement |
-| 17 | Essence Feature: SOMETHING |
-| 18 | Undead Resilience |
-| 19 | Ability Score Improvement |
-| 20 | Deal with Death |
-
-[Combine with the above later]
-
 | - | - | Spell Slots |
-| Level | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1  | 1 | - | - | - | - | - | - | - | - |
-| 2  | 1 | - | - | - | - | - | - | - | - |
-| 3  | 2 | 2 | 1 | - | - | - | - | - | - |
-| 4  | 2 | 2 | 1 | - | - | - | - | - | - |
-| 5  | 3 | 3 | 1 | 1 | - | - | - | - | - |
-| 6  | 3 | 3 | 1 | 1 | - | - | - | - | - |
-| 7  | 4 | 4 | 2 | 1 | 1 | - | - | - | - |
-| 8  | 4 | 4 | 2 | 1 | 1 | - | - | - | - |
-| 9  | 4 | 5 | 2 | 2 | 1 | 1 | - | - | - |
-| 10 | 4 | 5 | 2 | 2 | 1 | 1 | - | - | - |
-| 11 | 4 | 6 | 2 | 2 | 2 | 1 | 1 | - | - |
-| 12 | 4 | 6 | 2 | 2 | 2 | 1 | 1 | - | - |
-| 13 | 4 | 7 | 2 | 2 | 2 | 2 | 1 | 1 | - |
-| 14 | 4 | 7 | 2 | 2 | 2 | 2 | 1 | 1 | - |
-| 15 | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
-| 16 | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
-| 17 | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
-| 18 | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
-| 19 | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
-| 20 | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
+| Level | Features                        | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th |
+| :-:| :-:                                | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 1  | Soul Essence, Warden Spellcasting  | 1 | - | - | - | - | - | - | - | - |
+| 2  | Essence Feature: Soul Nature       | 1 | - | - | - | - | - | - | - | - |
+| 3  | Mark for Death                     | 2 | 2 | 1 | - | - | - | - | - | - |
+| 4  | Ability Score Improvement          | 2 | 2 | 1 | - | - | - | - | - | - |
+| 5  | Deathly Insights                   | 3 | 3 | 1 | 1 | - | - | - | - | - |
+| 6  | -                                  | 3 | 3 | 1 | 1 | - | - | - | - | - |
+| 7  | Uncanny Cadaver                    | 4 | 4 | 2 | 1 | 1 | - | - | - | - |
+| 8  | Ability Score Improvement          | 4 | 4 | 2 | 1 | 1 | - | - | - | - |
+| 9  | -                                  | 4 | 5 | 2 | 2 | 1 | 1 | - | - | - |
+| 10 | SOMETHING ( How you died )         | 4 | 5 | 2 | 2 | 1 | 1 | - | - | - |
+| 11 | Spectral Vision                    | 4 | 6 | 2 | 2 | 2 | 1 | 1 | - | - |
+| 12 | Ability Score Improvement          | 4 | 6 | 2 | 2 | 2 | 1 | 1 | - | - |
+| 13 | Essence feature: Inner Power       | 4 | 7 | 2 | 2 | 2 | 2 | 1 | 1 | - |
+| 14 | -                                  | 4 | 7 | 2 | 2 | 2 | 2 | 1 | 1 | - |
+| 15 | Allies in death                    | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
+| 16 | Ability Score Improvement          | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
+| 17 | Essence Feature: SOMETHING         | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
+| 18 | Undead Resilience                  | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
+| 19 | Ability Score Improvement          | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
+| 20 | Deal with Death                    | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
 
 ### Spellcasting
 
 As you learn to tap into the energies governing life and death, you can cast warden spells.
 
-Warden's lack the breadth of insight of other casters, but ... can cast a few spells many times
+Wardens lack the breadth of insight of other casters but, as they grow in power, can cast learn to limited number of spells many times.
 
 #### Warden Spell List
 
 ##### Cantrips
 
-chill touch, guidance, mage hand, minor illusion, resistance, spare the dying, stabilise, true strike
+Chill touch, Guidance, Mage hand, Minor illusion, Resistance, Spare the dying, Stabilise, True strike
 
 ##### 1st Level
 
@@ -148,7 +118,7 @@ Animate dead, Feign death, Speak with dead, Spirit guardians
 
 ##### 4th Level
 
-Antilife shell, death ward, Phantasmal Killer
+Antilife shell, Death ward, Phantasmal Killer
 
 ##### 5th Level
 
@@ -237,14 +207,6 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 Beginning at 5th level, you learn something about the nature of death, and are able to exploit it. At your closest to death, you saw and understood an aspect of the nature of death and the dead. Choose one of the following options.
 
-##### Borrowed Capabilities
-
-| d3 | Capability |
-| :-: | :-: |
-| 01 | You learn how to speak, read, and write one language of your choice. |
-| 02 | You gain one skill or tool proficiency of your choice. |
-| 03 | You gain proficiency with one saving throw of your choice. |
-
 #### Last Gasp
 
 When you are within 5 foot of a corpse, as an action you can create a link with a spirit through their corpse. When you do so, you cast the _speak with dead_ spell, without using a spell slot or material components. Intelligence is your spellcasting ability for this spell.
@@ -262,6 +224,14 @@ This ability can only be cast once on a given corpse.
 You learned the excruciating experience that death truly is.
 
 When a creature within 15 feet of you drops to 0 hit points, you can use a reaction to share the pain with others. Cast bane for free on all nearby targets. You gain one random benefit from the Borrowed Capabilities table. The benefit lasts until you finish a short or long rest.
+
+##### Borrowed Capabilities
+
+| d3 | Capability |
+| :-: | :-: |
+| 01 | You learn how to speak, read, and write one language of your choice. |
+| 02 | You gain one skill or tool proficiency of your choice. |
+| 03 | You gain proficiency with one saving throw of your choice. |
 
 ### Uncanny Cadaver
 
@@ -304,13 +274,9 @@ Beginning at 18th level, your time spent among spirits and undead has toughened 
 
 Beginning at 20th level, you can exchange your life for another's, and die in their place.
 
---------------------------------
-
 ## Soul Essence
 
-Beginning at 1st level, you begin to understand the essence of your soul, and how it was changed by it's proximity to death. / how you survived because of its nature
-
---------------------------------
+Beginning at 1st level, you begin to understand the essence of your soul, and how it was changed by it's proximity to death. / how you survived because of its nature.
 
 ### Vengeful Soul
 
@@ -350,8 +316,6 @@ Whilst a target is marked for death:
 
 Whenever you attack a target marked with Mark of Death and choose to reap, you reap with an upgraded reap and no longer take damage. If that target dies, you heal for the damage dealt.
 
---------------------------------
-
 ### Resilient Soul
 
 Your soul is naturally overflowing with life-force. The magical energy of your soul manifests as a force that protects both you and others.
@@ -364,8 +328,8 @@ Your soul is naturally overflowing with life-force. The magical energy of your s
 | 2nd | Aid |
 | 3rd | Aura of Vitality |
 | 4th | Stoneskin |
-| 5th |  |
-| 6th |  |
+| 5th | ? |
+| 6th | ? |
 | 7th | Regenerate |
 
 #### Soul Nature: Resilient
@@ -381,8 +345,6 @@ Life drain?
 Your soul is brimming with life-force. If you drop to 0 hit points and don’t die outright, you drop to 1 hit point instead and gain temporary hit points equal to five times your warden level, and each creature of your choice within 30 feet of you that you can see takes necrotic damage equal to 2d10 + your warden level.
 
 Once you use this feature, you can’t use it again until you finish a long rest.
-
---------------------------------
 
 ### Undying Soul
 
@@ -416,8 +378,6 @@ Beginning at 13th level, when necromantic powers that give you life begin to unr
 
 Beginning at 17th level, 
 
---------------------------------
-
 ### Elusive Soul
 
 dasuidhas charms and illusions
@@ -448,7 +408,7 @@ Beginning at 13th level, If you drop to 0 hit points and don’t die outright, b
 
 Beginning at 17th level, 
 
----
+-------
 
 Notes
 - Some abilities require charisma? To win over the dead?
