@@ -10,18 +10,17 @@ No sooner is limit broken, that the energy reserve dries up,rendering the user a
 Starting when you choose this tradition at 3rd level, you can choose to use  Limit Break to push you body beyond its limits and perform incredible feats. When you move or attack, you can activate Limit Break as a reaction.
 
 When you activate limit break, you immediately:
-- Gain 1 ki (or 1 per exhaustion level???)
 - Gain a point of exhaustion
+- Gain 1 ki per level of exhaustion you have
 
 Until your next turn:
+- You ignore the effects of exhaustion
 - You have advantage on attacks
-- Your attacks deal an additional 1d4 damage per level of exhaustion (???)
+- You critical hit on a 19 or 20
+- Your attacks deal an additional 1d4 damage
 - You have advantage on ability checks
-- You ignore the effects of exhaustion for this turn
 - You can perform the dash action as a bonus action
 - Enemies have disadvantage on ranged weapon attacks against you
-
-Basically the ability should be more powerful the more you use it, to make up for the harsh punishment of exhaustion
 
 ### Exhaustion
 
@@ -46,11 +45,11 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 ### Endless Endurance
 
-At 6th level, your body has grown comfortable with the toll you put on it. When you take a long rest, you can recover 2 endurance points.
+At 6th level, your body has adjusted to the toll you put on it and grown resilient. When you take a long rest, you can recover 2 endurance points.
 
 ### Unrivaled Senses
 
-By 11th level, you gain the ability to push your sense beyond their natural limits. When you would fail an ability check based on sight or an ability check based on hearing, you can re-roll and add your constitution modifier.
+By 11th level, you gain the ability to push your senses beyond their natural limits. When you would fail an ability check based on sight or an ability check based on hearing, you can re-roll and add your constitution modifier.
 
 If the ability check was based on sight, you are blinded.
 
