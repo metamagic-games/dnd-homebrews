@@ -80,7 +80,7 @@ You start with the following equipment, in addition to the equipment granted by 
 | 15 | Allies in death                    | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
 | 16 | Ability Score Improvement          | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
 | 17 | Essence Feature: Last Gasp         | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
-| 18 | Undead Resilience                  | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
+| 18 | Deathly Resilience                 | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
 | 19 | Ability Score Improvement          | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
 | 20 | Deal with Death                    | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
 
@@ -169,7 +169,7 @@ You can use your relic of a past life as a spellcasting focus for your warden sp
 
 ### Soul Essence
 
-From 1st level, your soul's essence becomes apparent. When you miraculously came back from the brink of death, it was this unique aspect of your soul which saved you. Choose one of the following options: Resilient Soul, Vengeful Soul, Undying Soul, Elusive Soul.
+From 1st level, your soul's essence becomes apparent. When you miraculously came back from the brink of death, it was this unique aspect of your soul which saved you. Choose one of the following options: Elusive Soul, Resilient Soul, Undying Soul, or Vengeful Soul.
 
 #### Essence Spells
 
@@ -189,7 +189,7 @@ At 17th level, you gain a further ability related to your soul's true nature tha
 
 ### Mark for Death
 
-When you reach 3rd level, you can mark a target within 15ft as a bonus action, cursed by dark necrotic energies. They must take a constitution saving throw or become marked for death.
+When you reach 3rd level, you can mark a target within 15ft as a bonus action, cursing them with dark necrotic energies. They must take a constitution saving throw against your warden spell save DC or become marked for death.
 
 Targets marked for death remain so until they take a long rest, or you mark another target.
 
@@ -199,9 +199,11 @@ The target has the following disadvantages:
 
 If a marked target dies, gain 1d12 health.
 
+[Cap uses? 1 usage per con mod?]
+
 #### Reap
 
-When you deal damage against a marked target, you may reap as a reaction, draining both of your life forces. When you reap, you deal an additional 1d6 plus your constitution modifier to both the target and yourself.
+When you deal damage against a target Marked for Death, you may reap as a reaction, draining both of your life forces. When you reap, you deal an additional 1d6 plus your constitution modifier to both the target and yourself.
 
 ### Ability Score Improvement
 
@@ -211,7 +213,7 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 Beginning at 5th level, you learn something about the nature of death, and are able to exploit it. At your closest to death, you saw and understood an aspect of the nature of death and the dead. Choose one of the following options.
 
-#### Last Gasp
+#### Last Words
 
 When you are within 5 foot of a corpse, as an action you can create a link with a spirit through their corpse. When you do so, you cast the _speak with dead_ spell, without using a spell slot or material components. Intelligence is your spellcasting ability for this spell.
 
@@ -227,7 +229,7 @@ This ability can only be cast once on a given corpse.
 
 You learned the excruciating experience that death truly is.
 
-When a creature within 15 feet of you drops to 0 hit points, you can use a reaction to share the pain with others. Cast bane for free on all nearby targets. You gain one random benefit from the Borrowed Capabilities table. The benefit lasts until you finish a short or long rest.
+When a creature within 15 feet of you drops to 0 hit points, you can use a reaction to share the pain with others. You can cast the _bane_ spell on another target within 15 feet of you without using a spell slot or material components. You gain one random benefit from the Borrowed Capabilities table. The benefit lasts until you finish a short or long rest.
 
 ##### Borrowed Capabilities
 
@@ -239,10 +241,11 @@ When a creature within 15 feet of you drops to 0 hit points, you can use a react
 
 ### Uncanny Cadaver
 
-Beginning at 7th level, you can:
-- Cast feign death once without expending a spell slot
-- Cast the reverse of feign death - feign life - on a corpse
-- Disguise a corpse as the corpse of another
+Beginning at 7th level, you can manipulate how a corpse is perceived by others. This has the effect of either:
+- Making the corpse look like it is simply sleeping; or
+- The corpse of another character;
+
+Once you use this feature, you can't use it again until you finish a long rest.
 
 ### Brush with Death
 
@@ -256,6 +259,8 @@ Once you use this feature, you can't use it again until you finish a short or lo
 
 Beginning at 11th level, you can sense undead and ethereal creatures within 30 feet, even behind walls.
 
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
 ### Allies in Death
 
 Beginning at 15th level,You have communed with the dead so frequently that, when at death’s door, spirits of the dead come to your aid. Choose one of the following options.
@@ -268,59 +273,53 @@ If you appear in a space occupied by another creature or filled by an object, yo
 
 #### Deathly Parlay
 
-Powerful undead entities stand beside you and attempt to repel other undead forces. When your health is lower than your constitution modifier, each undead that can see or hear you within 30 feet of you must make a Charisma saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. lt also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
+Powerful undead entities stand beside you and attempt to repel other undead forces. When your health reaches lower than your constitution modifier, each undead that can see or hear you within 30 feet of you must make a Charisma saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. lt also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
 #### Audience with Death
 
 You can converse with the forces of death itself. You have advantage on death saving throws, and whenever you make a death saving throw, your spirit can ask an entity of death a question that can be answered with “yes,” “no,” or “unknown.” The entity answers truthfully, using the knowledge of all those who have died.
 
-### Undead Resilience
+### Deathly Resilience
 
 Beginning at 18th level, your time spent among spirits and undead has toughened you body and resolve. You gain resistance to cold and necrotic damage, and you become immune to the frightened condition.
 
 ### Deal with Death
 
-Beginning at 20th level, you can exchange your life for another's, and die in their place. When a target within 15 feet of you dies, you die instead. That target is restored to full health. [You cannot be brought back to life with the spell Resurrection?]. 
+Beginning at 20th level, you can exchange your life for another's, and die in their place. When a target within 15 feet of you dies, you can choose to die instead. That target is restored to full health.
 
 ## Soul Essence
 
 Beginning at 1st level, you begin to understand the essence of your soul, and how you survived your experiences because of its true nature. As your powers grow, you begin to understand how it has been changed by this proximity to death.
 
-### Vengeful Soul
+### Elusive Soul
 
-You were almost killed by another, but your anger and drive for vengeance brought you back.
+You eluded the forces of death through charms and illusions. You brush of death through the subtle nature of your soul, even dancing between the material and ethereal planes.
 
-### Vengeful Soul Spells
+#### Elusive Soul Spells
 
 | Spell Level | Spells |
 | :-: | :-: |
-| 1st | _inflict wounds, ray of sickness_ |
-| 2nd | _ray of enfeeblement_ |
-| 3rd | _vampiric touch_ |
-| 4th | _blight_ |
-| 5th | _destructive wave_ |
-| 6th | _harm_ |
-| 7th | _finger of death_ |
+| 1st | _dissonant whispers, silent image_ |
+| 2nd | _misty step_ |
+| 3rd | _blink_ |
+| 4th | _leomund's secret chest_ |
+| 5th | _greater invisibility_ |
+| 6th | _wind walk_ |
+| 7th | _etherealness_ |
 
-#### Soul Nature: Vengeful
+#### Soul Nature: Shifting
 
-Beginning at 2nd level, after the target of you Mark for Death damages you, you can attack them as a reaction.
+Beginning at 2nd level, you can cast the spell Disguise Self. You gain advantage on deception whilst in this disguised form.
 
-#### Inner Power: Mark of the Reaper
+Once you use this feature, you can't use it again until you finish a short or long rest.
 
-Beginning at 13th level, your Mark for Death is upgraded.
+#### Inner Power: Evade death
 
-Whenever you take damage from a target, you can use a reaction to apply Mark for Death to them.
+Beginning at 13th level, once per short rest, when you would take damage, you can use a reaction to become ethereal. This effect lasts until your next turn.
 
-Whilst a target is marked for death:
-- They cannot sleep
-- If they die, their soul cannot rest
+#### Last Gasp: Escape
 
-Whenever you attack a target marked with Mark of Death and choose to reap, you reap with an upgraded reap and no longer take damage. If that target dies, you heal for an additional 1d12.
-
-#### Last Gasp: Haunt
-
-When you are killed by a target, you can come back as a ghost and really annoy them xD
+Beginning at 17th level, randomly teleport to some other plane?
 
 ### Resilient Soul
 
@@ -383,35 +382,43 @@ Beginning at 13th level, when necromantic powers that give you life begin to unr
 
 Beginning at 17th level, when at death’s door, you can converse with the powers of death. You have advantage on death saving throws, and whenever you make a death saving throw, your spirit can ask an entity of death a question that can be answered with “yes,” “no,” or “unknown.” The entity answers truthfully, using the knowledge of all those who have died.
 
-### Elusive Soul
+### Vengeful Soul
 
-You eluded the forces of death through charms and illusions. You brush of death through the subtle nature of your soul, even dancing between the material and ethereal planes.
+You were almost killed by another, but your anger and drive for vengeance brought you back.
 
-#### Elusive Soul Spells
+### Vengeful Soul Spells
 
 | Spell Level | Spells |
 | :-: | :-: |
-| 1st | _dissonant whispers, silent image_ |
-| 2nd | _misty step_ |
-| 3rd | _blink_ |
-| 4th | _leomund's secret chest_ |
-| 5th | _greater invisibility_ |
-| 6th | _wind walk_ |
-| 7th | _etherealness_ |
+| 1st | _inflict wounds, ray of sickness_ |
+| 2nd | _ray of enfeeblement_ |
+| 3rd | _vampiric touch_ |
+| 4th | _blight_ |
+| 5th | _destructive wave_ |
+| 6th | _harm_ |
+| 7th | _finger of death_ |
 
-#### Soul Nature: Shifting
+#### Soul Nature: Vengeful
 
-Beginning at 2nd level, you can cast the spell Disguise Self. You gain advantage on deception whilst in this disguised form.
+Beginning at 2nd level, after the target of you Mark for Death damages you, you can attack them as a reaction. You can use this feature three times between long rests.
 
-Once you use this feature, you can't use it again until you finish a short or long rest.
+#### Inner Power: Mark of the Reaper
 
-#### Inner Power: Evade death
+Beginning at 13th level, your Mark for Death is upgraded.
 
-Beginning at 13th level, once per short rest, when you would take damage, you can use a reaction to become ethereal. This effect lasts until your next turn.
+Whenever you take damage from a target, you can use a reaction to apply Mark for Death to them.
 
-#### Last Gasp: Escape
+Whilst a target is marked for death:
+- If they die, their soul cannot rest
+- If they take a long rest, they take a point of exhaustion
 
-Beginning at 17th level, randomly teleport to some other plane?
+Whenever you attack a target marked with Mark of Death and choose to reap, you reap with an upgraded reap and no longer take damage. 
+
+If your marked target dies, you heal for an additional 1d12.
+
+#### Last Gasp: Haunt
+
+Beginning at 17th level, when you are killed by a target, you can come back as a ghost and really annoy them xD
 
 -------
 
