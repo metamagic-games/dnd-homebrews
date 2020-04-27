@@ -104,7 +104,7 @@ Brood have advantage on insight towards other brood, and disadvantage on decepti
 
 __Languages.__ You can speak Common and one other language. Brood are very social creatures, and though born outside of society, learn to communicate quickly. 
 
-__Subrace.__ Three subraces of aasimar exist: protector Leatherwing, Bombardier, and Rhinocerous. Choose
+__Subrace.__ Three subraces of brood exist: protector Leatherwing, Bombardier, and Rhinocerous. Choose
 one of them for your character.
 
 ### Leatherwing
