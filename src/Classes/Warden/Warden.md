@@ -199,7 +199,7 @@ The target has the following disadvantages:
 
 If a marked target dies, gain 1d12 health.
 
-[Cap uses? 1 usage per con mod?]
+3 uses at 3rd level, 5 at 7, 7 at 11, 9 at 15.
 
 #### Reap
 
@@ -215,7 +215,7 @@ Beginning at 5th level, you learn something about the nature of death, and are a
 
 #### Last Words
 
-When you are within 5 foot of a corpse, as an action you can create a link with a spirit through their corpse. When you do so, you cast the _speak with dead_ spell, without using a spell slot or material components. Intelligence is your spellcasting ability for this spell.
+When you are within 5 foot of a corpse, as an action you can create a link with a spirit through their corpse. When you do so, you cast the _speak with dead_ spell, without using a spell slot or material components. Charisma is your spellcasting ability for this spell.
 
 Speaking with the dead in this way temporarily gives you a capability from a past life — you’re unsure whether it’s from your past or the spirit’s. When the spell ends, you gain one random benefit from the Borrowed Capabilities table. The benefit lasts until you finish a short or long rest.
 
@@ -309,7 +309,7 @@ You eluded the forces of death through charms and illusions. You brush of death 
 
 #### Soul Nature: Shifting
 
-Beginning at 2nd level, you can cast the spell Disguise Self. You gain advantage on deception whilst in this disguised form.
+Beginning at 2nd level, you can cast the spell Disguise Self without consuming a spell slot or material components. You gain advantage on deception whilst in this disguised form.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
@@ -319,7 +319,7 @@ Beginning at 13th level, once per short rest, when you would take damage, you ca
 
 #### Last Gasp: Escape
 
-Beginning at 17th level, randomly teleport to some other plane?
+Beginning at 17th level, when you drop to 0 hit points, you can teleport at random to another plane of existence.
 
 ### Resilient Soul
 

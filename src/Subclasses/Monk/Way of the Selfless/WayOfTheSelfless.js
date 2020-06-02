@@ -51,7 +51,7 @@ AddSubClass("monk", "selfless", {
         "- I have advantage on ability checks",
         "- I can perform the dash action as a bonus action"
       ]),
-      action : [ "reaction", " (move or attack)" ]
+      action : [ "reaction", " (after Move or Attack action)" ]
     },
     "subclassfeature6": {
       name: "Endless Endurance",
@@ -69,7 +69,7 @@ AddSubClass("monk", "selfless", {
         "If the ability check was based on hearing, I am now deafened.",
         "I recover fully after a short rest."
       ]),
-      action: [ "reaction", " (fail ability check)" ],
+      action: [ "reaction", " (after fails ability check)" ],
       usages: 1,
       recovery: "short rest"
     },

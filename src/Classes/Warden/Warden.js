@@ -27,6 +27,55 @@ SourceList["MG:W"] = {
   date : "2018/06/07"
 };
 
+[
+  // level 0 (cantrips)
+  "chill touch", "guidance", "mage hand", "minor illusion", "resistance", "spare the dying", "stabilise", "true strike",
+  
+  // level 1
+  "arms of hadar", "bane", "dancing lights",
+  
+  // level 2
+  "phantasmal force",
+  
+  // level 3
+  "animate dead", "feign death", "speak with dead", "spirit guardians",
+  
+  // level 4
+  "antilife shell", "death ward", "phantasmal killer",
+  
+  // level 5
+  "raise dead", "reincarnate",
+  
+  // level 6
+  "circle of death", "create undead",
+].forEach(function (wardenSpells) {
+  if (SpellsList[wardenSpells]) SpellsList[wardenSpells].classes.push("warden");
+});
+
+const wardenSpellTable = [
+  [0, 0, 0, 0, 0, 0, 0, 0, 0],  // level 0
+  [0, 0, 0, 0, 0, 0, 0, 0, 0],  // level 1
+  [0, 0, 0, 0, 0, 0, 0, 0, 0],  // level 2
+  [1, 0, 0, 0, 0, 0, 0, 0, 0],  // level 3
+  [1, 0, 0, 0, 0, 0, 0, 0, 0],  // level 4
+  [1, 1, 0, 0, 0, 0, 0, 0, 0],  // level 5
+  [1, 1, 0, 0, 0, 0, 0, 0, 0],  // level 6
+  [2, 1, 1, 0, 0, 0, 0, 0, 0],  // level 7
+  [2, 1, 1, 0, 0, 0, 0, 0, 0],  // level 8
+  [2, 2, 1, 1, 0, 0, 0, 0, 0],  // level 9
+  [2, 2, 1, 1, 0, 0, 0, 0, 0],  // level 10
+  [2, 2, 2, 1, 1, 0, 0, 0, 0],  // level 11
+  [2, 2, 2, 1, 1, 0, 0, 0, 0],  // level 12
+  [2, 2, 2, 2, 1, 1, 0, 0, 0],  // level 13
+  [2, 2, 2, 2, 1, 1, 0, 0, 0],  // level 14
+  [2, 2, 2, 2, 2, 1, 1, 0, 0],  // level 15
+  [2, 2, 2, 2, 2, 1, 1, 0, 0],  // level 16
+  [2, 2, 2, 2, 2, 1, 1, 0, 0],  // level 17
+  [2, 2, 2, 2, 2, 1, 1, 0, 0],  // level 18
+  [2, 2, 2, 2, 2, 1, 1, 0, 0],  // level 19
+  [2, 2, 2, 2, 2, 1, 1, 0, 0]   // level 20
+]
+
 ClassList["warden"] = {
   regExpSearch : /^(?=.*warden).*$/i,
   name : "Warden",
@@ -53,39 +102,17 @@ ClassList["warden"] = {
   subclasses : ["Warden Soul Essences", ["warden-soul-essence of the ghostslayer", "warden-soul-essence of the lycan", "warden-soul-essence of the mutant", "warden-soul-essence of the profane soul"]],
   attacks : [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
   spellcastingFactor : 1,
-  spellcastingTable : [
-    [0, 0, 0, 0, 0, 0, 0, 0, 0],
-    [0, 0, 0, 0, 0, 0, 0, 0, 0],
-    [0, 0, 0, 0, 0, 0, 0, 0, 0],
-    [1, 0, 0, 0, 0, 0, 0, 0, 0],
-    [1, 0, 0, 0, 0, 0, 0, 0, 0],
-    [1, 1, 0, 0, 0, 0, 0, 0, 0],
-    [1, 1, 0, 0, 0, 0, 0, 0, 0],
-    [2, 1, 1, 0, 0, 0, 0, 0, 0],
-    [2, 1, 1, 0, 0, 0, 0, 0, 0],
-    [2, 2, 1, 1, 0, 0, 0, 0, 0],
-    [2, 2, 1, 1, 0, 0, 0, 0, 0],
-    [2, 2, 2, 1, 1, 0, 0, 0, 0],
-    [2, 2, 2, 1, 1, 0, 0, 0, 0],
-    [2, 2, 2, 2, 1, 1, 0, 0, 0],
-    [2, 2, 2, 2, 1, 1, 0, 0, 0],
-    [2, 2, 2, 2, 2, 1, 1, 0, 0],
-    [2, 2, 2, 2, 2, 1, 1, 0, 0],
-    [2, 2, 2, 2, 2, 1, 1, 0, 0],
-    [2, 2, 2, 2, 2, 1, 1, 0, 0],
-    [2, 2, 2, 2, 2, 1, 1, 0, 0],
-    [2, 2, 2, 2, 2, 1, 1, 0, 0]
-  ],
+  spellcastingTable : wardenSpellTable,
   spellcastingKnown : {
     cantrips : [1, 1, 2, 2, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
     spells :   [0, 0, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7],
-    spells :   "book",
     prepared : true
   },
+  abilitySave : 3,
   features : {
     "mark for death" : {
       name : "Mark for Death",
-      source : ["MG:W", 3],
+      source : ["MG:W", 1],
       minlevel : 3,
       description : desc([
         "I can mark a target within 15ft as a bonus action.",
@@ -96,31 +123,88 @@ ClassList["warden"] = {
         "Characters have advantage on intimidation checks against the target",
         "If a marked target dies, gain 1d12 health.",
       ]),
+      usages : [0, 0, 3, 3, 3, 3, 5, 5, 5, 5, 7, 7, 7, 7, 9, 9, 9, 9, 9, 9],
+      recovery : "short rest",
       action : ["bonus action", ""],
     },
     "reap" : {
       name : "Reap",
-      source : ["MG:W", 3],
+      source : ["MG:W", 1],
       minlevel : 3,
       description : desc([
         "When I damage a target Marked for Death, I may Reap",
         "I deal an additional 1d6 plus con mod to the target and myself"
       ]),
-      action : ["reaction", ""]
+      action : ["reaction", " (damages a Marked target)"]
     },
     "deathly insights" : {
       name : "Deathly Insights",
-      source : ["MG:W", 3],
+      source : ["MG:W", 1],
       minlevel : 5,
-      description : "\n   " + "Choose a Deathly Insight using the \"Choose Feature\" button above",
+      description : desc([
+        "Choose a Deathly Insight using the \"Choose Feature\" button above",
+        "\n   Borrowed Capabilities",
+        "| d3 | Capability |",
+        "| :-: | :-: |",
+        "| 01 | You learn how to speak, read, and write one language of your choice. |",
+        "| 02 | You gain one skill or tool proficiency of your choice. |",
+        "| 03 | You gain proficiency with one saving throw of your choice. |",
+      ]),
       choices : ["Last Words", "Lingering Lifeforce", "Pain of Death"],
-      "last words" : FightingStyles.archery,
-      "lingering lifeforce" : FightingStyles.dueling,
-      "pain of death" : FightingStyles.great_weapon,
+      "last words" : {
+        name : "Last Words",
+        description : desc([
+          "When you are within 5 foot of a corpse, as an action you can create a link with a spirit through their corpse. When you do so, you cast the _speak with dead_ spell, without using a spell slot or material components. Charisma is your spellcasting ability for this spell.",
+          "Speaking with the dead in this way temporarily gives you a capability from a past life — you’re unsure whether it’s from your past or the spirit’s. When the spell ends, you gain one random benefit from the Borrowed Capabilities table. The benefit lasts until you finish a short or long rest.",
+          "\n   Borrowed Capabilities",
+          "| d3 | Capability |",
+          "| :-: | :-: |",
+          "| 01 | You learn how to speak, read, and write one language of your choice. |",
+          "| 02 | You gain one skill or tool proficiency of your choice. |",
+          "| 03 | You gain proficiency with one saving throw of your choice. |",
+        ]),
+        action : ["action", ""],
+        usages : 1,
+        recovery : "short rest",
+        source : [["SRD", 35], ["P", 91]],
+      },
+      "lingering lifeforce" : {
+        name : "Lingering Lifeforce",
+        description :  desc([
+          "When you are within 5 foot of a corpse that died within the past hour, you can use an action to gain hitpoints equal to 1d4 per that target's constitution modifier + your constitution modifier. You gain one random benefit from the Borrowed Capabilities table. The benefit lasts until you finish a short or long rest.",
+          "This ability can only be cast once on a given corpse.",
+          "\n   Borrowed Capabilities",
+          "| d3 | Capability |",
+          "| :-: | :-: |",
+          "| 01 | You learn how to speak, read, and write one language of your choice. |",
+          "| 02 | You gain one skill or tool proficiency of your choice. |",
+          "| 03 | You gain proficiency with one saving throw of your choice. |",
+        ]),
+        usages : 1,
+        recovery : "short rest",
+        action : ["action", ""],
+        source : [["SRD", 35], ["P", 91]],
+      },
+      "pain of death" : {
+        name : "Pain of Death",
+        description : desc([
+          "When a creature within 15 feet of you drops to 0 hit points, you can use a reaction to cast the _bane_ spell on another target within 15 feet of you without using a spell slot or material components. You gain one random benefit from the Borrowed Capabilities table. The benefit lasts until you finish a short or long rest.",
+          "\n   Borrowed Capabilities",
+          "| d3 | Capability |",
+          "| :-: | :-: |",
+          "| 01 | You learn how to speak, read, and write one language of your choice. |",
+          "| 02 | You gain one skill or tool proficiency of your choice. |",
+          "| 03 | You gain proficiency with one saving throw of your choice. |",
+        ]),
+        usages : 1,
+        recovery : "short rest",
+        source : [["SRD", 35], ["P", 91]],
+        action : ["reaction", " (creature drops to 0 HP)"],
+      },
     },
     "uncanny cadaver" : {
       name : "Uncanny Cadaver",
-      source : ["MG:W", 3],
+      source : ["MG:W", 1],
       minlevel : 7,
       description : desc([
         "I can manipulate how a corpse is perceived:",
@@ -133,7 +217,7 @@ ClassList["warden"] = {
     },
     "brush with death" : {
       name : "Brush with Death",
-      source : ["MG:W", 3],
+      source : ["MG:W", 1],
       minlevel : 10,
       description : desc([
         "I'm not happy with this one yet"
@@ -144,39 +228,54 @@ ClassList["warden"] = {
     },
     "spectral vision" : {
       name : "Spectral Vision",
-      source : ["MG:W", 3],
+      source : ["MG:W", 1],
       minlevel : 11,
       description : "I can sense undead and ethereal creatures within 30 feet, even behind walls.",
       usages : 1,
       action : ["action", ""],
       recovery : "short rest"
     },
-    "Aliies in Death" : {
+    "allies in Death" : {
       name : "Allies in Death",
-      source : ["MG:W", 3],
+      source : ["MG:W", 1],
       minlevel : 15,
       description : "\n   " + "Choose an Ally in Death using the \"Choose Feature\" button above",
       choices : ["Ethereal Jaunt", "Deathly Parlay", "Audience with Death"],
-      "ethereal jaunt" : FightingStyles.archery,
-      "deathly parlay" : FightingStyles.dueling,
-      "audience with death" : FightingStyles.great_weapon,
+      "ethereal jaunt" : {
+        name : "Ethereal Jaunt",
+        description : desc([
+          "Sprit guides come to your aid, and you have the ability to slip in and out of the Ethereal Plane. When your health is lower than your constitution modifier, you can use an action to teleport to an unoccupied space within 30 feet of you. You don’t need to see that space to teleport to it, but your teleportation fails, wasting your bonus action, if you attempt to teleport through magical force that is Medium or larger, such as a wall of force.",
+          "If you appear in a space occupied by another creature or filled by an object, you are immediately shunted to the nearest unoccupied space that you can occupy and take force damage equal to twice the number of feet you are shunted.",
+        ]),
+        source : [["SRD", 35], ["P", 91]],
+      },
+      "deathly parlay" : {
+        name : "Deathly Parlay",
+        description : "Powerful undead entities stand beside you and attempt to repel other undead forces. When your health reaches lower than your constitution modifier, each undead that can see or hear you within 30 feet of you must make a Charisma saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. lt also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.",
+        source : [["SRD", 35], ["P", 91]],
+      },
+      "audience with death" : {
+        name : "Audience with Death",
+        description : "You can converse with the forces of death itself. You have advantage on death saving throws, and whenever you make a death saving throw, your spirit can ask an entity of death a question that can be answered with “yes,” “no,” or “unknown.” The entity answers truthfully, using the knowledge of all those who have died.",
+        source : [["SRD", 35], ["P", 91]],
+      },
     },
     "deathly resilience" : {
       name : "Deathly Resilience",
-      source : ["MG:W", 3],
+      source : ["MG:W", 1],
       minlevel : 18,
       description : " [resistance to cold and necrotic damage]",
       dmgres : ["Cold", "Necrotic"]
     },
     "deal with death" : {
       name : "Deal with Death",
-      source : ["MG:W", 3],
+      source : ["MG:W", 1],
       minlevel : 20,
       description : desc([
         "I can exchange your life for another's, and die in their place.",
         "When a target within 15 feet of me dies, I can choose to die instead.",
         "That target is restored to full health." 
-      ])
+      ]),
       usages : 1,
       action : ["reaction", ""],
       recovery : "long rest"
@@ -185,25 +284,25 @@ ClassList["warden"] = {
 };
 
 AddSubClass("warden", "vengeful soul", {
-  regExpSearch : /^(?=.*justiciar)(?=.*archiv(es|ist)).*$/i,
+  regExpSearch : /^(?=.*vengeful)(?=.*so(ul|le)).*$/i,
   subname : "Vengeful Soul",
-  source : ["MG:W", 3],
-  spellcastingExtra : ["feather fall", "unseen servant", "continual flame", "locate object", "fly", "leomund's tiny hut", "leomund's secret chest", "mordenkainen's faithful hound", "wall of force"],
+  source : ["MG:W", 1],
+  spellcastingExtra : [ "inflict wounds", "ray of sickness", "ray of enfeeblement", "vampiric touch", "blight", "destructive wave", "harm", "finger of death",],
   features : {
     "subclassfeature2" : {
-      name : "Vengeful",
-      source : ["MG:W", 3],
+      name : "Soul Nature: Vengeful",
+      source : ["MG:W", 1],
       minlevel : 2,
       description : desc([
         "When I am damaged by a target Marked for Death, I can attack back as a reaction."
       ]),
       usages : 3,
-      action : ["reaction", ""],
+      action : ["reaction", "(damaged by Marked target)"],
       recovery : "long rest"
     },
     "subclassfeature13" : {
-      name : "Mark of the Reaper",
-      source : ["MG:W", 3],
+      name : "Inner Power: Mark of the Reaper",
+      source : ["MG:W", 1],
       minlevel : 13,
       description : desc([
         "Whenever you take damage from a target, you can use a reaction to apply Mark for Death to them.",
@@ -215,12 +314,55 @@ AddSubClass("warden", "vengeful soul", {
       ]),
     },
     "subclassfeature17" : {
-      name : "Haunt",
-      source : ["MG:W", 3],
+      name : "Last Gasp: Haunt",
+      source : ["MG:W", 1],
       minlevel : 17,
       description : desc([
         "When I am killed by a target, I can return as a ghost and really annoy them",
       ]),
+    },
+  }
+});
+
+AddSubClass("warden", "elusive soul", {
+  regExpSearch : /^(?=.*elusive)(?=.*so(ul|le)).*$/i,
+  subname : "Elusive Soul",
+  source : ["MG:W", 1],
+  spellcastingExtra : ["dissonant whispers", "silent image", "misty step", "blink", "leomund's secret chest", "greater invisibility", "wind walk", "etherealness"],
+  features : {
+    "subclassfeature2" : {
+      name : "Soul Nature: Elusive",
+      source : ["MG:W", 1],
+      minlevel : 2,
+      description : desc([
+        "Beginning at 2nd level, you can cast the spell Disguise Self without consuming a spell slot or material components. You gain advantage on deception whilst in this disguised form.",
+        "Once you use this feature, you can't use it again until you finish a short or long rest."
+      ]),
+      usages : 1,
+      action : ["action", ""],
+      recovery : "short rest"
+    },
+    "subclassfeature13" : {
+      name : "Inner Power: Mark of the Reaper",
+      source : ["MG:W", 1],
+      minlevel : 13,
+      description : desc([
+        "Once per short rest, when you would take damage, you can use a reaction to become ethereal. This effect lasts until your next turn.",
+      ]),
+      usages : 1,
+      action : ["reaction", " (would take damage)"],
+      recovery : "short rest"
+    },
+    "subclassfeature17" : {
+      name : "Last Gasp: Haunt",
+      source : ["MG:W", 1],
+      minlevel : 17,
+      description : desc([
+        "Beginning at 17th level, when I drop to 0 hit points, I can teleport at random to another plane of existence.",
+      ]),
+      usages : 1,
+      action : ["reaction", " (drop to 0)"],
+      recovery : "long rest"
     },
   }
 });
