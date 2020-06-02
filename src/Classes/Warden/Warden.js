@@ -3,7 +3,7 @@
   Import this file using the "Add Extra Materials" bookmark.
 
   -KEEP IN MIND-
-  It is recommended to enter the code in a fresh sheet before adding any other information (i.e. before making your character with it).
+  It is recommended to enter the code in a fresh sheet before adding any other information (i.e. before making my character with it).
 */
 
 /*  -INFORMATION-
@@ -119,11 +119,12 @@ ClassList["warden"] = {
         "They must take a con saving throw against my warden spell save DC or become marked for death",
         "The target is marked until they take a long rest or I mark another target.",
         "The target has the following disadvantages:",
-        "Whenever the target is healed, that healing is reduced by 1d4",
-        "Characters have advantage on intimidation checks against the target",
-        "If a marked target dies, gain 1d12 health.",
+        "- Whenever the target is healed, that healing is reduced by 1d4",
+        "- Characters have advantage on intimidation checks against the target",
+        "- If a marked target dies, gain 1d12 health.",
+        "I can use this feature once per character level until I take a long rest."
       ]),
-      usages : [0, 0, 3, 3, 3, 3, 5, 5, 5, 5, 7, 7, 7, 7, 9, 9, 9, 9, 9, 9],
+      usages : [0, 0, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
       recovery : "short rest",
       action : ["bonus action", ""],
     },
@@ -146,22 +147,22 @@ ClassList["warden"] = {
         "\n   Borrowed Capabilities",
         "| d3 | Capability |",
         "| :-: | :-: |",
-        "| 01 | You learn how to speak, read, and write one language of your choice. |",
-        "| 02 | You gain one skill or tool proficiency of your choice. |",
-        "| 03 | You gain proficiency with one saving throw of your choice. |",
+        "| 01 | I learn how to speak, read, and write one language of my choice. |",
+        "| 02 | I gain one skill or tool proficiency of my choice. |",
+        "| 03 | I gain proficiency with one saving throw of my choice. |",
       ]),
       choices : ["Last Words", "Lingering Lifeforce", "Pain of Death"],
       "last words" : {
         name : "Last Words",
         description : desc([
-          "When you are within 5 foot of a corpse, as an action you can create a link with a spirit through their corpse. When you do so, you cast the _speak with dead_ spell, without using a spell slot or material components. Charisma is your spellcasting ability for this spell.",
-          "Speaking with the dead in this way temporarily gives you a capability from a past life — you’re unsure whether it’s from your past or the spirit’s. When the spell ends, you gain one random benefit from the Borrowed Capabilities table. The benefit lasts until you finish a short or long rest.",
+          "When I am within 5 foot of a corpse, as an action I can create a link with a spirit through their corpse. When I do so, I cast the _speak with dead_ spell, without using a spell slot or material components. Charisma is my spellcasting ability for this spell.",
+          "Speaking with the dead in this way temporarily gives I a capability from a past life — you’re unsure whether it’s from my past or the spirit’s. When the spell ends, I gain one random benefit from the Borrowed Capabilities table. The benefit lasts until I finish a short or long rest.",
           "\n   Borrowed Capabilities",
           "| d3 | Capability |",
           "| :-: | :-: |",
-          "| 01 | You learn how to speak, read, and write one language of your choice. |",
-          "| 02 | You gain one skill or tool proficiency of your choice. |",
-          "| 03 | You gain proficiency with one saving throw of your choice. |",
+          "| 01 | I learn how to speak, read, and write one language of my choice. |",
+          "| 02 | I gain one skill or tool proficiency of my choice. |",
+          "| 03 | I gain proficiency with one saving throw of my choice. |",
         ]),
         action : ["action", ""],
         usages : 1,
@@ -171,14 +172,14 @@ ClassList["warden"] = {
       "lingering lifeforce" : {
         name : "Lingering Lifeforce",
         description :  desc([
-          "When you are within 5 foot of a corpse that died within the past hour, you can use an action to gain hitpoints equal to 1d4 per that target's constitution modifier + your constitution modifier. You gain one random benefit from the Borrowed Capabilities table. The benefit lasts until you finish a short or long rest.",
+          "When I am within 5 foot of a corpse that died within the past hour, I can use an action to gain hitpoints equal to 1d4 per that target's constitution modifier + my constitution modifier. I gain one random benefit from the Borrowed Capabilities table. The benefit lasts until I finish a short or long rest.",
           "This ability can only be cast once on a given corpse.",
           "\n   Borrowed Capabilities",
           "| d3 | Capability |",
           "| :-: | :-: |",
-          "| 01 | You learn how to speak, read, and write one language of your choice. |",
-          "| 02 | You gain one skill or tool proficiency of your choice. |",
-          "| 03 | You gain proficiency with one saving throw of your choice. |",
+          "| 01 | I learn how to speak, read, and write one language of my choice. |",
+          "| 02 | I gain one skill or tool proficiency of my choice. |",
+          "| 03 | I gain proficiency with one saving throw of my choice. |",
         ]),
         usages : 1,
         recovery : "short rest",
@@ -188,13 +189,13 @@ ClassList["warden"] = {
       "pain of death" : {
         name : "Pain of Death",
         description : desc([
-          "When a creature within 15 feet of you drops to 0 hit points, you can use a reaction to cast the _bane_ spell on another target within 15 feet of you without using a spell slot or material components. You gain one random benefit from the Borrowed Capabilities table. The benefit lasts until you finish a short or long rest.",
+          "When a creature within 15 feet of I drops to 0 hit points, I can use a reaction to cast the _bane_ spell on another target within 15 feet of I without using a spell slot or material components. I gain one random benefit from the Borrowed Capabilities table. The benefit lasts until I finish a short or long rest.",
           "\n   Borrowed Capabilities",
           "| d3 | Capability |",
           "| :-: | :-: |",
-          "| 01 | You learn how to speak, read, and write one language of your choice. |",
-          "| 02 | You gain one skill or tool proficiency of your choice. |",
-          "| 03 | You gain proficiency with one saving throw of your choice. |",
+          "| 01 | I learn how to speak, read, and write one language of my choice. |",
+          "| 02 | I gain one skill or tool proficiency of my choice. |",
+          "| 03 | I gain proficiency with one saving throw of my choice. |",
         ]),
         usages : 1,
         recovery : "short rest",
@@ -244,19 +245,19 @@ ClassList["warden"] = {
       "ethereal jaunt" : {
         name : "Ethereal Jaunt",
         description : desc([
-          "Sprit guides come to your aid, and you have the ability to slip in and out of the Ethereal Plane. When your health is lower than your constitution modifier, you can use an action to teleport to an unoccupied space within 30 feet of you. You don’t need to see that space to teleport to it, but your teleportation fails, wasting your bonus action, if you attempt to teleport through magical force that is Medium or larger, such as a wall of force.",
-          "If you appear in a space occupied by another creature or filled by an object, you are immediately shunted to the nearest unoccupied space that you can occupy and take force damage equal to twice the number of feet you are shunted.",
+          "When my health is lower than my constitution modifier, I can use an action to teleport to an unoccupied space within 30 feet of you. I don’t need to see that space to teleport to it, but my teleportation fails, wasting my bonus action, if I attempt to teleport through magical force that is Medium or larger, such as a wall of force.",
+          "If I appear in a space occupied by another creature or filled by an object, I am immediately shunted to the nearest unoccupied space that I can occupy and take force damage equal to twice the number of feet I am shunted.",
         ]),
         source : [["SRD", 35], ["P", 91]],
       },
       "deathly parlay" : {
         name : "Deathly Parlay",
-        description : "Powerful undead entities stand beside you and attempt to repel other undead forces. When your health reaches lower than your constitution modifier, each undead that can see or hear you within 30 feet of you must make a Charisma saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. lt also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.",
+        description : "When my health reaches lower than my constitution modifier, each undead that can see or hear I within 30 feet of I must make a Charisma saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from I as it can, and it can't willingly move to a space within 30 feet of you. lt also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.",
         source : [["SRD", 35], ["P", 91]],
       },
       "audience with death" : {
         name : "Audience with Death",
-        description : "You can converse with the forces of death itself. You have advantage on death saving throws, and whenever you make a death saving throw, your spirit can ask an entity of death a question that can be answered with “yes,” “no,” or “unknown.” The entity answers truthfully, using the knowledge of all those who have died.",
+        description : "I have advantage on death saving throws, and whenever I make a death saving throw, my spirit can ask an entity of death a question that can be answered with “yes,” “no,” or “unknown.” The entity answers truthfully, using the knowledge of all those who have died.",
         source : [["SRD", 35], ["P", 91]],
       },
     },
@@ -272,7 +273,7 @@ ClassList["warden"] = {
       source : ["MG:W", 1],
       minlevel : 20,
       description : desc([
-        "I can exchange your life for another's, and die in their place.",
+        "I can exchange my life for another's, and die in their place.",
         "When a target within 15 feet of me dies, I can choose to die instead.",
         "That target is restored to full health." 
       ]),
@@ -305,7 +306,7 @@ AddSubClass("warden", "vengeful soul", {
       source : ["MG:W", 1],
       minlevel : 13,
       description : desc([
-        "Whenever you take damage from a target, you can use a reaction to apply Mark for Death to them.",
+        "Whenever I take damage from a target, I can use a reaction to apply Mark for Death to them.",
         "Whilst a target is marked for death:",
         "- If they die, their soul cannot rest",
         "- If they take a long rest, they take a point of exhaustion",
@@ -335,8 +336,8 @@ AddSubClass("warden", "elusive soul", {
       source : ["MG:W", 1],
       minlevel : 2,
       description : desc([
-        "Beginning at 2nd level, you can cast the spell Disguise Self without consuming a spell slot or material components. You gain advantage on deception whilst in this disguised form.",
-        "Once you use this feature, you can't use it again until you finish a short or long rest."
+        "I can cast the spell Disguise Self without consuming a spell slot or material components. I gain advantage on deception whilst disguised.",
+        "Once I use this feature, I can't use it again until I finish a short or long rest."
       ]),
       usages : 1,
       action : ["action", ""],
@@ -347,7 +348,7 @@ AddSubClass("warden", "elusive soul", {
       source : ["MG:W", 1],
       minlevel : 13,
       description : desc([
-        "Once per short rest, when you would take damage, you can use a reaction to become ethereal. This effect lasts until your next turn.",
+        "Once per short rest, when I would take damage, I can use a reaction to become ethereal. This effect lasts until my next turn.",
       ]),
       usages : 1,
       action : ["reaction", " (would take damage)"],
@@ -358,7 +359,7 @@ AddSubClass("warden", "elusive soul", {
       source : ["MG:W", 1],
       minlevel : 17,
       description : desc([
-        "Beginning at 17th level, when I drop to 0 hit points, I can teleport at random to another plane of existence.",
+        "When I drop to 0 hit points, I can teleport at random to another plane of existence.",
       ]),
       usages : 1,
       action : ["reaction", " (drop to 0)"],

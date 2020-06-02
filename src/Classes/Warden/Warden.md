@@ -199,7 +199,7 @@ The target has the following disadvantages:
 
 If a marked target dies, gain 1d12 health.
 
-3 uses at 3rd level, 5 at 7, 7 at 11, 9 at 15.
+You can use this feature once per character level until you take a long rest.
 
 #### Reap
 
