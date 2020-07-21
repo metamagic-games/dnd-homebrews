@@ -94,10 +94,7 @@ ClassList["warden"] = {
     [true, true, false, true],
     [true, true, false, true]
   ],
-  weapons : [
-    [true, false],
-    [true, false]
-  ],
+  weapons : [ true, false, "shortsword", "spear" ],
   equipment : "Warden starting equipment:\n \u2022 leather armor;\n \u2022 A short sword or a club;\n \u2022 An explorer's pack.\n\nAlternatively, choose 4d4 \xD7 10 gp worth of starting equipment instead of both the class' and the background's starting equipment.",
   subclasses : ["Warden Soul Essences", ["warden-soul-essence of the ghostslayer", "warden-soul-essence of the lycan", "warden-soul-essence of the mutant", "warden-soul-essence of the profane soul"]],
   attacks : [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],

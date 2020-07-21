@@ -42,7 +42,7 @@ __Hit Points at Higher Levels:__ 1d12 (or 7) + your Constitution modifier per wa
 
 __Armour:__ Light armor, medium armor, shields
 
-__Weapons:__ All simple weapons
+__Weapons:__ Shortswords, spears, and all simple weapons
 
 __Tools:__ None
 

@@ -28,3 +28,4 @@
 - Brewmaster
 - Squire
 - True-Forged
+- Warden
