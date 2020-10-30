@@ -40,7 +40,7 @@ As with cleric domain spells, Circle of the Land druids’ circle spells are fre
 
 ## FIGHTER
 
-Fighters gain most of their combat prowess from three characteristics of the class: being able to make up to four attacks per round; using Action Surge to grant quick bursts of combat potency; and having the highest number of Ability Score Improvement features,  which allows fighters to strengthen their attacks and saving throws, or, if the DM allows it, select feats.
+Fighters gain most of their combat prowess from three characteristics of the class: being able to make up to four attacks per round; using Action Surge to grant quick bursts of combat potency; and having the highest number of Ability Score Improvement features, which allows fighters to strengthen their attacks and saving throws, or, if the DM allows it, select feats.
 
 The fighter archetypes are largely meant to be different flavors of the base class, in which most of the fighter’s combat strength lies. The Champion gains some versatility and a better chance of scoring critical hits. The Battle Master specializes in maneuvers that aren’t available to other fighters. The Eldritch Knight’s ability to cast spells sets that archetype apart, while being limited enough so that the character still feels like a fighter.
 

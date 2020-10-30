@@ -1,6 +1,6 @@
 # CLERIC
 
-Arms and eyes upraised toward the sun and a prayer on his lips, an elf begins to glow with an inner light that spills out to heal his battle-worn companions. Chanting a song of glory, a dwarf swings his axe in wide swaths to cut through the ranks of orcs arrayed against him, shouting praise to the gods with every foe's falI. 
+Arms and eyes upraised toward the sun and a prayer on his lips, an elf begins to glow with an inner light that spills out to heal his battle-worn companions. Chanting a song of glory, a dwarf swings his axe in wide swaths to cut through the ranks of orcs arrayed against him, shouting praise to the gods with every foe's falI.
 
 Calling down a curse upon the forces of undeath, a human lifts her holy symbol as light pours from it to drive back the zombies crowding in on her companions. Clerics are intermediaries between the mortal world and the distant planes of the gods. As varied as the gods they serve, clerics strive to embody the handiwork of their deities. No ordinary priest, a cleric is imbued with divine magic.
 
@@ -11,6 +11,7 @@ Divine magic, as the name suggests, is the power of the gods, lIowing from them 
 Harnessing divine magic doesn't rely on study or training. A cleric might learn formulaic prayers and ancient rites, but the ability to cast cleric spells relies on devotion and an intuitive sense of a deity's wishes. Clerics combine the helpful magic of healing and inspiring their allies with spells that harm and hinder foes. They can provoke awe and dread, lay curses of plague or poison, and even call down liames from heaven to consume their enemies. For those evildoers who will benefit most from a mace to the head, clerics depend on their combat training to let them wade into melee with the power of the gods on their side.
 
 ## DIVINE AGENTS
+
 Not every acolyte or officiant at a tem pIe or shrine is a cleric. Some priests are called to a simple life of temple service, carrying out their gods' will through prayer and sacrifice, not by magic and strength of arms. In some cities, priesthood amounts to a political office, viewed as a stepping stone to higher positions of authority and involving no communion with a god at alI. True clerics are rare in most hierarchies.
 
 When a cleric takes up an adventuring life, it is usually because his or her god demands it. Pursuing the goals of the gods often involves braving dangers beyond the walls of civilization, smiting evil or seeking holy relics in ancient tombs. Many clerics are also expected to protect their deities' worshipers, which ean mean fightingrampaging ores, negotiating peaee between warringnations, or sealing a portal that would allow a demonprinee to enter the world.
@@ -21,36 +22,39 @@ THE CLERIC
 
 -Spell Slots per Spell Level-
 
-| Level | Proficiency Bonus | Features | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | 
-| 1st | +2 | Spellcasting, Divine Domain | 3 | 2 | - | - | - | - | - | - | - | - |
-| 2nd | +2 | Channel Divinity (l/rest), Divine Domain feature | 3 | 3 | - | - | - | - | - | - | - | - |
-| 3rd | +2 | - | 3 | 4 | 2 | - | - | - | - | - | - | - |  
-| 4th | +2 | Ability Score Improvement | 4 | 4 | 3 | - | - | - | - | - | - | - | 
-| 5th | +3 | Destroy Undead (CR 1/2) | 4 | 4 | 3 | 2 | - | - | - | - | - | - |
-| 6th | +3 | Channel Divinity (2/rest), Divine Domain feature | 4 | 4 | 3 | 3 |  - | - | - | - | - | - | 
-| 7th | +3 | - | 4 | 4 | 3 | 3 | 1 | - | - | - | - | - | 
-| 8th | +3 | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature | 4 | 4 | 3 | 3 | 2 | - | - | - | - | - | 
-| 9th | +4 | - | 4 | 4 | 3 | 3 | 3 | 1 | - | - | - | - | 
-| 10th | +4 | Divine Intervention | 5 | 4 | 3 | 3 | 3 | 2 | - |
-| 11th | +4 | Destroy Undead (CR 2) | 5 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
-| 12th | +4 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
-| 13th | +5 | - | 5 | 4 | 3 | 3 | 3 | 2 | 1 | - | - |
-| 14th | +5 | Destroy Undead (CR 3) 5 | 4 | 3 | 3 | 3 | 2 | 1 | - | - |
-| 15th | +5 | - | 5 | 4 | 3 | 3 | 3 | 2 | 1 | - |
-| 16th | +5 | Ability Score Improvement 5 | 4 | 3 | 3 | 3 | 2 | 1 | - |
-| 17th | +6 | Destroy Undead (CR 4), Divine Domain feature | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
-| 18th | +6 | Channel Divinity (3/rest) | 5 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
-| 19th | +6 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-| 20th | +6 | Divine Intervention improvement | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+| Level | Proficiency Bonus |                                Features                                 | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| :---: | :---------------: | :---------------------------------------------------------------------: | :------------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | --- |
+|  1st  |        +2         |                       Spellcasting, Divine Domain                       |       3        |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  | -   |
+|  2nd  |        +2         |            Channel Divinity (l/rest), Divine Domain feature             |       3        |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  | -   |
+|  3rd  |        +2         |                                    -                                    |       3        |  4  |  2  |  -  |  -  |  -  |  -  |  -  |  -  | -   |
+|  4th  |        +2         |                        Ability Score Improvement                        |       4        |  4  |  3  |  -  |  -  |  -  |  -  |  -  |  -  | -   |
+|  5th  |        +3         |                         Destroy Undead (CR 1/2)                         |       4        |  4  |  3  |  2  |  -  |  -  |  -  |  -  |  -  | -   |
+|  6th  |        +3         |            Channel Divinity (2/rest), Divine Domain feature             |       4        |  4  |  3  |  3  |  -  |  -  |  -  |  -  |  -  | -   |
+|  7th  |        +3         |                                    -                                    |       4        |  4  |  3  |  3  |  1  |  -  |  -  |  -  |  -  | -   |
+|  8th  |        +3         | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature |       4        |  4  |  3  |  3  |  2  |  -  |  -  |  -  |  -  | -   |
+|  9th  |        +4         |                                    -                                    |       4        |  4  |  3  |  3  |  3  |  1  |  -  |  -  |  -  | -   |
+| 10th  |        +4         |                           Divine Intervention                           |       5        |  4  |  3  |  3  |  3  |  2  |  -  |
+| 11th  |        +4         |                          Destroy Undead (CR 2)                          |       5        |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  | -   |
+| 12th  |        +4         |                        Ability Score Improvement                        |       5        |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  | -   |
+| 13th  |        +5         |                                    -                                    |       5        |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |
+| 14th  |        +5         |                         Destroy Undead (CR 3) 5                         |       4        |  3  |  3  |  3  |  2  |  1  |  -  |  -  |
+| 15th  |        +5         |                                    -                                    |       5        |  4  |  3  |  3  |  3  |  2  |  1  |  -  |
+| 16th  |        +5         |                       Ability Score Improvement 5                       |       4        |  3  |  3  |  3  |  2  |  1  |  -  |
+| 17th  |        +6         |              Destroy Undead (CR 4), Divine Domain feature               |       5        |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  | 1   |
+| 18th  |        +6         |                        Channel Divinity (3/rest)                        |       5        |  4  |  3  |  3  |  3  |  3  |  1  |  1  |  1  | 1   |
+| 19th  |        +6         |                        Ability Score Improvement                        |       5        |  4  |  3  |  3  |  3  |  3  |  2  |  1  |  1  | 1   |
+| 20th  |        +6         |                     Divine Intervention improvement                     |       5        |  4  |  3  |  3  |  3  |  3  |  2  |  2  |  1  | 1   |
 
 ## CREATING A CLERIC
+
 As you create a cleric, the most important question to eonsider is whieh deity to serve and what principies you want your eharaeter to embody, Appendix B includes Iists of many of the gods of the multiverse, Cheek with your DM to learn whieh deities are in your eampaign. Onee you've ehosen a deity, eonsider your cleric's relationship to that god, Did you enter this servi cc willingly? ar did the god ehoose you, impelling you into service with no regard for your wishes? How do the tem pie priests of your faith regard you: as a ehampion or a troublemaker? What are your ultimate goals? Does your deity have a special task in mind for you? ar are you striving to prove yourself worthy of a great quest?
 
 ## QUICK BUILD
+
 Vou ean make a cleric quickly by following these suggestions. First, Wisdom should be your highest ability seore, followed by Strength or Constitution. Second, choose the acolyte baekground.
 
 ## CLASS FEATURES
+
 As a cleric, you gain the following class features.
 
 ### HIT POINTS
@@ -155,14 +159,13 @@ Beginning at 6th leveI, you can use your Channel Divinity twice between rests, a
 
 #### CHANNEL DIVINITY: TURN UNDEAD
 
-As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. lt also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action. 
+As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. lt also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
 ### ABILITY SCORE IMPROVEMENT
 
 domains of Knowledge, Life, and Light. As a cleric, you choose one aspect of your deity's portfolio to emphasize, and you are granted powers related to that domain. Your choice might correspond to a particular sect dedicated to your deity. Apollo, for example, could be worshiped in one region as Phoebus ("radiant") Apollo, emphasizing his influence over the Light domain, and in a different place as Apollo Acesius ("healing"), emphasizing his association with the Life domain. Alternatively, your choice of domain could simply be a malter of personal preference, the aspect of the deity that appeals to you most.
 
 Each domain's description gives examples of deities who have influence over that domain. Gods are included from the worlds of the Forgotten Realms, Greyhawk, Dragonlance, and Eberron campaign seltings, as well as from the Celtic, Greek, Norse, and Egyptian pantheons of antiquity.
-
 
 Starting at 5th leveI, when an undead fails its saving
 throw against your Turn Undead feature, the creature is
@@ -175,7 +178,6 @@ your choice by 1. As normal, you can't increase an ability
 score above 20 using this feature.
 
 DIVINE DOMAINS
-
 
 DESTROY UNDEAD
 Cleric Levei Destroys Undead ofCR ...
@@ -673,7 +675,7 @@ range of 120 feet.
 
 # DIVINE STRIKE
 
-At 8th levei, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra Id8 damage of the same type dealt by the weapon to the target. When you reach 14th levei, the extra damage increases to 2d8. War has many manifestations. lt can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war 
+At 8th levei, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra Id8 damage of the same type dealt by the weapon to the target. When you reach 14th levei, the extra damage increases to 2d8. War has many manifestations. lt can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. In either case, the gods of war
 
 # AVATAR OF BATTLE
 

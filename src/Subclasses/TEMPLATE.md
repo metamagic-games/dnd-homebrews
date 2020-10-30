@@ -3,18 +3,21 @@
 At 3rd level, a fighter gains the Martial Archetype feature. The following options are available to a fighter, in addition to those offered in the Player’s Handbook: the Cavalier.
 
 ## CAVALIER
-The archetypal Cavalier excels at mounted combat. Usually born among the nobility and raised at court, a Cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Compelled to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure. 
+
+The archetypal Cavalier excels at mounted combat. Usually born among the nobility and raised at court, a Cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Compelled to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure.
 
 #### CAVALIER FEATURES
-| Fighter Level | Feature |
-| :-: | :-: |
-| 3rd | Bonus Proficiency, Born to the Saddle, Unwavering Mark |
-| 7th  | Warding Maneuver |
-| 10th |  Hold the Line |
-| 15th |  Ferocious Charger |
-| 18th |  Vigilant Defender |
+
+| Fighter Level |                        Feature                         |
+| :-----------: | :----------------------------------------------------: |
+|      3rd      | Bonus Proficiency, Born to the Saddle, Unwavering Mark |
+|      7th      |                    Warding Maneuver                    |
+|     10th      |                     Hold the Line                      |
+|     15th      |                   Ferocious Charger                    |
+|     18th      |                   Vigilant Defender                    |
 
 ### BONUS PROFICIENCY
+
 When you choose this archetype at 3rd level, you gain proficiency in one of the following skills of your choice: Animal Handling, History, Insight, Performance, or Persuasion. Alternatively, you learn one language of your choice.
 
 ### BORN TO THE SADDLE

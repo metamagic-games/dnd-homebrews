@@ -1,7 +1,7 @@
 # Monk
 
 ## Monastic Traditions
- 
+
 At 3rd level, a monk gains the Monastic Tradition feature. Here is a playtest option for that feature: the Way of the Shadow Realm.
 
 ### Way of the Shadow Realm
@@ -14,12 +14,12 @@ Playing as a Monk of the Way of the Shadow Realm requires Yu-Gi-Oh! cards.
 
 #### Way of the Shadow Realm Features
 
-| Monk Level | Feature |
-| :-: | :-: |
-| 3rd | Spirit Bonds, Call on Spirits, Gift of the Mystical Elf |
-| 6th | Dark Strike |
-| 11th | Heart of the Cards |
-| 17th | Shadow Game |
+| Monk Level |                         Feature                         |
+| :--------: | :-----------------------------------------------------: |
+|    3rd     | Spirit Bonds, Call on Spirits, Gift of the Mystical Elf |
+|    6th     |                       Dark Strike                       |
+|    11th    |                   Heart of the Cards                    |
+|    17th    |                       Shadow Game                       |
 
 ##### Spirit Bonds
 
@@ -31,7 +31,7 @@ Your deck may contain a number of spirits equal to twice your level.
 
 ##### Call on Spirits
 
-You can only use spirit whilst they are in your hand, rather than your deck. At the beginning of each of combat turns, draw a spirit from your deck. 
+You can only use spirit whilst they are in your hand, rather than your deck. At the beginning of each of combat turns, draw a spirit from your deck.
 
 As a bonus action, you may draw a spirit from your deck.
 
@@ -41,13 +41,13 @@ Once you utilise the power of a spirit, it must rest before it can aid you again
 
 You can spend 1 Ki point to borrow the power of a spirit and bolster your defences. Play a card from your hand. You gain temporary hit points equal to the Defence of the spirit divided by 200. Place the spirit in your discard pile.
 
-For example, Millenium Shield, with Defence 3000, would confer 15 temporary hit points. 
+For example, Millenium Shield, with Defence 3000, would confer 15 temporary hit points.
 
 ##### Dark Strike
 
 You can spend 1 Ki point to borrow the power of a spirit for an attack as a bonus action. Play a card from your hand. Your next attack this turn deals extra damage equal to the Attack of the spirit divided by 200. Place the spirit in your discard pile.
 
-For example, Blue Eyes White Dragon, with Attack 3000, would deal an additional 15 damage. 
+For example, Blue Eyes White Dragon, with Attack 3000, would deal an additional 15 damage.
 
 ##### Heart of the Cards
 

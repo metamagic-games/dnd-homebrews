@@ -7,13 +7,13 @@ Here is a playtest option for that feature
 You are specialised in hand-to-hand martial skills
 
 ##### Grappler Features
-  
+
 | Fighter <br>Level | Feature |
-|:---:|:---|
-| 3nd |  |
-| 6th |  |
-| 10th |  |
-| 14th |  |
+| :---------------: | :------ |
+|        3nd        |         |
+|        6th        |         |
+|       10th        |         |
+|       14th        |         |
 
 #### Skilled grappler
 
@@ -27,6 +27,6 @@ As an action, you may throw an medium-sized ally 5 feet up and 10 feet in any di
 
 As an action, you may throw an medium-sized ally 5 feet up and 10 feet in any direction.
 
-#### Charge 
+#### Charge
 
 Charge at enemy 15 foot, carrying them the extra distance. If they hit a wall or obstacle, that target is knocked prone.Can only move target of appropriate weight.

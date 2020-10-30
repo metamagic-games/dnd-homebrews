@@ -6,7 +6,7 @@
   "scripts": {
     "build": "babel-node scripts/createRulebooks",
     "watch": "babel-node scripts/createRulebooks",
-    "format": "prettier --write scripts/",
+    "format": "prettier --write scripts/ src/",
     "format:staged": "pretty-quick --staged --pattern ./scripts/**",
     "test": "jest",
     "test:watch": "jest --watch --runInBand --bail"

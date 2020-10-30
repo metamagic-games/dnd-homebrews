@@ -24,20 +24,21 @@ if (!SourceList["MG:WotS"]) {
     name: "Metamagic Games: Way of the Selfless (v1.1)",
     abbreviation: "MG:WotS",
     group: "Metamagic Games",
-    url: "https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Subclasses/Monk/Way%20of%20the%20Selfless/WayOfTheSelfless.md",
-    date : "2020/04/26",
+    url:
+      "https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Subclasses/Monk/Way%20of%20the%20Selfless/WayOfTheSelfless.md",
+    date: "2020/04/26",
   };
-};
+}
 
 AddSubClass("monk", "selfless", {
   regExpSearch: /selfless/i,
   subname: "Way of the Selfless",
   fullname: "Monk of the Selfless Way",
-  source: [ "MG:WotS", 0 ],
+  source: ["MG:WotS", 0],
   features: {
-    "subclassfeature3": {
+    subclassfeature3: {
       name: "Limit Break",
-      source: [ "MG:WotS", 0 ],
+      source: ["MG:WotS", 0],
       minlevel: 3,
       description: desc([
         "When I move or attack, I can activate Limit Break as a reaction.",
@@ -49,37 +50,40 @@ AddSubClass("monk", "selfless", {
         "- I add my Wisdom modifier to my rolls to hit and my damage",
         "- I score a critical hit on a roll of a 19 or 20",
         "- I have advantage on ability checks",
-        "- I can perform the dash action as a bonus action"
+        "- I can perform the dash action as a bonus action",
       ]),
-      action : [ "reaction", " (after Move or Attack action)" ]
+      action: ["reaction", " (after Move or Attack action)"],
     },
-    "subclassfeature6": {
+    subclassfeature6: {
       name: "Endless Endurance",
-      source: [ "MG:WotS", 0 ],
+      source: ["MG:WotS", 0],
       minlevel: 6,
-      description: "\n   " + "When I take a long rest, I recover 2 endurance points."
+      description:
+        "\n   " + "When I take a long rest, I recover 2 endurance points.",
     },
-    "subclassfeature11": {
+    subclassfeature11: {
       name: "Unrivaled Senses",
-      source: [ "MG:WotS", 0 ],
+      source: ["MG:WotS", 0],
       minlevel: 11,
       description: desc([
         "When I would fail an ability check based on sight or hearing, I can re-roll and add my Cons modifier.",
         "If the ability check was based on sight, I am blinded.",
         "If the ability check was based on hearing, I am now deafened.",
-        "I recover fully after a short rest."
+        "I recover fully after a short rest.",
       ]),
-      action: [ "reaction", " (after fails ability check)" ],
+      action: ["reaction", " (after fails ability check)"],
       usages: 1,
-      recovery: "short rest"
+      recovery: "short rest",
     },
-    "subclassfeature17": {
+    subclassfeature17: {
       name: "Pressure Point",
-      source: [ "MG:WotS", 0 ],
+      source: ["MG:WotS", 0],
       minlevel: 17,
-      description: "[1 ki point]" + "\n   " + "When I hit another creature with a melee weapon attack, the target must succeed on a Cons save or take a point of exhaustion.",
-      action: [ "reaction", " (hit a creature)" ]
-    }
+      description:
+        "[1 ki point]" +
+        "\n   " +
+        "When I hit another creature with a melee weapon attack, the target must succeed on a Cons save or take a point of exhaustion.",
+      action: ["reaction", " (hit a creature)"],
+    },
   },
 });
-

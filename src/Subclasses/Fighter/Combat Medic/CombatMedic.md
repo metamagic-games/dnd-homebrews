@@ -4,19 +4,20 @@ At 3rd level, a fighter gains the Martial Archetype feature. Here is a playtest 
 
 ## COMBAT MEDIC
 
-Combat Medics are veterans of the battlefield, accustomed to the carnage and bloodshed of war. Combat Medics have learned how to save those around them from even the most grevious of injuries, and even to protect those under their care from potential injuries. These expert fighters know when to attack, and when to retreat to care for the wounded. Compelled by those they failed to save in the past, many of these fighters leave their lives of comfort to adventure where they are needed most. 
+Combat Medics are veterans of the battlefield, accustomed to the carnage and bloodshed of war. Combat Medics have learned how to save those around them from even the most grevious of injuries, and even to protect those under their care from potential injuries. These expert fighters know when to attack, and when to retreat to care for the wounded. Compelled by those they failed to save in the past, many of these fighters leave their lives of comfort to adventure where they are needed most.
 
 #### COMBAT MEDIC FEATURES
 
-| Fighter Level | Feature |
-| :-: | :-: |
-| 3rd | Bonus Proficiency, Combat Medic's Equipment, Healer |
-| 7th | Protective Maneuvers |
-| 10th | Veteran Medic |
-| 15th | Preventative Medicine |
-| 18th | Anatomical Precision |
+| Fighter Level |                       Feature                       |
+| :-----------: | :-------------------------------------------------: |
+|      3rd      | Bonus Proficiency, Combat Medic's Equipment, Healer |
+|      7th      |                Protective Maneuvers                 |
+|     10th      |                    Veteran Medic                    |
+|     15th      |                Preventative Medicine                |
+|     18th      |                Anatomical Precision                 |
 
 ### BONUS PROFICIENCY
+
 When you choose this archetype at 3rd level, you gain proficiency in one of the following skills of your choice: Medicine, Survival, Insight, Persuasion.
 
 ### COMBAT MEDIC'S EQUIPMENT
@@ -27,8 +28,9 @@ You kit starts with 0 uses. Whenever you make a rest, you can make a survival ch
 
 ### HEALER
 
-At 3rd level, you gain the _Healer_ feat. You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits: 
-- When you use a healer's kit to stabilize a dying creature, that creature also regains 1 hit point. 
+At 3rd level, you gain the _Healer_ feat. You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits:
+
+- When you use a healer's kit to stabilize a dying creature, that creature also regains 1 hit point.
 - As an action, you can spend one use of a healer's kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature's maximum number of Hit Dice. The creature can't regain hit points from feat again until it finishes a short or long rest.
 
 ### PROTECTIVE MANEUVERS
@@ -40,12 +42,14 @@ You can use this feature a number of times equal to your Constitution modifier (
 ### VETERAN MEDIC
 
 At 10th level, you learn to deal with injuries swiftly in the heat of battle. You gain the following benefits:
+
 - As a bonus action. you can spend one use of a healer's kit to tend to a creature and restore 1d4 + 4 hit points to it, plus additional hit points equal to the creature's maximum number of Hit Dice. The creature can't regain hit points from feat again until it finishes a short or long rest.
 - You gain the cantrip _Spare the Dying_.
 
 ### PREVENTATIVE MEDICINE
 
 At 15th level, you learn to use your Healer's Kit to better equip you and your allies for battle. You gain the following benefits:
+
 - As a bonus action, you can spend two use of a healer's kit you can give 1d6 + 4 temporary hitpoints to a target.
 - As an action, you can spend three uses of a healer's kit to give a target resistance to one type of damage.
 

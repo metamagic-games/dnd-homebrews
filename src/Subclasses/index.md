@@ -183,7 +183,6 @@
 
 - dsadasda
 
-
 ## Unearthed Arcana
 
 ### Artificer
@@ -204,7 +203,7 @@
 
 - dsadasda
 
-### 
+###
 
 #### Official
 
@@ -221,7 +220,6 @@
 #### Homebrew
 
 - dsadasda
-
 
 ## Community Homebrew
 
@@ -242,7 +240,6 @@
 #### Homebrew
 
 - dsadasda
-
 
 ## Homebrew
 
@@ -317,4 +314,3 @@
 #### Homebrew
 
 - dsadasda
-

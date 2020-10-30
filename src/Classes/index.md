@@ -16,7 +16,7 @@
 ## Unearthed Arcana
 
 - Artificer
-- 
+-
 
 ## Community Homebrew
 

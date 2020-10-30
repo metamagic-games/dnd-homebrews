@@ -32,25 +32,25 @@ As a warden, you gain the following class features.
 
 #### Hit Points
 
-__Hit Dice:__ 1d12 per warden level
+**Hit Dice:** 1d12 per warden level
 
-__Hit Points at 1st Level:__ 12 + your Constitution modifier
+**Hit Points at 1st Level:** 12 + your Constitution modifier
 
-__Hit Points at Higher Levels:__ 1d12 (or 7) + your Constitution modifier per warden level after 1st
+**Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per warden level after 1st
 
 #### Proficiencies
 
-__Armour:__ Light armor, medium armor, shields
+**Armour:** Light armor, medium armor, shields
 
-__Weapons:__ Shortswords, spears, and all simple weapons
+**Weapons:** Shortswords, spears, and all simple weapons
 
-__Tools:__ None
+**Tools:** None
 
 <br/>
 
-__Saving Throws:__ Constitution, Charisma  (Or maybe Wisdom?)
+**Saving Throws:** Constitution, Charisma (Or maybe Wisdom?)
 
-__Skills:__ Choose two from Insight, Intimidation, Medicine, Perception, Stealth, Survival
+**Skills:** Choose two from Insight, Intimidation, Medicine, Perception, Stealth, Survival
 
 #### Equipment
 
@@ -61,28 +61,28 @@ You start with the following equipment, in addition to the equipment granted by 
 - an explorer's pack
 - a relic of a past life - a simple non-functional possession, such as a picture, a letter, or simple clothing.
 
-| Level | Features                        | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th |
-| :-:| :-:                                | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1  | Soul Essence, Warden Spellcasting  | 1 | - | - | - | - | - | - | - | - |
-| 2  | Essence Feature: Soul Nature       | 1 | - | - | - | - | - | - | - | - |
-| 3  | Mark for Death                     | 2 | 2 | 1 | - | - | - | - | - | - |
-| 4  | Ability Score Improvement          | 2 | 2 | 1 | - | - | - | - | - | - |
-| 5  | Deathly Insights                   | 3 | 3 | 1 | 1 | - | - | - | - | - |
-| 6  | -                                  | 3 | 3 | 1 | 1 | - | - | - | - | - |
-| 7  | Uncanny Cadaver                    | 4 | 4 | 2 | 1 | 1 | - | - | - | - |
-| 8  | Ability Score Improvement          | 4 | 4 | 2 | 1 | 1 | - | - | - | - |
-| 9  | -                                  | 4 | 5 | 2 | 2 | 1 | 1 | - | - | - |
-| 10 | Brush with Death                   | 4 | 5 | 2 | 2 | 1 | 1 | - | - | - |
-| 11 | Spectral Vision                    | 4 | 6 | 2 | 2 | 2 | 1 | 1 | - | - |
-| 12 | Ability Score Improvement          | 4 | 6 | 2 | 2 | 2 | 1 | 1 | - | - |
-| 13 | Essence Feature: Inner Power       | 4 | 7 | 2 | 2 | 2 | 2 | 1 | 1 | - |
-| 14 | -                                  | 4 | 7 | 2 | 2 | 2 | 2 | 1 | 1 | - |
-| 15 | Allies in death                    | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
-| 16 | Ability Score Improvement          | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
-| 17 | Essence Feature: Last Gasp         | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
-| 18 | Deathly Resilience                 | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
-| 19 | Ability Score Improvement          | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
-| 20 | Deal with Death                    | 4 | 7 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
+| Level |             Features              | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th |
+| :---: | :-------------------------------: | :------------: | :----------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|   1   | Soul Essence, Warden Spellcasting |       1        |      -       |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|   2   |   Essence Feature: Soul Nature    |       1        |      -       |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|   3   |          Mark for Death           |       2        |      2       |  1  |  -  |  -  |  -  |  -  |  -  |  -  |
+|   4   |     Ability Score Improvement     |       2        |      2       |  1  |  -  |  -  |  -  |  -  |  -  |  -  |
+|   5   |         Deathly Insights          |       3        |      3       |  1  |  1  |  -  |  -  |  -  |  -  |  -  |
+|   6   |                 -                 |       3        |      3       |  1  |  1  |  -  |  -  |  -  |  -  |  -  |
+|   7   |          Uncanny Cadaver          |       4        |      4       |  2  |  1  |  1  |  -  |  -  |  -  |  -  |
+|   8   |     Ability Score Improvement     |       4        |      4       |  2  |  1  |  1  |  -  |  -  |  -  |  -  |
+|   9   |                 -                 |       4        |      5       |  2  |  2  |  1  |  1  |  -  |  -  |  -  |
+|  10   |         Brush with Death          |       4        |      5       |  2  |  2  |  1  |  1  |  -  |  -  |  -  |
+|  11   |          Spectral Vision          |       4        |      6       |  2  |  2  |  2  |  1  |  1  |  -  |  -  |
+|  12   |     Ability Score Improvement     |       4        |      6       |  2  |  2  |  2  |  1  |  1  |  -  |  -  |
+|  13   |   Essence Feature: Inner Power    |       4        |      7       |  2  |  2  |  2  |  2  |  1  |  1  |  -  |
+|  14   |                 -                 |       4        |      7       |  2  |  2  |  2  |  2  |  1  |  1  |  -  |
+|  15   |          Allies in death          |       4        |      7       |  2  |  2  |  2  |  2  |  2  |  1  |  1  |
+|  16   |     Ability Score Improvement     |       4        |      7       |  2  |  2  |  2  |  2  |  2  |  1  |  1  |
+|  17   |    Essence Feature: Last Gasp     |       4        |      7       |  2  |  2  |  2  |  2  |  2  |  1  |  1  |
+|  18   |        Deathly Resilience         |       4        |      7       |  2  |  2  |  2  |  2  |  2  |  1  |  1  |
+|  19   |     Ability Score Improvement     |       4        |      7       |  2  |  2  |  2  |  2  |  2  |  1  |  1  |
+|  20   |          Deal with Death          |       4        |      7       |  2  |  2  |  2  |  2  |  2  |  1  |  1  |
 
 ### Spellcasting
 
@@ -101,40 +101,40 @@ _minor illusion_
 _resistance_  
 _spare the dying_  
 _stabilise_  
-_true strike_  
+_true strike_
 
 ##### 1st Level
 
 _arms of hadar_  
 _bane_  
-_dancing lights_  
+_dancing lights_
 
 ##### 2nd Level
 
-_phantasmal force_  
+_phantasmal force_
 
 ##### 3rd Level
 
 _animate dead_  
 _feign death_  
 _speak with dead_  
-_spirit guardians_  
+_spirit guardians_
 
 ##### 4th Level
 
 _antilife shell_  
 _death ward_  
-_phantasmal killer_  
+_phantasmal killer_
 
 ##### 5th Level
 
 _raise dead_  
-_reincarnate_  
+_reincarnate_
 
 ##### 6th Level
 
 _circle of death_  
-_create undead_  
+_create undead_
 
 #### Cantrips
 
@@ -156,8 +156,8 @@ Constitution is your spellcasting ability for your warden spells.
 
 You use your Constitution whenever a warden spell refers to your spellcasting ability. In addition, you use your Constitution modifier when setting the saving throw DC for a warden spell you cast and when making an attack roll with one.
 
-__Spell save DC__ = 8 + your proficiency bonus + your Constitution modifier
-__Spell attack modifier__ = your proficiency bonus + your Constitution modifier
+**Spell save DC** = 8 + your proficiency bonus + your Constitution modifier
+**Spell attack modifier** = your proficiency bonus + your Constitution modifier
 
 #### Ritual Casting
 
@@ -194,6 +194,7 @@ When you reach 3rd level, you can mark a target within 15ft as a bonus action, c
 Targets marked for death remain so until they take a long rest, or you mark another target.
 
 The target has the following disadvantages:
+
 - Whenever the target is healed, that healing is reduced by 1d4.
 - Characters have advantage on intimidation checks against the target.
 
@@ -233,15 +234,16 @@ When a creature within 15 feet of you drops to 0 hit points, you can use a react
 
 ##### Borrowed Capabilities
 
-| d3 | Capability |
-| :-: | :-: |
-| 01 | You learn how to speak, read, and write one language of your choice. |
-| 02 | You gain one skill or tool proficiency of your choice. |
-| 03 | You gain proficiency with one saving throw of your choice. |
+| d3  |                              Capability                              |
+| :-: | :------------------------------------------------------------------: |
+| 01  | You learn how to speak, read, and write one language of your choice. |
+| 02  |        You gain one skill or tool proficiency of your choice.        |
+| 03  |      You gain proficiency with one saving throw of your choice.      |
 
 ### Uncanny Cadaver
 
 Beginning at 7th level, you can manipulate how a corpse is perceived by others. This has the effect of either:
+
 - Making the corpse look like it is simply sleeping; or
 - The corpse of another character;
 
@@ -251,7 +253,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 Beginning at 10th level, you remember how you died or came to the brink of death.
 
-You gain the ability to project a vision of this experience into the minds of others. As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warden spell save DC. The creatures that fail their saving throws are all frightened by you until the end of your next turn. 
+You gain the ability to project a vision of this experience into the minds of others. As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warden spell save DC. The creatures that fail their saving throws are all frightened by you until the end of your next turn.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
@@ -297,15 +299,15 @@ You eluded the forces of death through charms and illusions. You brush of death 
 
 #### Elusive Soul Spells
 
-| Spell Level | Spells |
-| :-: | :-: |
-| 1st | _dissonant whispers, silent image_ |
-| 2nd | _misty step_ |
-| 3rd | _blink_ |
-| 4th | _leomund's secret chest_ |
-| 5th | _greater invisibility_ |
-| 6th | _wind walk_ |
-| 7th | _etherealness_ |
+| Spell Level |               Spells               |
+| :---------: | :--------------------------------: |
+|     1st     | _dissonant whispers, silent image_ |
+|     2nd     |            _misty step_            |
+|     3rd     |              _blink_               |
+|     4th     |      _leomund's secret chest_      |
+|     5th     |       _greater invisibility_       |
+|     6th     |            _wind walk_             |
+|     7th     |           _etherealness_           |
 
 #### Soul Nature: Shifting
 
@@ -327,15 +329,15 @@ Your soul is naturally overflowing with life-force. The energy of your soul mani
 
 #### Resilient Soul spells
 
-| Spell Level | Spells |
-| :-: | :-: |
-| 1st | _false life, sanctuary_ |
-| 2nd | _aid_ |
-| 3rd | _aura of vitality_ |
-| 4th | _stoneskin_ |
-| 5th | _?_ |
-| 6th | _?_ |
-| 7th | _regenerate_ |
+| Spell Level |         Spells          |
+| :---------: | :---------------------: |
+|     1st     | _false life, sanctuary_ |
+|     2nd     |          _aid_          |
+|     3rd     |   _aura of vitality_    |
+|     4th     |       _stoneskin_       |
+|     5th     |           _?_           |
+|     6th     |           _?_           |
+|     7th     |      _regenerate_       |
 
 #### Soul Nature: Resilient
 
@@ -357,15 +359,15 @@ Although you did actually die, you were resurrected and are undead. You have com
 
 #### Undying Soul Spells
 
-| Spell Level | Spells |
-| :-: | :-: |
-| 1st | _cure wounds, healing word_ |
-| 2nd | _lesser restoration_ |
-| 3rd | _mass healing word, revivify_ |
-| 4th | _aura of life_ |
-| 5th | _greater restoration, mass cure wounds_ |
-| 6th | _heal_ |
-| 7th | _resurrection_ |
+| Spell Level |                 Spells                  |
+| :---------: | :-------------------------------------: |
+|     1st     |       _cure wounds, healing word_       |
+|     2nd     |          _lesser restoration_           |
+|     3rd     |      _mass healing word, revivify_      |
+|     4th     |             _aura of life_              |
+|     5th     | _greater restoration, mass cure wounds_ |
+|     6th     |                 _heal_                  |
+|     7th     |             _resurrection_              |
 
 #### Soul Nature: Eternal
 
@@ -388,15 +390,15 @@ You were almost killed by another, but your anger and drive for vengeance brough
 
 ### Vengeful Soul Spells
 
-| Spell Level | Spells |
-| :-: | :-: |
-| 1st | _inflict wounds, ray of sickness_ |
-| 2nd | _ray of enfeeblement_ |
-| 3rd | _vampiric touch_ |
-| 4th | _blight_ |
-| 5th | _destructive wave_ |
-| 6th | _harm_ |
-| 7th | _finger of death_ |
+| Spell Level |              Spells               |
+| :---------: | :-------------------------------: |
+|     1st     | _inflict wounds, ray of sickness_ |
+|     2nd     |       _ray of enfeeblement_       |
+|     3rd     |         _vampiric touch_          |
+|     4th     |             _blight_              |
+|     5th     |        _destructive wave_         |
+|     6th     |              _harm_               |
+|     7th     |         _finger of death_         |
 
 #### Soul Nature: Vengeful
 
@@ -409,10 +411,11 @@ Beginning at 13th level, your Mark for Death is upgraded.
 Whenever you take damage from a target, you can use a reaction to apply Mark for Death to them.
 
 Whilst a target is marked for death:
+
 - If they die, their soul cannot rest
 - If they take a long rest, they take a point of exhaustion
 
-Whenever you attack a target marked with Mark of Death and choose to reap, you reap with an upgraded reap and no longer take damage. 
+Whenever you attack a target marked with Mark of Death and choose to reap, you reap with an upgraded reap and no longer take damage.
 
 If your marked target dies, you heal for an additional 1d12.
 
@@ -421,10 +424,12 @@ If your marked target dies, you heal for an additional 1d12.
 Beginning at 17th level, when you are killed by a target, you can come back as a ghost and really annoy them xD
 
 Notes
+
 - Some abilities require charisma? To win over the dead?
 - Kill to unlock spell slots?
 
 Stories
+
 - Died in the past and some aspect of that death bridges a connectino to life itself
 - - Anger at those that take life away
 - fristration at the chaos of the world

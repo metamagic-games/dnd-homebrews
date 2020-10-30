@@ -4,7 +4,6 @@ Below is a collection of magic items.
 
 ---
 
-
 ---
 
 ## Items
@@ -21,7 +20,7 @@ Digs through solid stone as if it were dirt.
 
 #### Assassins Shoe Laces
 
-Wire shoelaces that can garrot 
+Wire shoelaces that can garrot
 
 #### Aether lens
 
@@ -36,7 +35,6 @@ Advantage on nature checks whilst you are in the West of Unbara.
 can perform the cantrip mending. Manages to sew up metal and stone
 
 ### B
-
 
 #### Brass dragon statue
 
@@ -122,7 +120,6 @@ Points towards the nearest temple.
 
 A beautiful cup that purifies the contents of any liquid drank from it.
 
-
 ### D
 
 #### Deck of no hopers
@@ -175,7 +172,8 @@ _(requires attunement)_
 
 If a target rolls a 1 to attack you, automatically cast Hellish Rebuke.
 
-#### Figurines of wondrous power - 
+#### Figurines of wondrous power -
+
     + Stone Falcon - throw the figurine, it comes to life and grows , flies up high, and then dives down at its target with huge speed, before returning to stone
     + Boar - mount
     + Ox - mount
@@ -183,7 +181,7 @@ If a target rolls a 1 to attack you, automatically cast Hellish Rebuke.
 
 #### Frozen tear
 
-an ice- like pendant. Once per long rest you can cast ray of frost. 
+an ice- like pendant. Once per long rest you can cast ray of frost.
 
 ### G
 
@@ -215,8 +213,6 @@ A pair of necklaces. Two wearers can swap location. The necklace shatters.
 
 Mace, crits ethereal entities on a 19 and 20.
 
-
-
 ### H
 
 #### Hammer of Kostchtchie
@@ -235,7 +231,7 @@ While attuned, reduce your health by d10 after each rest. You gain 1 use of mind
 
 #### Hiller's Cloak
 
-No matter the weather, you always seem warm 
+No matter the weather, you always seem warm
 
 #### Hlal’s breath
 
@@ -283,7 +279,7 @@ Cloak of the drowned. Weighs you down in water, allowing you to walk along the b
 
 #### Lesser winged boots
 
-you gain advantage on jumps, up and over gaps 
+you gain advantage on jumps, up and over gaps
 
 #### Levitating satchel. If it’s not weighed down it will float away. It takes a lot of the weight off
 
@@ -375,7 +371,7 @@ Sentient, can identify poisons it grinds, talks non telepathically, speaks in Un
 
 #### Puddle boots
 
-the wearer can fully submerge in incredibly shallow pools of water. If someone were to look directly into the pool, they may see them, take a stealth check to avoid detection. 
+the wearer can fully submerge in incredibly shallow pools of water. If someone were to look directly into the pool, they may see them, take a stealth check to avoid detection.
 
 #### Phoenix powder
 
@@ -410,6 +406,7 @@ You are protected from the rain by an invisible force field. If the ring is full
 You are proficient in slight of hand checks. But you are also drawn to swat any fly you see. Keep a tally. After 30 you become increasingly mutated to look a bit like a fly. By 50 you are too far gone.
 
 #### Ring of Vis
+
 _Artifact, Rare (requires attunement)_
 
 On a failed roll, you may trade a bond, personally important or significant memory in exchange for good fortune. Re-roll that roll. The memory is consumed by the ring. When you are reminded of the memory by others, you are confused and cannot re-learn the memory.
@@ -494,14 +491,14 @@ the buttons on this cloak can be removed. When stepped on they trigger tangling 
 
 A pepper pot. 6 charges. Charges do not recover; eventually just becomes pepper, though never seems to need refilling . When it’s contents are added to food and consumed, once of the following effects occur:
 
-| D6 Roll | Effect | Effect on food |
-|:----:|:-------------|
-| 1  | Holy herbs | Heal 1D4 + 1 |
-| 2  | Chilli | you gain one use of fire ball as a level 1 spell. Your tongue really burns. |
-| 3 | Familiar taste | gain advantage on your next history check |
-| 4 | Incredible taste | gain an inspiration point |
-| 5 | Bad taste | the food it was added to goes bad |
-| 6 | Bad taste | the food it was added to goes bad |
+| D6 Roll | Effect           | Effect on food                                                              |
+| :-----: | :--------------- | --------------------------------------------------------------------------- |
+|    1    | Holy herbs       | Heal 1D4 + 1                                                                |
+|    2    | Chilli           | you gain one use of fire ball as a level 1 spell. Your tongue really burns. |
+|    3    | Familiar taste   | gain advantage on your next history check                                   |
+|    4    | Incredible taste | gain an inspiration point                                                   |
+|    5    | Bad taste        | the food it was added to goes bad                                           |
+|    6    | Bad taste        | the food it was added to goes bad                                           |
 
 ### T
 
@@ -597,9 +594,7 @@ An enchanted gold tooth. When you yawn, it’s pretty catchy.
 
 ### Z
 
-
 ---
-
 
 ---
 

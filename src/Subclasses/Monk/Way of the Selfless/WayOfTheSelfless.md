@@ -10,10 +10,12 @@ No sooner is limit broken, that the energy reserve dries up,rendering the user a
 Starting when you choose this tradition at 3rd level, you can choose to use Limit Break to push your body beyond its normal limits and perform incredible feats of speed and strength. When you move or attack, you can activate Limit Break as a reaction.
 
 When you activate limit break, you immediately:
+
 - Increase your exhaustion level by 1
 - Gain 1 ki per level of exhaustion you now have
 
 Until your next turn:
+
 - You ignore the effects of exhaustion
 - You add your Wisdom modifier to your rolls to hit and your damage
 - You score a critical hit on a roll of a 19 or 20
@@ -24,16 +26,16 @@ Until your next turn:
 
 The effect of the various increasing levels of exhaustion are below.
 
-| Level | Effect |
-| :-: | :-: |
-| 1 | Disadvantage on ability checks |
-| 2 | Speed halved |
-| 3 | Disadvantage on attack rolls and saving throws |
-| 4 | Hit point maximum halved |
-| 5 | Speed reduced to 0 |
-| 6 | Death |
+| Level |                     Effect                     |
+| :---: | :--------------------------------------------: |
+|   1   |         Disadvantage on ability checks         |
+|   2   |                  Speed halved                  |
+|   3   | Disadvantage on attack rolls and saving throws |
+|   4   |            Hit point maximum halved            |
+|   5   |               Speed reduced to 0               |
+|   6   |                     Death                      |
 
-If an already exhausted creature suffers another effeet that causes exhaustion, its current level af exhaustion increases by the amount specified in the effect's description. 
+If an already exhausted creature suffers another effeet that causes exhaustion, its current level af exhaustion increases by the amount specified in the effect's description.
 
 A creature suffers the effect ofits current level of exhaustion as well as alllower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.
 

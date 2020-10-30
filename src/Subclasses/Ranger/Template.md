@@ -2,7 +2,7 @@
 
 ## Ranger Archetypes
 
-At 3rd level, a ranger gains the Ranger Archetype feature. The following options are available to a ranger, in addition to those offered in the Player’s Handbook: the Tribune. 
+At 3rd level, a ranger gains the Ranger Archetype feature. The following options are available to a ranger, in addition to those offered in the Player’s Handbook: the Tribune.
 
 ### Subclass Name
 
@@ -41,7 +41,7 @@ You have one-fewer spell slot for each spell level.
 
 ##### Tribune Magic
 
-You have no magic powers of your own, and __cannot learn any spells__, other than Arcane Well - even spells conferred upon you by patrons or other magical means. Any spells you already know are lost to you. However, Spells can be added to your spell book through the __Arcane Well__ feature.
+You have no magic powers of your own, and **cannot learn any spells**, other than Arcane Well - even spells conferred upon you by patrons or other magical means. Any spells you already know are lost to you. However, Spells can be added to your spell book through the **Arcane Well** feature.
 
 Spells you cast are removed from your spell book.
 
@@ -70,13 +70,14 @@ You may remove a spell from your spell book as a bonus action. If you do so, reg
 ##### Mage Slayer
 
 You have practiced techniques useful in melee combat against spellcasters, gaining the following benefits:
+
 - When a creature within 5 feet of you casts a spell, you can use your reaction to make a melee weapon attack against that creature.
 - When you damage a creature that is concentrating on a spell, that creature has disadvantage on the saving throw it makes to maintain its concentration.
 - You have advantage on saving throws against spells cast by creatures within 5 feet of you.
 
 ##### Magic Hunter
 
-You are attuned to the arcane and can intuitively sense magic around you. You can cast __Detect Magic__ at will.
+You are attuned to the arcane and can intuitively sense magic around you. You can cast **Detect Magic** at will.
 
 ##### Improved Arcane Well
 
@@ -92,13 +93,13 @@ When you take a short rest you may retain one spell in your spell book.
 
 ##### Predict Magic
 
-You often sense a spell being channelled before it is cast. You can choose to warn one target of any spell, including than yourself, giving that target advantage on any checks caused by that spell. This includes advantage on the check triggered by using __Arcane Well__.
+You often sense a spell being channelled before it is cast. You can choose to warn one target of any spell, including than yourself, giving that target advantage on any checks caused by that spell. This includes advantage on the check triggered by using **Arcane Well**.
 
 This feature may be used as many times per long rest equal to your wisdom modifier.
 
 ##### Disenchant Artefact
 
-__Concentration:__ 1 hour
+**Concentration:** 1 hour
 
 Roll an Arcane check. If you succeed, you are confident you can disenchant this artefact. After an hour of concentration, you have succeeded in breaking the enchantment, and the item becomes a non-magic item.
 

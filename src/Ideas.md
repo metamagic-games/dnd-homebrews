@@ -1,20 +1,24 @@
 # Ideas
 
 Something
+
 - Every time this class deals damage, gain 3 temporary hit points
 - Extra hit points on kill
-- As the temporary hit points accrue, gain other abilities. 
+- As the temporary hit points accrue, gain other abilities.
 - Also consume temporary on some abilities
 
 Totem master
+
 - Lay down healing and damage totems
 - Floating damage totems that can shoot lasers
 
 Reaper
+
 - Cleave attacks
 - Whenever you kill an enemy, summon a skeleton
 
 Other ideas
+
 - lay down a speed boosting line, like Tyrael
 - Teleporting
 - On receiving damage, gain invisibility
@@ -39,5 +43,5 @@ Other ideas
 - Lunge - Move 5 forward then make attack
 - Half movement of all things in combat by default?
 - Make 1d4 damage attacks over and over until you miss
-- Reaction: teleport 5 
+- Reaction: teleport 5
 - Create pillars, and leash target to pillar, rope them in and they take damage - kelthuzad

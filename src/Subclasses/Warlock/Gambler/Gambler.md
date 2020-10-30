@@ -4,9 +4,9 @@
 
 At 1st level, a warlock gains the Otherworldly Patron feature. Here is a playtest option for that feature: the Gambler.
 
-### The Gambler 
+### The Gambler
 
-Your patron is a mysterious entity that takes great enjoyment from observing the goings on of your plane of existence. Your patron revels in demonstrations of particular skill or luck. They will lend you aspects of their power, but using those powers is rarely simple, usually involving elements of chance. If your patron takes a particular shine to you, they may even twist fate to your favour. 
+Your patron is a mysterious entity that takes great enjoyment from observing the goings on of your plane of existence. Your patron revels in demonstrations of particular skill or luck. They will lend you aspects of their power, but using those powers is rarely simple, usually involving elements of chance. If your patron takes a particular shine to you, they may even twist fate to your favour.
 
 #### Roleplaying a Gambler
 
@@ -19,13 +19,13 @@ Discuss this element of gameplay with your dungeon master in advance.
 Your patron compels you to accept any bets or games of chance you encounter on your adventures.
 
 ##### Gambler Features
-  
-| Warlock <br>Level | Feature |
-|:---:|:---|
-| 1st | Expanded Spell List, Bonus Cantrips, Lucky |
-| 6th | Inspired Luck, Bend Luck |
-| 10th | Gambler's Debt |
-| 14th | Risky Strike |
+
+| Warlock <br>Level | Feature                                    |
+| :---------------: | :----------------------------------------- |
+|        1st        | Expanded Spell List, Bonus Cantrips, Lucky |
+|        6th        | Inspired Luck, Bend Luck                   |
+|       10th        | Gambler's Debt                             |
+|       14th        | Risky Strike                               |
 
 #### Expanded Spell List
 
@@ -33,12 +33,12 @@ The Gambler lets you choose from an expanded list of spells when you learn a war
 
 ##### Gambler Expanded Spells
 
-| Warlock <br>Level | Feature |
-|:---:|:---|
-| 1st | Death Pact, Chaos Bolt |
-| 2nd | Blur, Suggestion |
-| 3rd | Bestow Curse, Lucky Bolt |
-| 4th | Confusion, Synchronicity |
+| Warlock <br>Level | Feature                  |
+| :---------------: | :----------------------- |
+|        1st        | Death Pact, Chaos Bolt   |
+|        2nd        | Blur, Suggestion         |
+|        3rd        | Bestow Curse, Lucky Bolt |
+|        4th        | Confusion, Synchronicity |
 
 #### Bonus Cantrips
 
@@ -67,27 +67,29 @@ Starting at 6th level, you have the ability to twist fate using your wild magic.
 #### Gambler's Debt
 
 Every time you roll a D20 (ignoring rolls which you re-roll):
+
 - On a 1, lose all Inspiration Points and temporary hit points.
 - On a 20, gain an Inspiration Point, 5 temporary hit points, and D4 gold pieces.
 
 #### Risky Strike
 
 You may forgo positive modifiers for an attack. If that attack hits it deals an additional D4 necrotic damage multiplied by the modifier forgone.
-        
+
 ## Eldritch Invocations
 
 #### Truthseer
+
 _Prerequisite: 5th Level_
-<br><br> 
+<br><br>
 Honour is important to your patron, and lies physically pain you. Whenever you are lied to, take 1 psychic damage.
 
 #### Patron's Luck
+
 _Prerequisite: 9th Level_
-<br><br> 
+<br><br>
 Before roll any dice, you can choose to add 1D4 to that dice roll. If you do so, take 2d10 psychic damage.
 
 Once you use this invocation, you can’t use it again until you finish a short or long rest.
-
 
 \page
 
@@ -101,15 +103,16 @@ You gain proficiency in all games (for example, _Three-Dragon Ante_). You know t
 
 Target 2 creatures within range. Roll a D20 for each target. The target with the lower roll takes D10 necrotic damage per spell level.
 
-__Variant rules:__ Target 2 creatures within range. Using a deck of regular playing cards, draw one card for each target. The target with the lower card takes D8 necrotic damage per spell level.
-
+**Variant rules:** Target 2 creatures within range. Using a deck of regular playing cards, draw one card for each target. The target with the lower card takes D8 necrotic damage per spell level.
 
 #### Lucky Bolt
 
 Using a deck of regular playing cards, draw 1 card per spell level:
-+ The number on the card corresponds to how much damage you deal (picture cards = 10, Aces = 11).
-+ The card's suit corresponds to the type of damage dealt:
- - __Spades__ - Slashing damage
- - __Hearts__ - Necrotic damage
- - __Diamond__ - Piercing damage
- - __Club__ - Bludgeoning damage
+
+- The number on the card corresponds to how much damage you deal (picture cards = 10, Aces = 11).
+- The card's suit corresponds to the type of damage dealt:
+
+* **Spades** - Slashing damage
+* **Hearts** - Necrotic damage
+* **Diamond** - Piercing damage
+* **Club** - Bludgeoning damage
