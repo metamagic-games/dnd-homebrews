@@ -11,7 +11,6 @@ yarn-error.log
 .DS_Store
 
 # Build res
-*.pdf
 debug.html
 
 
