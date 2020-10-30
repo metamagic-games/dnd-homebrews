@@ -19,7 +19,13 @@ A Tribune's self-hatred undermines and isolates them, and after years of wanderi
 |       11th        | Improved Arcane Well, Preserve Magic                |
 |       15th        | Predict magic, Disenchant Artefact                  |
 
-<img src='https://marked.js.org/img/logo-black.svg' style='position:absolute;bottom:0px;left:0px;width:305px;mix-blend-mode:darken;' />
+<img 
+    src='https://media.githubusercontent.com/media/metamagic-games/dnd-homebrews/master/assetts/tribune.png' 
+    style='z-index: 1; position: absolute; bottom: 0px; left: 0px; width: 355px; mix-blend-mode:darken; padding: 0;' 
+/>
+
+```
+``` 
 
 > ##### Building a Tribune
 >
@@ -30,6 +36,8 @@ A Tribune's self-hatred undermines and isolates them, and after years of wanderi
 > - __Arcana__ - Tribunes may not wield magic themselves but they study it closely, so as to know how to recognise and deal with any spell.
 > - __Survival__ - Tribunes are used to travel alone and are very resourceful, depending only on themselves.
 > - __Perception__ - Tribunes are perpetually on edge, ready for battle, and as a result are very perceptive.
+
+<br/>
 
 #### Tribune Magic
 
@@ -72,6 +80,8 @@ You are attuned to the arcane and can intuitively sense magic around you. You ca
 > __Range:__ Self  
 > __Components:__ V, S  
 > __Duration:__ Concentration, up to 10 minutes
+
+<br/>
 
 For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.
 
@@ -127,9 +137,8 @@ The magic in some items if too powerful even for the most proficient adventurer.
 
 ## Credits
 
-Created by [mcclowes](http://homebrewery.naturalcrit.com/user/mcclowes). All feedback and suggestion welcome! The main aim of the Tribune is to fill a purely anti-magic niche. Flavour-wise, the image of a battle-weary warrior
+Created by [mcclowes](http://twitter.com/mcclowes). All feedback and suggestions welcome! The main aim of the Tribune is to fill a purely anti-magic niche.
 
-- Homebrewery: <http://homebrewery.naturalcrit.com/user/mcclowes>
-- Reddit: <https://www.reddit.com/user/mcclowes/>
 - Twitter: <https://twitter.com/mcclowes>
+- Reddit: <https://www.reddit.com/user/mcclowes/>
 - Personal site: <http://www.mcclowes.com/>

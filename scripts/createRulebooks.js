@@ -26,20 +26,37 @@ const options = {
   }
 };
 
-const homebrewDocuments = [
-  "./src/Classes/Warden/Warden",
-  "./src/Subclasses/Ranger/Tribune/Tribune",
+const paths = {
+  warden: "./src/Classes/Warden/Warden",
+  tribune: "./src/Subclasses/Ranger/Tribune/Tribune",
+}
+
+const documents = [
+  paths['warden'],
+  paths['tribune'],
 ];
 
 const createRulebooks = async () => {
   console.log("Creating rulebooks...");
 
-  for (let i = 0; i < homebrewDocuments.length; i++) {
-    const hbDocument = homebrewDocuments[i];
+  const cvs = process.argv.slice(2);
 
-    console.log("\n>>>", hbDocument);
+  if (cvs.length > 0) {
+    for (let i = 0; i < cvs.length; i++) {
+      const hbDocument = paths[cvs[i]];
 
-    await handbooker(`${hbDocument}.md`, `${hbDocument}.pdf`, options);
+      console.log("\n>>>", hbDocument);
+
+      await handbooker(`${hbDocument}.md`, `${hbDocument}.pdf`, options);
+    }
+  } else {
+    for (let i = 0; i < documents.length; i++) {
+      const hbDocument = documents[i];
+
+      console.log("\n>>>", hbDocument);
+
+      await handbooker(`${hbDocument}.md`, `${hbDocument}.pdf`, options);
+    }
   }
 
   console.log("\nFinished!");

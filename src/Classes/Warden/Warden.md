@@ -1,6 +1,6 @@
 ## Warden
 
-What is the raw deathly magic that Necromancers tap into? What is the essence of life that Druids access within nature? Through what channels do divine beings restore life to the faithful?
+What is the raw deathly magic that Necromancers tap into? What is the essence of life that Druids access? Through what channels do divine beings restore life to the faithful?
 
 At some point in a warden's life, they were brought to the precipice of death, only to survive the experience. However, they never truly left death behind. Caught in a limbo between life and death, Wardens have learned to harness this proximity to the essence of life, leveraging the terrible understanding they've gained from their experience.
 
@@ -8,11 +8,13 @@ At some point in a warden's life, they were brought to the precipice of death, o
 
 You’ve had a soul-shaking realization: maybe you’ve been dead before, yet somehow you are alive again; maybe you were almost killed, but survived by the skin of your teeth. One thing is for sure: who you are now is not who you once were. Your past life, or lives, are unclear to you, but you know that the shadow of death looms close by.
 
-Through whatever means you survived your near-death experience, you now know the truth about yourself: that you are one of death’s representatives among the living. This is something that remains with Wardens throughout the rest of their lives. At times, it is a curse, distancing them from those around them, and at times, it is a blessing, giving them power over life itself.
+Through whatever means you survived your near-death experience, you now know the truth about yourself: that you are one of death’s representatives among the living. This is something that remains with wardens throughout the rest of their lives. At times, it is a curse distancing them from those around them; othertimes, it is a blessing, giving them power over life itself.
 
 ### Masters of Life and Death
 
 Wardens understand the essence of life and death, and can access and manipulate them through their raw connection to this force. Wardens gain their connection through both their knowledge and insights of the other side, and an inner power that resides in their soul.
+
+![warden](https://media.githubusercontent.com/media/metamagic-games/dnd-homebrews/master/assetts/warden-1.jpg)
 
 ### Creating a Warden
 
@@ -59,6 +61,18 @@ You start with the following equipment, in addition to the equipment granted by 
 - an explorer's pack
 - a relic of a past life - a simple non-functional possession, such as a picture, a letter, or simple clothing.
 
+### Spellcasting
+
+As you learn to tap into the energies governing life and death, you can cast warden spells.
+
+Wardens lack the breadth of insight of other casters but, as they grow in power, can cast learn to limited number of spells many times.
+
+#### Cantrips
+
+At 1st level, you know two cantrips of your choice from the warden spell list. You learn additional warden cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warden table.
+
+\page
+
 | Level |             Features              | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th |
 | :---: | :-------------------------------: | :------------: | :----------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |   1   | Soul Essence, Warden Spellcasting |       1        |      -       |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
@@ -81,12 +95,6 @@ You start with the following equipment, in addition to the equipment granted by 
 |  18   |        Deathly Resilience         |       4        |      7       |  2  |  2  |  2  |  2  |  2  |  1  |  1  |
 |  19   |     Ability Score Improvement     |       4        |      7       |  2  |  2  |  2  |  2  |  2  |  1  |  1  |
 |  20   |          Deal with Death          |       4        |      7       |  2  |  2  |  2  |  2  |  2  |  1  |  1  |
-
-### Spellcasting
-
-As you learn to tap into the energies governing life and death, you can cast warden spells.
-
-Wardens lack the breadth of insight of other casters but, as they grow in power, can cast learn to limited number of spells many times.
 
 #### Warden Spell List
 
@@ -134,12 +142,6 @@ _reincarnate_
 _circle of death_  
 _create undead_
 
-#### Cantrips
-
-At 1st level, you know two cantrips of your choice from the warden spell list. You learn additional warden cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warden table.
-
-\page
-
 #### Casting Spells
 
 The Warden table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
@@ -164,6 +166,8 @@ You can cast a warden spell as a ritual if that spell has the ritual tag. To cas
 #### Spellcasting Focus
 
 You can use your relic of a past life as a spellcasting focus for your warden spells.
+
+\page
 
 ### Soul Essence
 
@@ -247,6 +251,10 @@ Beginning at 7th level, you can manipulate how a corpse is perceived by others. 
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
+\page
+
+![warden 2](https://media.githubusercontent.com/media/metamagic-games/dnd-homebrews/master/assetts/warden-3.jpg)
+
 ### Brush with Death
 
 Beginning at 10th level, you remember how you died or came to the brink of death.
@@ -291,11 +299,22 @@ Beginning at 20th level, you can exchange your life for another's, and die in th
 
 Beginning at 1st level, you begin to understand the essence of your soul, and how you survived your experiences because of its true nature. As your powers grow, you begin to understand how it has been changed by this proximity to death.
 
+<div class='descriptive'>
+##### Time to Drop Knowledge
+
+I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class. 
+</div>
+
+
+\page
+
 ### Elusive Soul
 
 You eluded the forces of death through charms and illusions. You brush of death through the subtle nature of your soul, even dancing between the material and ethereal planes.
 
 #### Elusive Soul Spells
+
+<br/>
 
 | Spell Level |               Spells               |
 | :---------: | :--------------------------------: |
@@ -327,6 +346,8 @@ Your soul is naturally overflowing with life-force. The energy of your soul mani
 
 #### Resilient Soul spells
 
+<br/>
+
 | Spell Level |         Spells          |
 | :---------: | :---------------------: |
 |     1st     | _false life, sanctuary_ |
@@ -357,6 +378,8 @@ Although you did actually die, you were resurrected and are undead. You have com
 
 #### Undying Soul Spells
 
+<br/>
+
 | Spell Level |                 Spells                  |
 | :---------: | :-------------------------------------: |
 |     1st     |       _cure wounds, healing word_       |
@@ -382,11 +405,15 @@ Beginning at 13th level, when necromantic powers that give you life begin to unr
 
 Beginning at 17th level, when at death’s door, you can converse with the powers of death. You have advantage on death saving throws, and whenever you make a death saving throw, your spirit can ask an entity of death a question that can be answered with “yes,” “no,” or “unknown.” The entity answers truthfully, using the knowledge of all those who have died.
 
+\page
+
 ### Vengeful Soul
 
 You were almost killed by another, but your anger and drive for vengeance brought you back.
 
-### Vengeful Soul Spells
+#### Vengeful Soul Spells
+
+<br/>
 
 | Spell Level |              Spells               |
 | :---------: | :-------------------------------: |
@@ -437,3 +464,11 @@ Stories
 - Not patron like, more a looses association - might offer to avenge spirit, and that spirit will help for that quest
 
 - Tormented essence - you didn't die, you've been around death so frequently that you have become haunted. Either you killed a lot or were around people who died
+
+## Credits
+
+Created by [mcclowes](http://twitter.com/mcclowes). All feedback and suggestions welcome!
+
+- Twitter: <https://twitter.com/mcclowes>
+- Reddit: <https://www.reddit.com/user/mcclowes/>
+- Personal site: <http://www.mcclowes.com/>
