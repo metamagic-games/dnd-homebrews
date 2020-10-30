@@ -19,7 +19,7 @@ A Tribune's self-hatred undermines and isolates them, and after years of wanderi
 |       11th        | Improved Arcane Well, Preserve Magic                |
 |       15th        | Predict magic, Disenchant Artefact                  |
 
-![tribune](./assetts/tribune.png)
+<img src='https://marked.js.org/img/logo-black.svg' style='position:absolute;bottom:0px;left:0px;width:305px;mix-blend-mode:darken;' />
 
 > ##### Building a Tribune
 >
