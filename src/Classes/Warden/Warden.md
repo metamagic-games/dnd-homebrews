@@ -2,7 +2,7 @@
 
 What is the raw deathly magic that Necromancers tap into? What is the essence of life that Druids access within nature? Through what channels do divine beings restore life to the faithful?
 
-At some point in a warden's life, they were brought to the precipice of death, only to survive the experience. However, they never truly left death behind. Caught in a limbo between life and death, Wardens have learned to harness this proximity to the essence of life, leveraging the terrible understanding they've gain from their experience.
+At some point in a warden's life, they were brought to the precipice of death, only to survive the experience. However, they never truly left death behind. Caught in a limbo between life and death, Wardens have learned to harness this proximity to the essence of life, leveraging the terrible understanding they've gained from their experience.
 
 ### On the edge of death
 
@@ -32,25 +32,23 @@ As a warden, you gain the following class features.
 
 #### Hit Points
 
-**Hit Dice:** 1d12 per warden level
+__Hit Dice:__ 1d12 per warden level
 
-**Hit Points at 1st Level:** 12 + your Constitution modifier
+__Hit Points at 1st Level:__ 12 + your Constitution modifier
 
-**Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per warden level after 1st
+__Hit Points at Higher Levels:__ 1d12 (or 7) + your Constitution modifier per warden level after 1st
 
 #### Proficiencies
 
-**Armour:** Light armor, medium armor, shields
+__Armour:__ Light armor, medium armor, shields
 
-**Weapons:** Shortswords, spears, and all simple weapons
+__Weapons:__ Shortswords, spears, and all simple weapons
 
-**Tools:** None
+__Tools:__ None
 
-<br/>
+__Saving Throws:__ Constitution, Charisma (Or maybe Wisdom?)
 
-**Saving Throws:** Constitution, Charisma (Or maybe Wisdom?)
-
-**Skills:** Choose two from Insight, Intimidation, Medicine, Perception, Stealth, Survival
+__Skills:__ Choose two from Insight, Intimidation, Medicine, Perception, Stealth, Survival
 
 #### Equipment
 
@@ -156,8 +154,8 @@ Constitution is your spellcasting ability for your warden spells.
 
 You use your Constitution whenever a warden spell refers to your spellcasting ability. In addition, you use your Constitution modifier when setting the saving throw DC for a warden spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your Constitution modifier
-**Spell attack modifier** = your proficiency bonus + your Constitution modifier
+__Spell save DC__ = 8 + your proficiency bonus + your Constitution modifier
+__Spell attack modifier__ = your proficiency bonus + your Constitution modifier
 
 #### Ritual Casting
 
