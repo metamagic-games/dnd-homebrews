@@ -420,8 +420,6 @@ If your marked target dies, you heal for an additional 1d12.
 
 Beginning at 17th level, when you are killed by a target, you can come back as a ghost and really annoy them xD
 
--------
-
 Notes
 - Some abilities require charisma? To win over the dead?
 - Kill to unlock spell slots?
