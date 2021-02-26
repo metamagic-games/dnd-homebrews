@@ -29,11 +29,13 @@ const options = {
 const paths = {
   warden: "./src/Classes/Warden/Warden",
   tribune: "./src/Subclasses/Ranger/Tribune/Tribune",
+  medic: "./src/Subclasses/Fighter/CombatMedic/CombatMedic",
 }
 
 const documents = [
   paths['warden'],
   paths['tribune'],
+  paths['medic'],
 ];
 
 const createRulebooks = async () => {
