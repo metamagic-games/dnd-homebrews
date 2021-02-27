@@ -1,7 +1,7 @@
 {
-  "name": "handbooker-sample-project",
+  "name": "dnd-homebrews",
   "version": "1.1.1",
-  "description": "Hammerheim rules project",
+  "description": "D&D 5e homebrew content by @mcclowes",
   "main": "index.js",
   "scripts": {
     "build": "babel-node scripts/createRulebooks",
