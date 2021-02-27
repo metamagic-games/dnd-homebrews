@@ -448,22 +448,20 @@ If your marked target dies, you heal for an additional 1d12.
 
 Beginning at 17th level, when you are killed by a target, you can come back as a ghost and really annoy them xD
 
-Notes
+# WIP Notes
 
 - Some abilities require charisma? To win over the dead?
 - Kill to unlock spell slots?
+- Tormented essence - you didn't die, you've been around death so frequently that you have become haunted. Either you killed a lot or were around people who died
 
-Stories
-
-- Died in the past and some aspect of that death bridges a connectino to life itself
-- - Anger at those that take life away
+## Stories
+- Died in the past and some aspect of that death bridges a connection to life itself
+- Anger at those that take life away
 - fristration at the chaos of the world
 - understanding of the order in death and life
 - Talk to tdead with and guided by spirits
 - Ritual spell
 - Not patron like, more a looses association - might offer to avenge spirit, and that spirit will help for that quest
-
-- Tormented essence - you didn't die, you've been around death so frequently that you have become haunted. Either you killed a lot or were around people who died
 
 ## Credits
 

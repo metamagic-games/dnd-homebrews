@@ -6,7 +6,7 @@ At 1st level, a warlock gains the Otherworldly Patron feature. Here is a playtes
 
 ### The Gambler
 
-Your patron is a mysterious entity that takes great enjoyment from observing the goings on of your plane of existence. Your patron revels in demonstrations of particular skill or luck. They will lend you aspects of their power, but using those powers is rarely simple, usually involving elements of chance. If your patron takes a particular shine to you, they may even twist fate to your favour.
+Your patron is a mysterious entity that takes great enjoyment from observing the goings on of your plane of existence. Your patron revels in demonstrations of particular skill or pure luck. They will lend you aspects of their power, but using those powers is rarely simple, usually involving elements of chance. If your patron takes a particular shine to you, they may even twist fate to your favour.
 
 #### Roleplaying a Gambler
 
