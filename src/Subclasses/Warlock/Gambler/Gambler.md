@@ -4,6 +4,8 @@
 
 At 1st level, a warlock gains the Otherworldly Patron feature. Here is a playtest option for that feature: the Gambler.
 
+![gambler](https://external-preview.redd.it/-tkOClVt-3eT-b9JmjuyEDR6GekdfetooGiU9o0hsRQ.jpg?auto=webp&s=a9329f4c325ebfbe547aa9bbfbc9629d439ebf1c)
+
 ### The Gambler
 
 Your patron is a mysterious entity that takes great enjoyment from observing the goings on of your plane of existence. Your patron revels in demonstrations of particular skill or pure luck. They will lend you aspects of their power, but using those powers is rarely simple, usually involving elements of chance. If your patron takes a particular shine to you, they may even twist fate to your favour.
@@ -64,6 +66,8 @@ At the beginning of each day, roll a D6. If you roll a six, you gain an Inspirat
 
 Starting at 6th level, you have the ability to twist fate using your wild magic. Once per long rest, when another creature you can see makes an attack roll, an ability check, or a saving throw, you can use a reaction to roll 1d4 and apply the number rolled as a bonus or penalty (your choice) to the creature’s roll. You can do so after the creature rolls but before any effects of the roll occur.
 
+\page
+
 #### Gambler's Debt
 
 Every time you roll a D20 (ignoring rolls which you re-roll):
@@ -90,8 +94,6 @@ _Prerequisite: 9th Level_
 Before roll any dice, you can choose to add 1D4 to that dice roll. If you do so, take 2d10 psychic damage.
 
 Once you use this invocation, you can’t use it again until you finish a short or long rest.
-
-\page
 
 #### Prolific Gambler
 

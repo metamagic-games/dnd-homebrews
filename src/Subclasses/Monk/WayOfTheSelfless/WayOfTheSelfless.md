@@ -5,6 +5,8 @@ Monks of the Way of the Selfless follow a tradition that condones self-sacrifice
 Unleash the energy reserves of the body in rapid explosive bursts, providing superhuman speed and agility for but a moment.
 No sooner is limit broken, that the energy reserve dries up,rendering the user a husk of their former self.
 
+![rock lee](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b849fc8-710c-4e18-a8a8-6b635d761cd6/de6fdpj-d3238fba-b39f-4d02-a2c1-71ddcee2c4bf.jpg/v1/fill/w_544,h_350,q_70,strp/rock_lee_vs_gaara_by_kangjason_de6fdpj-350t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD02NTkiLCJwYXRoIjoiXC9mXC80Yjg0OWZjOC03MTBjLTRlMTgtYThhOC02YjYzNWQ3NjFjZDZcL2RlNmZkcGotZDMyMzhmYmEtYjM5Zi00ZDAyLWEyYzEtNzFkZGNlZTJjNGJmLmpwZyIsIndpZHRoIjoiPD0xMDI0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.19Rlx0dJr9_yYLLj5RBW_winUverrpbwNWEMF7bI-1A)
+
 ### Limit Break
 
 Starting when you choose this tradition at 3rd level, you can choose to use Limit Break to push your body beyond its normal limits and perform incredible feats of speed and strength. When you move or attack, you can activate Limit Break as a reaction.
@@ -71,6 +73,8 @@ A deafened creature can’t hear and automatically fails any ability check that 
 
 At 17th level, you gain the ability to damage the bodies of your opponent. When you hit another creature with a melee weapon attack. you can spend 1 ki point to attempt to strike a pressure point and cripple your target. The target must succeed on a Constitution saving throw or take a point of exhaustion.
 
+\page
+
 # Designer Notes
 
 ## The Concept
@@ -79,8 +83,10 @@ The idea behind this subclass is to capture that anime trope (exemplified by Roc
 
 ## Considerations
 
-This is a complex subclass to play. Limit Break provides an extremely powerful tool for the player, but using it too early in a fight or dungeon will leave the monk exposes.
+This is a complex subclass to play. Limit Break provides an extremely powerful tool for the player, but using it too early in a fight or dungeon will leave the monk exposed.
 
 Allowing a player to use this monk also requires consideration from the DM. Limit Break has potential to be exploited, if the player remains in situations where long rests are always feasible.
 
 ## Roleplaying notes
+
+Is your monk happy to injure themselves because they want to protect others? Or maybe their desire for power is so strong they're willing to risk everything.

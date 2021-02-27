@@ -29,6 +29,8 @@ const options = {
 const paths = {
   warden: "./src/Classes/Warden/Warden",
   tribune: "./src/Subclasses/Ranger/Tribune/Tribune",
+  gambler: "./src/Subclasses/Warlock/Gambler/Gambler",
+  selfless: "./src/Subclasses/Monk/WayOfTheSelfless/WayOfTheSelfless",
   medic: "./src/Subclasses/Fighter/CombatMedic/CombatMedic",
   brood: "./src/Races/Brood/Brood",
   vakkyr: "./src/Races/Vakkyr/Vakkyr",
