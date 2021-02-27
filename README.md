@@ -21,3 +21,27 @@ When setting up you MPMB character sheet, there is an option to import a new fil
 ## Contributing
 
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are welcome!
+
+## Content
+
+### Classes
+
+- [Warden](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Classes/Warden/Warden.pdf) - Wardens understand the essence of life and death, and can access and manipulate them through their raw connection to this force. 
+
+### Subclasses
+
+#### Fighter
+
+- [Combat Medic](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Subclasses/Fighter/CombatMedic/CombatMedic.pdf) - These fighters have learned how to save themselves and those around them from even the most grevious of injuries, and to protect those under their care from potential ones. 
+
+#### Monk
+
+- [Way of the Selfless](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Subclasses/Monk/Way%20of%20the%20Selfless/WayOfTheSelfless.md) - These Monks have developed a number of techniques that unlock the full capabilities of their bodies, risking death in the process.
+
+#### Ranger
+
+- [Tribune](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Subclasses/Ranger/Tribune/Tribune.pdf) - Though they cannot learn spells of their own, they have a rare ability to store, and even manipulate, the magic of others.
+
+#### Warlock
+
+- [Gambler](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Subclasses/Warlock/Gambler/Gambler.md) - These warlocks' patrons are a mysterious entities that take great enjoyment from observing the goings on of the universe, revelling in demonstrations of particular skill or pure luck. 

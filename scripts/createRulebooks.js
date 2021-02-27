@@ -30,12 +30,24 @@ const paths = {
   warden: "./src/Classes/Warden/Warden",
   tribune: "./src/Subclasses/Ranger/Tribune/Tribune",
   medic: "./src/Subclasses/Fighter/CombatMedic/CombatMedic",
+  brood: "./src/Races/Brood/Brood",
+  vakkyr: "./src/Races/Vakkyr/Vakkyr",
+  pearl: "./src/Races/Pearl/Pearl",
+  spells: "./src/Spells/Spells",
+  magicItems: "./src/Gear/MagicItems",
+  umbarans: "./src/Subraces/Human/Umbarans",
 }
 
 const documents = [
   paths['warden'],
   paths['tribune'],
   paths['medic'],
+  paths['brood'],
+  paths['vakkyr'],
+  paths['pearl'],
+  paths['spells'],
+  paths['magicItems'],
+  paths['umbarans'],
 ];
 
 const createRulebooks = async () => {
