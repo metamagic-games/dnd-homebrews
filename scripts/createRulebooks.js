@@ -36,19 +36,8 @@ const paths = {
   spells: "./src/Spells/Spells",
   magicItems: "./src/Gear/MagicItems",
   umbarans: "./src/Subraces/Human/Umbarans",
+  injuries: "./src/Rules/SeriousInjuries",
 }
-
-const documents = [
-  paths['warden'],
-  paths['tribune'],
-  paths['medic'],
-  paths['brood'],
-  paths['vakkyr'],
-  paths['pearl'],
-  paths['spells'],
-  paths['magicItems'],
-  paths['umbarans'],
-];
 
 const createRulebooks = async () => {
   console.log("Creating rulebooks...");
@@ -57,19 +46,21 @@ const createRulebooks = async () => {
 
   if (cvs.length > 0) {
     for (let i = 0; i < cvs.length; i++) {
-      const hbDocument = paths[cvs[i]];
+      const rule = paths[cvs[i]];
 
-      console.log("\n>>>", hbDocument);
+      console.log("\n>>>", rule);
 
-      await handbooker(`${hbDocument}.md`, `${hbDocument}.pdf`, options);
+      await handbooker(`${rule}.md`, `${rule}.pdf`, options);
     }
   } else {
+    const documents = Object.keys(paths);
+    
     for (let i = 0; i < documents.length; i++) {
-      const hbDocument = documents[i];
+      const rule = documents[i];
 
-      console.log("\n>>>", hbDocument);
+      console.log("\n>>>", rule);
 
-      await handbooker(`${hbDocument}.md`, `${hbDocument}.pdf`, options);
+      await handbooker(`${rule}.md`, `${rule}.pdf`, options);
     }
   }
 

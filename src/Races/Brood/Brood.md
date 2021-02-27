@@ -4,9 +4,11 @@ _I was walking through the woods on the west of town when I was ambushed by band
 
 _The beast then tried to communicate me with a series of gutteral sounds, before it tired of me and flew away_
 
-- Writer of the story, _Source of the story_
+- Encounters in Yar-Zun, _Benton Forchristsake_
 
 Brood are a rare and ancient race of humanoid insects,
+
+![fat ol brood](https://cdnb.artstation.com/p/assets/images/images/021/807/585/20191106000914/smaller_square/joshua-carrenca-red-bug.jpg?1573020554)
 
 ### Brood Lifecycle
 
@@ -27,10 +29,10 @@ The eggs hatch at some point into an immobile larvae which eats the food prepare
 
 Brood are a diverse race that resemble all kinds of insects that are still common place today. Their bodies and personalities are
 
-#### BROOD GUIDE
+##### Brood Guide
 
-| :-: | :-: |
 | d6 | Carapace finish |
+| :-: | :-: |
 | 1 | Jet Black |
 | 2 | Metallic green |
 | 3 | Orange with black spots |
@@ -69,6 +71,8 @@ Your Brood character has certain characteristics in common with all other Brood.
 
 **Age.** Brood are born as adults, and can live 20 to almost 35 years.
 
+\page
+
 **Alignment.** Brood are innately social, and tend towards good. Brood are often neutral or chaotic, though those who have found other brood may begin to rest and integrate into society and become more lawful.
 
 **Size.** Brood vary in shape and size, and are between 5 and 9 feet tall and average about 130 pounds. Your size is Medium.
@@ -104,7 +108,7 @@ Brood have advantage on insight towards other brood, and disadvantage on decepti
 **Subrace.** Three subraces of brood exist: protector Leatherwing, Bombardier, and Rhinocerous. Choose
 one of them for your character.
 
-### Leatherwing
+#### Leatherwing
 
 Leatherwing are slight Brood with developed wings that allow them to fly for short periods of time.
 
@@ -116,7 +120,9 @@ Your transformation lasts for 1 hour or until you end it as a bonus action. Duri
 
 Once you use this trait, you can't use it again until you finish a long rest.
 
-### Bombardier
+![leatherwing](https://cdnb.artstation.com/p/assets/images/images/019/885/013/large/joshua-carrenca-cell-lookalike.jpg?1565417503)
+
+#### Bombardier
 
 Bomardier Brood have acidic saliva, and stores sacks of the acidic substance in their chest cavity.
 
@@ -126,7 +132,7 @@ Bomardier Brood have acidic saliva, and stores sacks of the acidic substance in 
 
 Additionally, once per long rest when you take damage, you may cast Acid Splash as a reaction.
 
-### Rhinocerous
+#### Rhinocerous
 
 These Brood have a distinctive large horn atop their head, which they use in battle like a lance
 

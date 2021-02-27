@@ -24,6 +24,10 @@ If you'd like to contribute, please fork the repository and use a feature branch
 
 ## Content
 
+### Additional Rules
+
+- [Serious Injuries](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Rules/SeriousInjuries.pdf)
+
 ### Classes
 
 - [Warden](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Classes/Warden/Warden.pdf) - Wardens understand the essence of life and death, and can access and manipulate them through their raw connection to this force. 
