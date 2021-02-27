@@ -21,11 +21,9 @@
     "url": "git+https://github.com/hammerheim-game/hammerheim-rules.git"
   },
   "keywords": [
-    "hammerheim",
+    "dnd",
+    "homebrew",
     "rules",
-    "mordheim",
-    "warhammer",
-    "tabletop",
     "game"
   ],
   "author": "Max Clayton Clowes <maxcc@me.com>",

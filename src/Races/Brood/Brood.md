@@ -31,14 +31,14 @@ Brood are a diverse race that resemble all kinds of insects that are still commo
 
 ##### Brood Guide
 
-| d6 | Carapace finish |
-| :-: | :-: |
-| 1 | Jet Black |
-| 2 | Metallic green |
-| 3 | Orange with black spots |
-| 4 | Red with Black stripes |
-| 5 | A bark-like texture |
-| 6 | Brown with white spots |
+| d6  |     Carapace finish     |
+| :-: | :---------------------: |
+|  1  |        Jet Black        |
+|  2  |     Metallic green      |
+|  3  | Orange with black spots |
+|  4  | Red with Black stripes  |
+|  5  |   A bark-like texture   |
+|  6  | Brown with white spots  |
 
 | d6  |           Nature           |
 | :-: | :------------------------: |

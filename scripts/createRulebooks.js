@@ -23,7 +23,7 @@ const options = {
     // "tokenizer": null,
     // "walkTokens": null,
     // "xhtml": false
-  }
+  },
 };
 
 const paths = {
@@ -37,7 +37,7 @@ const paths = {
   magicItems: "./src/Gear/MagicItems",
   umbarans: "./src/Subraces/Human/Umbarans",
   injuries: "./src/Rules/SeriousInjuries",
-}
+};
 
 const createRulebooks = async () => {
   console.log("Creating rulebooks...");
@@ -54,7 +54,7 @@ const createRulebooks = async () => {
     }
   } else {
     const documents = Object.keys(paths);
-    
+
     for (let i = 0; i < documents.length; i++) {
       const rule = documents[i];
 

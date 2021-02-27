@@ -34,23 +34,23 @@ As a warden, you gain the following class features.
 
 #### Hit Points
 
-__Hit Dice:__ 1d12 per warden level
+**Hit Dice:** 1d12 per warden level
 
-__Hit Points at 1st Level:__ 12 + your Constitution modifier
+**Hit Points at 1st Level:** 12 + your Constitution modifier
 
-__Hit Points at Higher Levels:__ 1d12 (or 7) + your Constitution modifier per warden level after 1st
+**Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per warden level after 1st
 
 #### Proficiencies
 
-__Armour:__ Light armor, medium armor, shields
+**Armour:** Light armor, medium armor, shields
 
-__Weapons:__ Shortswords, spears, and all simple weapons
+**Weapons:** Shortswords, spears, and all simple weapons
 
-__Tools:__ None
+**Tools:** None
 
-__Saving Throws:__ Constitution, Charisma (Or maybe Wisdom?)
+**Saving Throws:** Constitution, Charisma (Or maybe Wisdom?)
 
-__Skills:__ Choose two from Insight, Intimidation, Medicine, Perception, Stealth, Survival
+**Skills:** Choose two from Insight, Intimidation, Medicine, Perception, Stealth, Survival
 
 #### Equipment
 
@@ -156,8 +156,8 @@ Constitution is your spellcasting ability for your warden spells.
 
 You use your Constitution whenever a warden spell refers to your spellcasting ability. In addition, you use your Constitution modifier when setting the saving throw DC for a warden spell you cast and when making an attack roll with one.
 
-__Spell save DC__ = 8 + your proficiency bonus + your Constitution modifier
-__Spell attack modifier__ = your proficiency bonus + your Constitution modifier
+**Spell save DC** = 8 + your proficiency bonus + your Constitution modifier
+**Spell attack modifier** = your proficiency bonus + your Constitution modifier
 
 #### Ritual Casting
 
@@ -302,9 +302,9 @@ Beginning at 1st level, you begin to understand the essence of your soul, and ho
 <div class='descriptive'>
 ##### Time to Drop Knowledge
 
-I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class. 
-</div>
+I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class.
 
+</div>
 
 \page
 
@@ -455,6 +455,7 @@ Beginning at 17th level, when you are killed by a target, you can come back as a
 - Tormented essence - you didn't die, you've been around death so frequently that you have become haunted. Either you killed a lot or were around people who died
 
 ## Stories
+
 - Died in the past and some aspect of that death bridges a connection to life itself
 - Anger at those that take life away
 - fristration at the chaos of the world
