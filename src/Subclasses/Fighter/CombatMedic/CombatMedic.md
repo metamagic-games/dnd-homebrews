@@ -8,7 +8,9 @@ At 3rd level, a fighter gains the Martial Archetype feature. Here is a playtest 
 
 ### Combat Medic
 
-Combat Medics are veterans of the battlefield, accustomed to the carnage and bloodshed of war. Combat Medics have learned how to save themselves and those around them from even the most grevious of injuries, and to protect those under their care from potential ones. These expert fighters know when to attack, and when to retreat to care for the wounded. Compelled by those they failed to save in the past, many of these fighters leave their lives of comfort to adventure where they are needed most.
+Combat Medics are veterans of the battlefield, accustomed to the carnage and bloodshed of war. Combat Medics have learned how to save themselves and those around them from even the most grevious of injuries, and to protect those under their care from potential ones. 
+
+These expert fighters know when to attack, and when to retreat to care for the wounded. Compelled by those they failed to save in the past, many of these fighters leave their lives of comfort to adventure where they are needed most.
 
 ##### Combat Medic Features
 
@@ -54,8 +56,8 @@ At 10th level, you learn to deal with injuries swiftly in the heat of battle. Yo
 
 At 15th level, you learn to use your Healer's Kit to better prepare you and your allies for battle. You gain the following benefits:
 
-- As a bonus action, you can spend two uses of a healer's kit to give 1d6 + 4 temporary hitpoints to a target.
-- As an action, you can spend three uses of a healer's kit to give a target resistance to one type of damage.
+- As a bonus action, you can spend two uses of a healer's kit to give 1d6 + 4 temporary hitpoints to a target until their next short or long rest.
+- As an action, you can spend four uses of a healer's kit to give a target resistance to one type of damage until their next short or long rest.
 
 #### Anatomical Precision
 
