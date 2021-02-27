@@ -45,3 +45,18 @@ If you'd like to contribute, please fork the repository and use a feature branch
 #### Warlock
 
 - [Gambler](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Subclasses/Warlock/Gambler/Gambler.md) - These warlocks' patrons are a mysterious entities that take great enjoyment from observing the goings on of the universe, revelling in demonstrations of particular skill or pure luck. 
+
+### Races
+
+- [Brood](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Races/Brood/Brood.pdf) - 
+- [Vakkyr](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Races/Vakkyr/Vakkyr.pdf) - 
+- [Pearl](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Races/Pearl/Pearl.pdf) - 
+
+#### Subraces
+
+- [Umbaran human variants](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Subraces/Human/Umbarans.pdf) - 
+
+### Resources
+
+- [Spells](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Spells/Spells.pdf)
+- [Magic Items](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Gear/MagicItems.pdf)
