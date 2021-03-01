@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hammerheim-game/hammerheim-rules.git"
+    "url": "git+https://github.com/metamagic-games/dnd-homebrews.git"
   },
   "keywords": [
     "dnd",
@@ -29,9 +29,9 @@
   "author": "Max Clayton Clowes <maxcc@me.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hammerheim-game/hammerheim-sample-project/issues"
+    "url": "https://github.com/metamagic-games/dnd-homebrews/issues"
   },
-  "homepage": "https://github.com/hammerheim-game/hammerheim-sample-project#readme",
+  "homepage": "https://github.com/metamagic-games/dnd-homebrews#readme",
   "dependencies": {},
   "devDependencies": {
     "@babel/cli": "^7.12.1",
