@@ -6,7 +6,7 @@ _The beast then tried to communicate me with a series of gutteral sounds, before
 
 - Encounters in Yar-Zun, _Benton Forchristsake_
 
-Brood are a rare and ancient race of humanoid insects,
+Brood are a rare and ancient race of humanoid insects that emerge from their underground nests so rarely that they are little more than myth to most.
 
 ![fat ol brood](https://cdnb.artstation.com/p/assets/images/images/021/807/585/20191106000914/smaller_square/joshua-carrenca-red-bug.jpg?1573020554)
 
@@ -14,8 +14,7 @@ Brood are a rare and ancient race of humanoid insects,
 
 Once the egg of a Brood is laid, it takes a prime number of years between 100 and 500 years to hatch.
 
-They emerge as mature adults, and it is their overwhelming mission to create offspring of their own.
-Their desire to find a mate means they can be found everywhere and anywhere
+They emerge as mature adults, and it is their overwhelming mission to create offspring of their own. Their desire to find a mate means they can be found everywhere and anywhere
 
 Brood fill the nest with food for the larvae. To give their child the best chance, some brood bury the egg with weaponry and equipment for when they hatch. The more sentimental even leave heirlooms of their own lives or information about themselves.
 
