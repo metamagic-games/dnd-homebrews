@@ -4,8 +4,6 @@
 
 At 3rd level, a fighter gains the Martial Archetype feature. Here is a playtest option for that feature: the Combat Medic.
 
-![injured](https://i.pinimg.com/originals/bc/82/27/bc8227bca9a5439f6b58d76476a97e0e.jpg)
-
 ### Combat Medic
 
 Combat Medics are veterans of the battlefield, accustomed to the carnage and bloodshed of war. Combat Medics have learned how to save themselves and those around them from even the most grevious of injuries, and to protect those under their care from potential ones.
@@ -29,6 +27,15 @@ When you choose this archetype at 3rd level, you gain proficiency in one of the 
 #### Combat Medic's Equipment
 
 At 3rd level, you gain access to an empty _Healer's Kit_. This kit is a leather pouch containing bandages, salves, and splints. The kit has up to ten uses. As an action, you can expend one use of the kit to stabilize a creature that has O hit points, without needing to make a Wisdom (Medicine) check.
+
+<img 
+    src='https://i.imgur.com/ITKKNL8.png' 
+    style='z-index: 1; position: absolute; bottom: 0px; left: 0px; width: 355px; mix-blend-mode:darken; padding: 0;' 
+/>
+
+```
+
+```
 
 Your kit starts with 0 uses. Whenever you rest, you can choose make a survival check to scavenge for more supplies (DC15). If you succeed during a Short Rest, your kit gains 1 use. If you succeed during a Long Rest, your kit gains 1d4 uses.
 
