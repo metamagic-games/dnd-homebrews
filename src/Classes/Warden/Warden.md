@@ -71,7 +71,7 @@ At 1st level, you know two cantrips of your choice from the warden spell list. Y
 
 <img 
     src='https://media.githubusercontent.com/media/metamagic-games/dnd-homebrews/master/assetts/warden-1.png' 
-    style='z-index: 1; position: absolute; bottom: 0px; right: 0px; width: 405px; mix-blend-mode:darken; padding: 0;' 
+    style='z-index: 1; position: absolute; bottom: 0px; right: 0px; width: 405px; mix-blend-mode: hard-light; padding: 0;' 
 />
 
 \page
@@ -360,56 +360,59 @@ At 1st level, you know two cantrips of your choice from the warden spell list. Y
 </div>
 
 #### Warden Spell List
-
-<div style='column-count:2'>
-
 <br/>
+
+<div style='column-count: 2; column-span: initial; -webkit-column-span: initial;'>
 
 ##### Cantrips
 
-_chill touch_  
-_guidance_  
-_mage hand_  
-_minor illusion_  
-_resistance_  
-_spare the dying_  
-_stabilise_  
-_true strike_
+- Chill touch
+- Guidance
+- Mage hand
+- Minor illusion
+- Resistance
+- Spare the dying
+- Stabilise
+- Srue strike
 
 ##### 1st Level
 
-_arms of hadar_  
-_bane_  
-_dancing lights_
+- Arms of hadar
+- Bane
+- Dancing lights
 
 ##### 2nd Level
 
-_phantasmal force_
+- Phantasmal force
 
 ##### 3rd Level
 
-_animate dead_  
-_feign death_  
-_speak with dead_  
-_spirit guardians_
+- Animate dead
+- Feign death
+- Speak with dead
+- Spirit guardians
 
 ##### 4th Level
 
-_antilife shell_  
-_death ward_  
-_phantasmal killer_
+- Antilife shell
+- Death ward
+- Phantasmal killer
 
 ##### 5th Level
 
-_raise dead_  
-_reincarnate_
+- Raise dead
+- Reincarnate
 
 ##### 6th Level
 
-_circle of death_  
-_create undead_
+- Circle of death
+- Create undead
 
 </div>
+
+```
+
+```
 
 #### Casting Spells
 
@@ -428,11 +431,11 @@ You use your Constitution whenever a warden spell refers to your spellcasting ab
 **Spell save DC** = 8 + your proficiency bonus + your Constitution modifier
 **Spell attack modifier** = your proficiency bonus + your Constitution modifier
 
+\page
+
 #### Ritual Casting
 
 You can cast a warden spell as a ritual if that spell has the ritual tag. To cast a spell as a ritual, you must add 10 minutes to the spell’s casting time, during which you take 1d4 necrotic damage per spell level.
-
-\page
 
 #### Spellcasting Focus
 
@@ -477,9 +480,13 @@ You can use this feature once per character level until you take a long rest.
 
 When you deal damage against a target Marked for Death, you may reap as a reaction, draining both of your life forces. When you reap, you deal an additional 1d6 plus your constitution modifier to both the target and yourself.
 
+```
+
+```
+
 ### Ability Score Improvement
 
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. You can't increase an ability score above 20 using this feature.
 
 ### Deathly Insights
 
@@ -493,15 +500,7 @@ Speaking with the dead in this way temporarily gives you a capability from a pas
 
 #### Lingering Lifeforce
 
-You learned that the souls of the dead do not immediately leave the body. When you are within 5 foot of a corpse that died within the past hour, you can use an action to harvest the remaining life force still lingering within. Gain hitpoints equal to 1d4 per that target's constitution modifier + your constitution modifier. You gain one random benefit from the Borrowed Capabilities table. The benefit lasts until you finish a short or long rest.
-
-This ability can only be cast once on a given corpse.
-
-#### Pain of Death
-
-You learned the excruciating experience that death truly is.
-
-When a creature within 15 feet of you drops to 0 hit points, you can use a reaction to share the pain with others. You can cast the _bane_ spell on another target within 15 feet of you without using a spell slot or material components. You gain one random benefit from the Borrowed Capabilities table. The benefit lasts until you finish a short or long rest.
+You learned that the souls of the dead do not immediately leave their vessel. When you are within 5 foot of a corpse that died within the past hour, you can use an action to harvest the remaining life force still lingering within. Gain hitpoints equal to 1d4 per that target's constitution modifier + your constitution modifier. You gain one random benefit from the Borrowed Capabilities table. The benefit lasts until you finish a short or long rest. This ability can only be cast once on a given corpse.
 
 ##### Borrowed Capabilities
 
@@ -511,20 +510,19 @@ When a creature within 15 feet of you drops to 0 hit points, you can use a react
 | 02  |        You gain one skill or tool proficiency of your choice.        |
 | 03  |      You gain proficiency with one saving throw of your choice.      |
 
+#### Pain of Death
+
+You learned the excruciating experience that death truly is. When a creature within 15 feet of you drops to 0 hit points, you can use a reaction to share the pain with others. You can cast the _bane_ spell on another target within 15 feet of you without using a spell slot or material components. You gain one random benefit from the Borrowed Capabilities table. The benefit lasts until you finish a short or long rest.
+
 ### Uncanny Cadaver
 
-Beginning at 7th level, you can manipulate how a corpse is perceived by others. This has the effect of either:
+Beginning at 7th level, you can manipulate how a corpse is perceived by others. This has the effect of either making the corpse look like: it is simply sleeping; or the corpse of another character. Once you use this feature, you can't use it again until you finish a long rest.
 
-- Making the corpse look like it is simply sleeping; or
-- The corpse of another character;
-
-Once you use this feature, you can't use it again until you finish a long rest.
+\page
 
 ### Brush with Death
 
 Beginning at 10th level, you remember how you died or came to the brink of death.
-
-\page
 
 You gain the ability to project a vision of this experience into the minds of others. As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warden spell save DC. The creatures that fail their saving throws are all frightened by you until the end of your next turn.
 
@@ -544,27 +542,26 @@ Beginning at 15th level,You have communed with the dead so frequently that, when
 
 Sprit guides come to your aid, and you have the ability to slip in and out of the Ethereal Plane. When your health is lower than your constitution modifier, you can use an action to teleport to an unoccupied space within 30 feet of you. You don’t need to see that space to teleport to it, but your teleportation fails, wasting your bonus action, if you attempt to teleport through magical force that is Medium or larger, such as a wall of force.
 
-If you appear in a space occupied by another creature or filled by an object, you are immediately shunted to the nearest unoccupied space that you can occupy and take force damage equal to twice the number of feet you are shunted.
-
 ```
 
 ```
 
 <img 
     src='https://media.githubusercontent.com/media/metamagic-games/dnd-homebrews/master/assetts/warden-3.png' 
-    style='z-index: 1; position: absolute; bottom: 0px; left: 0px; width: 405px; mix-blend-mode:darken; padding: 0;' 
+    style='z-index: 1; position: absolute; bottom: 0px; left: 0px; width: 405px; mix-blend-mode: hard-light; padding: 0;' 
 />
 
+If you appear in a space occupied by another creature or filled by an object, you are immediately shunted to the nearest unoccupied space that you can occupy and take force damage equal to twice the number of feet you are shunted.
 
 #### Deathly Parlay
 
-Powerful undead entities stand beside you and attempt to repel other undead forces. When your health reaches lower than your constitution modifier, each undead that can see or hear you within 30 feet of you must make a Charisma saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. 
+Powerful undead entities stand beside you and attempt to repel other undead forces. When your health reaches lower than your constitution modifier, each undead that can see or hear you within 30 feet of you must make a Charisma saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. lt also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
 #### Audience with Death
 
-You can converse with the forces of death itself. You have advantage on death saving throws, and whenever you make a death saving throw, your spirit can ask an entity of death a question that can be answered with “yes,” “no,” or “unknown.” The entity answers truthfully, using the knowledge of all those who have died.
+You can converse with the forces of death itself. You have advantage on death saving throws, and whenever you make a death saving throw, your spirit can ask an entity of death a question that can be answered with "yes," "no," or "unknown." The entity answers truthfully, using the knowledge of all those who have died.
 
 ### Deathly Resilience
 
@@ -574,12 +571,14 @@ Beginning at 18th level, your time spent among spirits and undead has toughened 
 
 Beginning at 20th level, you can exchange your life for another's, and die in their place. When a target within 15 feet of you dies, you can choose to die instead. That target is restored to full health.
 
+<br/>
+
 <div class='descriptive'>
-<h5>Time to Drop Knowledge</h5>
+<h5>Mechanisms of life and death</h5>
 
-<p>I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class.</p>
+<p>Think about the essences of life and death in your world. Is Death an actual entity, or even a god? When making a deal with Death, would Death manifest and visit the warden? Deal with Death provides the opportunity for your players to make the ultimate sacrifice, and this moment deserves to be as grand as the action itself.</p>
 
-<p>I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class.</p>
+<p>What follows death? Is there a way for your players to restore the life of their lost comrades?</p>
 </div>
 
 <br/>
@@ -644,6 +643,10 @@ Your soul is naturally overflowing with life-force. The energy of your soul mani
 
 Beginning at 2nd level, you gain resistance to one of the following types of damage: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, and thunder.
 
+```
+
+```
+
 #### Inner Power: Necrotic Shield
 
 Beginning at 13th level, when you would take damage, you can use a reaction to gain 1AC. You can use this feature three times between long rests.
@@ -685,7 +688,7 @@ Beginning at 13th level, when necromantic powers that give you life begin to unr
 
 #### Last Gasp: Audience with Death
 
-Beginning at 17th level, when at death’s door, you can converse with the powers of death. You have advantage on death saving throws, and whenever you make a death saving throw, your spirit can ask an entity of death a question that can be answered with “yes,” “no,” or “unknown.” The entity answers truthfully, using the knowledge of all those who have died.
+Beginning at 17th level, when at death’s door, you can converse with the powers of death. You have advantage on death saving throws, and whenever you make a death saving throw, your spirit can ask an entity of death a question that can be answered with "yes," "no," or "unknown." The entity answers truthfully, using the knowledge of all those who have died.
 
 \page
 
