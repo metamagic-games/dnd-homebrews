@@ -12,7 +12,7 @@ It includes both:
 
 1. Clone this repo
 2. `npm install`
-3. `npm run build`
+3. `npm run build` (for all) or `npmr run build medic` (for a rule declared in `./scripts/createRulebooks.js`)
 
 ### Using this content with the [MPMB character sheet](https://www.google.co.uk/search?hl=en&q=more+purple+more+better+patreon&meta=)
 

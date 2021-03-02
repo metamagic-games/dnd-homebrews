@@ -10,7 +10,7 @@ At 3rd level, a fighter gains the Martial Archetype feature. Here is a playtest 
 
 Combat Medics are veterans of the battlefield, accustomed to the carnage and bloodshed of war. Combat Medics have learned how to save themselves and those around them from even the most grevious of injuries, and to protect those under their care from potential ones.
 
-These expert fighters know when to attack, and when to retreat to care for the wounded. Compelled by those they failed to save in the past, many of these fighters leave their lives of comfort to adventure where they are needed most.
+These expert fighters know when to attack, and when to retreat to care for the wounded. They've learned to scavenge for herbal remedies in even the most remote environments. Compelled by those they failed to save in the past, many of these fighters leave their lives of comfort to adventure where they are needed most.
 
 ##### Combat Medic Features
 
@@ -61,4 +61,4 @@ At 15th level, you learn to use your Healer's Kit to better prepare you and your
 
 #### Anatomical Precision
 
-At 18th level, you learn to use your medical knowledge to assess how best to injure your target. Once per Short Rest, when attacking a humanoid creature, you can choose to use _Anatomical Precision_. Make a medicine check. If you succeed, you gain advantage on your attack.
+At 18th level, you learn to use your medical knowledge to assess how best to injure your target. Once per Short Rest, when attacking a humanoid creature, you can choose to use _Anatomical Precision_. Make a medicine check of DC equal to the target's constitution. If you succeed, you gain advantage on your attack.
