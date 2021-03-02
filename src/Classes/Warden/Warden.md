@@ -76,7 +76,10 @@ At 1st level, you know two cantrips of your choice from the warden spell list. Y
 
 \page
 
-<div class="wide">
+<div class="wide classTable">
+
+<h5> The Warden </h5>
+
 <table>
 <thead>
 <tr>
@@ -358,6 +361,10 @@ At 1st level, you know two cantrips of your choice from the warden spell list. Y
 
 #### Warden Spell List
 
+<div style='column-count:2'>
+
+<br/>
+
 ##### Cantrips
 
 _chill touch_  
@@ -402,6 +409,8 @@ _reincarnate_
 _circle of death_  
 _create undead_
 
+</div>
+
 #### Casting Spells
 
 The Warden table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
@@ -419,11 +428,11 @@ You use your Constitution whenever a warden spell refers to your spellcasting ab
 **Spell save DC** = 8 + your proficiency bonus + your Constitution modifier
 **Spell attack modifier** = your proficiency bonus + your Constitution modifier
 
-\page
-
 #### Ritual Casting
 
 You can cast a warden spell as a ritual if that spell has the ritual tag. To cast a spell as a ritual, you must add 10 minutes to the spell’s casting time, during which you take 1d4 necrotic damage per spell level.
+
+\page
 
 #### Spellcasting Focus
 
@@ -511,13 +520,11 @@ Beginning at 7th level, you can manipulate how a corpse is perceived by others. 
 
 Once you use this feature, you can't use it again until you finish a long rest.
 
-\page
-
-![warden 2](https://media.githubusercontent.com/media/metamagic-games/dnd-homebrews/master/assetts/warden-3.jpg)
-
 ### Brush with Death
 
 Beginning at 10th level, you remember how you died or came to the brink of death.
+
+\page
 
 You gain the ability to project a vision of this experience into the minds of others. As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warden spell save DC. The creatures that fail their saving throws are all frightened by you until the end of your next turn.
 
@@ -539,9 +546,21 @@ Sprit guides come to your aid, and you have the ability to slip in and out of th
 
 If you appear in a space occupied by another creature or filled by an object, you are immediately shunted to the nearest unoccupied space that you can occupy and take force damage equal to twice the number of feet you are shunted.
 
+```
+
+```
+
+<img 
+    src='https://media.githubusercontent.com/media/metamagic-games/dnd-homebrews/master/assetts/warden-3.png' 
+    style='z-index: 1; position: absolute; bottom: 0px; left: 0px; width: 405px; mix-blend-mode:darken; padding: 0;' 
+/>
+
+
 #### Deathly Parlay
 
-Powerful undead entities stand beside you and attempt to repel other undead forces. When your health reaches lower than your constitution modifier, each undead that can see or hear you within 30 feet of you must make a Charisma saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. lt also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
+Powerful undead entities stand beside you and attempt to repel other undead forces. When your health reaches lower than your constitution modifier, each undead that can see or hear you within 30 feet of you must make a Charisma saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. 
+
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. lt also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
 #### Audience with Death
 
@@ -710,6 +729,8 @@ If your marked target dies, you heal for an additional 1d12.
 #### Last Gasp: Haunt
 
 Beginning at 17th level, when you are killed by a target, you can come back as a ghost and really annoy them xD
+
+\page
 
 # WIP Notes
 
