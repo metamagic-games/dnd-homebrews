@@ -14,8 +14,6 @@ Through whatever means you survived your near-death experience, you now know the
 
 Wardens understand the essence of life and death, and can access and manipulate them through their raw connection to this force. Wardens gain their connection through both their knowledge and insights of the other side, and an inner power that resides in their soul.
 
-![warden](https://media.githubusercontent.com/media/metamagic-games/dnd-homebrews/master/assetts/warden-1.jpg)
-
 ### Creating a Warden
 
 As you create a warden, the most important thing to consider is the circumstances of your brush with death. As your warden levels up, they begin to remember how they survived death, what they saw in that moment, and, crucially, how they died. It is this event that defines who your warden is today, and as your character begins to piece together what happened to them, their influence over life and death grows more potent.
@@ -71,30 +69,292 @@ Wardens lack the breadth of insight of other casters but, as they grow in power,
 
 At 1st level, you know two cantrips of your choice from the warden spell list. You learn additional warden cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warden table.
 
+<img 
+    src='https://media.githubusercontent.com/media/metamagic-games/dnd-homebrews/master/assetts/warden-1.png' 
+    style='z-index: 1; position: absolute; bottom: 0px; right: 0px; width: 405px; mix-blend-mode:darken; padding: 0;' 
+/>
+
 \page
 
-| Level |             Features              | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th |
-| :---: | :-------------------------------: | :------------: | :----------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|   1   | Soul Essence, Warden Spellcasting |       1        |      -       |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-|   2   |   Essence Feature: Soul Nature    |       1        |      -       |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
-|   3   |          Mark for Death           |       2        |      2       |  1  |  -  |  -  |  -  |  -  |  -  |  -  |
-|   4   |     Ability Score Improvement     |       2        |      2       |  1  |  -  |  -  |  -  |  -  |  -  |  -  |
-|   5   |         Deathly Insights          |       3        |      3       |  1  |  1  |  -  |  -  |  -  |  -  |  -  |
-|   6   |                 -                 |       3        |      3       |  1  |  1  |  -  |  -  |  -  |  -  |  -  |
-|   7   |          Uncanny Cadaver          |       4        |      4       |  2  |  1  |  1  |  -  |  -  |  -  |  -  |
-|   8   |     Ability Score Improvement     |       4        |      4       |  2  |  1  |  1  |  -  |  -  |  -  |  -  |
-|   9   |                 -                 |       4        |      5       |  2  |  2  |  1  |  1  |  -  |  -  |  -  |
-|  10   |         Brush with Death          |       4        |      5       |  2  |  2  |  1  |  1  |  -  |  -  |  -  |
-|  11   |          Spectral Vision          |       4        |      6       |  2  |  2  |  2  |  1  |  1  |  -  |  -  |
-|  12   |     Ability Score Improvement     |       4        |      6       |  2  |  2  |  2  |  1  |  1  |  -  |  -  |
-|  13   |   Essence Feature: Inner Power    |       4        |      7       |  2  |  2  |  2  |  2  |  1  |  1  |  -  |
-|  14   |                 -                 |       4        |      7       |  2  |  2  |  2  |  2  |  1  |  1  |  -  |
-|  15   |          Allies in death          |       4        |      7       |  2  |  2  |  2  |  2  |  2  |  1  |  1  |
-|  16   |     Ability Score Improvement     |       4        |      7       |  2  |  2  |  2  |  2  |  2  |  1  |  1  |
-|  17   |    Essence Feature: Last Gasp     |       4        |      7       |  2  |  2  |  2  |  2  |  2  |  1  |  1  |
-|  18   |        Deathly Resilience         |       4        |      7       |  2  |  2  |  2  |  2  |  2  |  1  |  1  |
-|  19   |     Ability Score Improvement     |       4        |      7       |  2  |  2  |  2  |  2  |  2  |  1  |  1  |
-|  20   |          Deal with Death          |       4        |      7       |  2  |  2  |  2  |  2  |  2  |  1  |  1  |
+<div class="wide">
+<table>
+<thead>
+<tr>
+<th align="center">Level</th>
+<th align="center">Features</th>
+<th align="center">Cantrips Known</th>
+<th align="center">Spells Known</th>
+<th align="center">1st</th>
+<th align="center">2nd</th>
+<th align="center">3rd</th>
+<th align="center">4th</th>
+<th align="center">5th</th>
+<th align="center">6th</th>
+<th align="center">7th</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">1</td>
+<td align="center">Soul Essence, Warden Spellcasting</td>
+<td align="center">1</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">Essence Feature: Soul Nature</td>
+<td align="center">1</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">Mark for Death</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">1</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">Ability Score Improvement</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">1</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center">Deathly Insights</td>
+<td align="center">3</td>
+<td align="center">3</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="center">-</td>
+<td align="center">3</td>
+<td align="center">3</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td align="center">Uncanny Cadaver</td>
+<td align="center">4</td>
+<td align="center">4</td>
+<td align="center">2</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">Ability Score Improvement</td>
+<td align="center">4</td>
+<td align="center">4</td>
+<td align="center">2</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">9</td>
+<td align="center">-</td>
+<td align="center">4</td>
+<td align="center">5</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">10</td>
+<td align="center">Brush with Death</td>
+<td align="center">4</td>
+<td align="center">5</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">11</td>
+<td align="center">Spectral Vision</td>
+<td align="center">4</td>
+<td align="center">6</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">12</td>
+<td align="center">Ability Score Improvement</td>
+<td align="center">4</td>
+<td align="center">6</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">13</td>
+<td align="center">Essence Feature: Inner Power</td>
+<td align="center">4</td>
+<td align="center">7</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">14</td>
+<td align="center">-</td>
+<td align="center">4</td>
+<td align="center">7</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">15</td>
+<td align="center">Allies in death</td>
+<td align="center">4</td>
+<td align="center">7</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center">16</td>
+<td align="center">Ability Score Improvement</td>
+<td align="center">4</td>
+<td align="center">7</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center">17</td>
+<td align="center">Essence Feature: Last Gasp</td>
+<td align="center">4</td>
+<td align="center">7</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center">18</td>
+<td align="center">Deathly Resilience</td>
+<td align="center">4</td>
+<td align="center">7</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center">19</td>
+<td align="center">Ability Score Improvement</td>
+<td align="center">4</td>
+<td align="center">7</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center">20</td>
+<td align="center">Deal with Death</td>
+<td align="center">4</td>
+<td align="center">7</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+</tbody></table>
+</div>
 
 #### Warden Spell List
 
@@ -159,6 +419,8 @@ You use your Constitution whenever a warden spell refers to your spellcasting ab
 **Spell save DC** = 8 + your proficiency bonus + your Constitution modifier
 **Spell attack modifier** = your proficiency bonus + your Constitution modifier
 
+\page
+
 #### Ritual Casting
 
 You can cast a warden spell as a ritual if that spell has the ritual tag. To cast a spell as a ritual, you must add 10 minutes to the spell’s casting time, during which you take 1d4 necrotic damage per spell level.
@@ -166,8 +428,6 @@ You can cast a warden spell as a ritual if that spell has the ritual tag. To cas
 #### Spellcasting Focus
 
 You can use your relic of a past life as a spellcasting focus for your warden spells.
-
-\page
 
 ### Soul Essence
 
@@ -295,16 +555,19 @@ Beginning at 18th level, your time spent among spirits and undead has toughened 
 
 Beginning at 20th level, you can exchange your life for another's, and die in their place. When a target within 15 feet of you dies, you can choose to die instead. That target is restored to full health.
 
+<div class='descriptive'>
+<h5>Time to Drop Knowledge</h5>
+
+<p>I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class.</p>
+
+<p>I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class.</p>
+</div>
+
+<br/>
+
 ## Soul Essence
 
 Beginning at 1st level, you begin to understand the essence of your soul, and how you survived your experiences because of its true nature. As your powers grow, you begin to understand how it has been changed by this proximity to death.
-
-<div class='descriptive'>
-##### Time to Drop Knowledge
-
-I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class. I will put something interesting here about the class.
-
-</div>
 
 \page
 
