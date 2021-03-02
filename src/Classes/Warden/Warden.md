@@ -2,7 +2,7 @@
 
 What is the raw deathly magic that Necromancers tap into? What is the essence of life that Druids access? Through what channels do divine beings restore life to the faithful?
 
-At some point in a warden's life, they were brought to the precipice of death, only to survive the experience. However, they never truly left death behind. Caught in a limbo between life and death, Wardens have learned to harness this proximity to the essence of life, leveraging the terrible understanding they've gained from their experience.
+At some point in a warden's life, they were brought to the precipice of death, only to survive the experience. However, they never truly left death behind. Caught in a limbo between life and death, wardens have learned to harness this proximity to the essence of life, leveraging the terrible understanding they've gained from their experience.
 
 ### On the edge of death
 
@@ -18,37 +18,29 @@ Wardens understand the essence of life and death, and can access and manipulate 
 
 As you create a warden, the most important thing to consider is the circumstances of your brush with death. As your warden levels up, they begin to remember how they survived death, what they saw in that moment, and, crucially, how they died. It is this event that defines who your warden is today, and as your character begins to piece together what happened to them, their influence over life and death grows more potent.
 
-Also consider who you were before that event. How much did your death change you?
-
-Make sure you have a lingering illness or injury?
+Also consider who you were before that event. How much did your death change you? Maybe you have a lingering illness or injury?
 
 #### Quick Build
 
-You can make a warden quickly by following these suggestions. First, Constitution should be your highest ability score, followed by Charisma or Wisdom. Second, choose the outlander background.
+You can make a warden quickly by following these suggestions. First, Constitution should be your highest ability score, followed by Wisdom. Second, choose the outlander background.
 
 ## Class Features
 
 As a warden, you gain the following class features.
 
 #### Hit Points
-
-**Hit Dice:** 1d12 per warden level
-
-**Hit Points at 1st Level:** 12 + your Constitution modifier
-
-**Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per warden level after 1st
+___
+- **Hit Dice:** 1d12 per warden level
+- **Hit Points at 1st Level:** 12 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per warden level after 1st
 
 #### Proficiencies
-
-**Armour:** Light armor, medium armor, shields
-
-**Weapons:** Shortswords, spears, and all simple weapons
-
-**Tools:** None
-
-**Saving Throws:** Constitution, Charisma (Or maybe Wisdom?)
-
-**Skills:** Choose two from Insight, Intimidation, Medicine, Perception, Stealth, Survival
+___
+- **Armour:** Light armor, medium armor, shields
+- **Weapons:** Shortswords, spears, and all simple weapons
+- **Tools:** None
+- **Saving Throws:** Constitution, Wisdom
+- **Skills:** Choose two from Insight, Intimidation, Medicine, Perception, Stealth, Survival
 
 #### Equipment
 
@@ -431,8 +423,9 @@ Constitution is your spellcasting ability for your warden spells.
 
 You use your Constitution whenever a warden spell refers to your spellcasting ability. In addition, you use your Constitution modifier when setting the saving throw DC for a warden spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your Constitution modifier
-**Spell attack modifier** = your proficiency bonus + your Constitution modifier
+___
+- **Spell save DC** = 8 + your proficiency bonus + your Constitution modifier  
+- **Spell attack modifier** = your proficiency bonus + your Constitution modifier
 
 \page
 
@@ -497,7 +490,7 @@ Beginning at 5th level, you learn something about the nature of death, and are a
 
 #### Last Words
 
-When you are within 5 foot of a corpse, as an action you can create a link with a spirit through their corpse. When you do so, you cast the _speak with dead_ spell, without using a spell slot or material components. Charisma is your spellcasting ability for this spell.
+When you are within 5 foot of a corpse, as an action you can create a link with a spirit through their corpse. When you do so, you cast the _speak with dead_ spell, without using a spell slot or material components. Wisdom is your spellcasting ability for this spell.
 
 Speaking with the dead in this way temporarily gives you a capability from a past life — you're unsure whether it's from your past or the spirit's. When the spell ends, you gain one random benefit from the Borrowed Capabilities table. The benefit lasts until you finish a short or long rest.
 
@@ -558,7 +551,7 @@ If you appear in a space occupied by another creature or filled by an object, yo
 
 #### Deathly Parlay
 
-Powerful undead entities stand beside you and attempt to repel other undead forces. When your health reaches lower than your constitution modifier, each undead that can see or hear you within 30 feet of you must make a Charisma saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
+Powerful undead entities stand beside you and attempt to repel other undead forces. When your health reaches lower than your constitution modifier, each undead that can see or hear you within 30 feet of you must make a Charisma saving throw using your spell save DC. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. lt also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
@@ -751,7 +744,6 @@ Created by [mcclowes](http://twitter.com/mcclowes). All feedback and suggestions
 
 ## WIP Notes
 
-- Some abilities require charisma? To win over the dead?
 - Kill to unlock spell slots?
 - Tormented essence - you didn't die, you've been around death so frequently that you have become haunted. Either you killed a lot or were around people who died
 
