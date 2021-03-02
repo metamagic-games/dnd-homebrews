@@ -1,12 +1,14 @@
 # Vakkyr
 
-_Some story about them.Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum._
+_The dwarf - at least I think it was a dwarf - stepped out of thin air. Black dagger in hand, she seemed to have cut through the very fabric of the universe. I knew her intent from those cold eyes - she had come for my life._
 
-_Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Morbi leo risus, porta ac consectetur ac, vestibulum at eros._
+_Fear got the better of me, and I stumbled backwards and tripped. She was poised to strike me, when a great black claw reach out of seam in reality she had opened, and grasped her ankle. She let out a terrible scream and was dragged back into that void from which she arrived._
 
-- Writer of the story, _Source of the story_
+- Police report
 
-Vakkyr were once dwarves that ventured into the underdark.
+Vakkyr were once dwarves that ventured into the underdark. Under it's dark influence, they bare little resemblence to their ancestors.
+
+![vakkyr](https://i.pinimg.com/originals/fa/21/81/fa2181d654e4ef5c1e1f797477c20cd9.jpg)
 
 ### Characteristic 1
 
@@ -14,7 +16,7 @@ Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed o
 
 Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Maecenas faucibus mollis interdum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 
-### Hexbalde
+### Hexblade
 
 Those Vakkyr who came to the Shadowfell found beauty in the dark weaponry and might of its Hexbaldes. Some worship the Raven Queen, though are not chosen like the Shadar-Kai
 

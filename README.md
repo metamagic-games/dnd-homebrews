@@ -40,7 +40,7 @@ If you'd like to contribute, please fork the repository and use a feature branch
 
 #### Monk
 
-- [Way of the Selfless](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Subclasses/Monk/Way%20of%20the%20Selfless/WayOfTheSelfless.md) - These Monks have developed a number of techniques that unlock the full capabilities of their bodies, risking death in the process.
+- [Way of the Selfless](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Subclasses/Monk/WayOfTheSelfless/WayOfTheSelfless.md) - These Monks have developed a number of techniques that unlock the full capabilities of their bodies, risking death in the process.
 
 #### Ranger
 
@@ -52,13 +52,14 @@ If you'd like to contribute, please fork the repository and use a feature branch
 
 ### Races
 
-- [Brood](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Races/Brood/Brood.pdf) - 
-- [Vakkyr](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Races/Vakkyr/Vakkyr.pdf) - 
-- [Pearl](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Races/Pearl/Pearl.pdf) - 
+- [Brood](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Races/Brood/Brood.pdf) - Brood are a rare and ancient race of humanoid insects that emerge from their underground nests so rarely that they are little more than myth to most.
+- [Vakkyr](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Races/Vakkyr/Vakkyr.pdf) - Vakkyr were once dwarves that ventured into the underdark. Under it's dark influence, they bare little resemblence to their ancestors.
+- [Pearl](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Races/Pearl/Pearl.pdf) - Pearls are rare and elusive creatures, devoid of a body but with inscrutible minds filled with ancient knowledge of long forgotten kingdoms.
+
 
 #### Subraces
 
-- [Umbaran human variants](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Subraces/Human/Umbarans.pdf) - 
+- [Umbaran human variants](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Subraces/Human/Umbarans.pdf)
 
 ### Resources
 
