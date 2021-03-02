@@ -6,3 +6,7 @@ Powerful angels and devils often choose mortals to bear their weapons. Eventualy
 - Teleport to weapon
 - Summon weapon
 - Extra attack once per long rest
+
+# Notes
+
+- Aasimar meets Hexblade

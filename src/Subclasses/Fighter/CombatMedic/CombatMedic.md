@@ -29,7 +29,7 @@ When you choose this archetype at 3rd level, you gain proficiency in one of the 
 At 3rd level, you gain access to an empty _Healer's Kit_. This kit is a leather pouch containing bandages, salves, and splints. The kit has up to ten uses. As an action, you can expend one use of the kit to stabilize a creature that has O hit points, without needing to make a Wisdom (Medicine) check.
 
 <img 
-    src='https://i.imgur.com/ITKKNL8.png' 
+    src='https://media.githubusercontent.com/media/metamagic-games/dnd-homebrews/master/assetts/medic.png' 
     style='z-index: 1; position: absolute; bottom: 0px; left: 0px; width: 400px; padding: 0;' 
 />
 
