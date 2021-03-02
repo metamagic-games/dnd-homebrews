@@ -30,7 +30,7 @@ At 3rd level, you gain access to an empty _Healer's Kit_. This kit is a leather 
 
 <img 
     src='https://i.imgur.com/ITKKNL8.png' 
-    style='z-index: 1; position: absolute; bottom: 0px; left: 0px; width: 355px; mix-blend-mode:darken; padding: 0;' 
+    style='z-index: 1; position: absolute; bottom: 0px; left: 0px; width: 400px; padding: 0;' 
 />
 
 ```
