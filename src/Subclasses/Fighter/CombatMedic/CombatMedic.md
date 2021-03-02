@@ -26,7 +26,7 @@ When you choose this archetype at 3rd level, you gain proficiency in one of the 
 
 #### Combat Medic's Equipment
 
-At 3rd level, you gain access to an empty _Healer's Kit_. This kit is a leather pouch containing bandages, salves, and splints. The kit has up to ten uses. As an action, you can expend one use of the kit to stabilize a creature that has O hit points, without needing to make a Wisdom (Medicine) check.
+When you choose this archetype at 3rd level, you gain access to an empty _Healer's Kit_. This kit is a leather pouch containing bandages, salves, and splints. The kit can store up to ten uses. As an action, you can expend one use of the kit to stabilize a creature that has O hit points, without needing to make a Wisdom (Medicine) check.
 
 <img 
     src='https://media.githubusercontent.com/media/metamagic-games/dnd-homebrews/master/assetts/medic.png' 
@@ -39,12 +39,12 @@ At 3rd level, you gain access to an empty _Healer's Kit_. This kit is a leather 
 
 Your kit starts with 0 uses. Whenever you rest, you can choose make a survival check to scavenge for more supplies (DC15). If you succeed during a Short Rest, your kit gains 1 use. If you succeed during a Long Rest, your kit gains 1d4 uses.
 
-#### Healer
+#### Expert Healer
 
-At 3rd level, you gain the _Healer_ feat. You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits:
+At 3rd level, you gain the _Expert Healer_ feat. You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits:
 
-- When you use a healer's kit to stabilize a dying creature, that creature also regains 1 hit point.
-- As an action, you can spend one use of a healer's kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature's maximum number of Hit Dice. The creature can't regain hit points from feat again until it finishes a short or long rest.
+- When you use a healer's kit to stabilize a dying creature, that creature also regains 1d4 hit points.
+- As an action, you can spend one use of a healer's kit to tend to a creature and restore 1d4 hit points to it per your medicine proficiency bonus, plus additional hit points equal to the creature's maximum number of Hit Dice. The creature can't regain hit points from feat again until it finishes a short or long rest.
 
 #### Protective Maneuvers
 
@@ -56,14 +56,14 @@ You can use this feature a number of times equal to your Constitution modifier (
 
 At 10th level, you learn to deal with injuries swiftly in the heat of battle. You gain the following benefits:
 
-- As a bonus action. you can spend one use of a healer's kit to tend to a creature and restore 1d4 + 4 hit points to it, plus additional hit points equal to the creature's maximum number of Hit Dice. The creature can't regain hit points from feat again until it finishes a short or long rest.
+- As a bonus action. you can spend one use of a healer's kit to tend to a creature and restore 1d4 - 1 hit points to it per your medicine proficiency bonus. The creature can't regain hit points from feat again until it finishes a short or long rest.
 - You gain the cantrip _Spare the Dying_.
 
 #### Preventative Medicine
 
 At 15th level, you learn to use your Healer's Kit to better prepare you and your allies for battle. You gain the following benefits:
 
-- As a bonus action, you can spend two uses of a healer's kit to give 1d6 + 4 temporary hitpoints to a target until their next short or long rest.
+- As a bonus action, you can spend two uses of a healer's kit to give 1d4 + plus your medicine proficiency bonus temporary hitpoints to a target until their next short or long rest.
 - As an action, you can spend four uses of a healer's kit to give a target resistance to one type of damage until their next short or long rest.
 
 #### Anatomical Precision
