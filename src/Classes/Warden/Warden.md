@@ -6,9 +6,9 @@ At some point in a warden's life, they were brought to the precipice of death, o
 
 ### On the edge of death
 
-You’ve had a soul-shaking realization: maybe you’ve been dead before, yet somehow you are alive again; maybe you were almost killed, but survived by the skin of your teeth. One thing is for sure: who you are now is not who you once were. Your past life, or lives, are unclear to you, but you know that the shadow of death looms close by.
+You've had a soul-shaking realization: maybe you've been dead before, yet somehow you are alive again; maybe you were almost killed, but survived by the skin of your teeth. One thing is for sure: who you are now is not who you once were. Your past life, or lives, are unclear to you, but you know that the shadow of death looms close by.
 
-Through whatever means you survived your near-death experience, you now know the truth about yourself: that you are one of death’s representatives among the living. This is something that remains with wardens throughout the rest of their lives. At times, it is a curse distancing them from those around them; othertimes, it is a blessing, giving them power over life itself.
+Through whatever means you survived your near-death experience, you now know the truth about yourself: that you are one of death's representatives among the living. This is something that remains with wardens throughout the rest of their lives. At times, it is a curse distancing them from those around them; othertimes, it is a blessing, giving them power over life itself.
 
 ### Masters of Life and Death
 
@@ -71,7 +71,7 @@ At 1st level, you know two cantrips of your choice from the warden spell list. Y
 
 <img 
     src='https://media.githubusercontent.com/media/metamagic-games/dnd-homebrews/master/assetts/warden-1.png' 
-    style='z-index: 1; position: absolute; bottom: 0px; right: 0px; width: 405px; mix-blend-mode: hard-light; padding: 0;' 
+    style='z-index: 1; position: absolute; bottom: 0px; right: 0px; width: 440px; mix-blend-mode: hard-light; padding: 0;' 
 />
 
 \page
@@ -360,9 +360,10 @@ At 1st level, you know two cantrips of your choice from the warden spell list. Y
 </div>
 
 #### Warden Spell List
+
 <br/>
 
-<div style='column-count: 2; column-span: initial; -webkit-column-span: initial;'>
+<div class="spellList" style='column-count: 2; column-span: initial; -webkit-column-span: initial;'>
 
 ##### Cantrips
 
@@ -384,6 +385,8 @@ At 1st level, you know two cantrips of your choice from the warden spell list. Y
 ##### 2nd Level
 
 - Phantasmal force
+
+<br/><br/><br/>
 
 ##### 3rd Level
 
@@ -435,7 +438,7 @@ You use your Constitution whenever a warden spell refers to your spellcasting ab
 
 #### Ritual Casting
 
-You can cast a warden spell as a ritual if that spell has the ritual tag. To cast a spell as a ritual, you must add 10 minutes to the spell’s casting time, during which you take 1d4 necrotic damage per spell level.
+You can cast a warden spell as a ritual if that spell has the ritual tag. To cast a spell as a ritual, you must add 10 minutes to the spell's casting time, during which you take 1d4 necrotic damage per spell level.
 
 #### Spellcasting Focus
 
@@ -496,7 +499,7 @@ Beginning at 5th level, you learn something about the nature of death, and are a
 
 When you are within 5 foot of a corpse, as an action you can create a link with a spirit through their corpse. When you do so, you cast the _speak with dead_ spell, without using a spell slot or material components. Charisma is your spellcasting ability for this spell.
 
-Speaking with the dead in this way temporarily gives you a capability from a past life — you’re unsure whether it’s from your past or the spirit’s. When the spell ends, you gain one random benefit from the Borrowed Capabilities table. The benefit lasts until you finish a short or long rest.
+Speaking with the dead in this way temporarily gives you a capability from a past life — you're unsure whether it's from your past or the spirit's. When the spell ends, you gain one random benefit from the Borrowed Capabilities table. The benefit lasts until you finish a short or long rest.
 
 #### Lingering Lifeforce
 
@@ -506,9 +509,9 @@ You learned that the souls of the dead do not immediately leave their vessel. Wh
 
 | d3  |                              Capability                              |
 | :-: | :------------------------------------------------------------------: |
-| 01  | You learn how to speak, read, and write one language of your choice. |
-| 02  |        You gain one skill or tool proficiency of your choice.        |
-| 03  |      You gain proficiency with one saving throw of your choice.      |
+|  1  | You learn how to speak, read, and write one language of your choice. |
+|  2  |        You gain one skill or tool proficiency of your choice.        |
+|  3  |      You gain proficiency with one saving throw of your choice.      |
 
 #### Pain of Death
 
@@ -536,11 +539,11 @@ Once you use this feature, you can't use it again until you finish a short or lo
 
 ### Allies in Death
 
-Beginning at 15th level,You have communed with the dead so frequently that, when at death’s door, spirits of the dead come to your aid. Choose one of the following options.
+Beginning at 15th level,You have communed with the dead so frequently that, when at death's door, spirits of the dead come to your aid. Choose one of the following options.
 
 #### Ethereal Jaunt
 
-Sprit guides come to your aid, and you have the ability to slip in and out of the Ethereal Plane. When your health is lower than your constitution modifier, you can use an action to teleport to an unoccupied space within 30 feet of you. You don’t need to see that space to teleport to it, but your teleportation fails, wasting your bonus action, if you attempt to teleport through magical force that is Medium or larger, such as a wall of force.
+Sprit guides come to your aid, and you have the ability to slip in and out of the Ethereal Plane. When your health is lower than your constitution modifier, you can use an action to teleport to an unoccupied space within 30 feet of you. You don't need to see that space to teleport to it, but your teleportation fails, wasting your bonus action, if you attempt to teleport through magical force that is Medium or larger, such as a wall of force.
 
 ```
 
@@ -548,7 +551,7 @@ Sprit guides come to your aid, and you have the ability to slip in and out of th
 
 <img 
     src='https://media.githubusercontent.com/media/metamagic-games/dnd-homebrews/master/assetts/warden-3.png' 
-    style='z-index: 1; position: absolute; bottom: 0px; left: 0px; width: 405px; mix-blend-mode: hard-light; padding: 0;' 
+    style='z-index: 1; position: absolute; bottom: 0px; left: 0px; width: 415px; mix-blend-mode: hard-light; padding: 0;' 
 />
 
 If you appear in a space occupied by another creature or filled by an object, you are immediately shunted to the nearest unoccupied space that you can occupy and take force damage equal to twice the number of feet you are shunted.
@@ -635,8 +638,8 @@ Your soul is naturally overflowing with life-force. The energy of your soul mani
 |     2nd     |          _aid_          |
 |     3rd     |   _aura of vitality_    |
 |     4th     |       _stoneskin_       |
-|     5th     |           _?_           |
-|     6th     |           _?_           |
+|     5th     |        _hallow_         |
+|     6th     |      _planar ally_      |
 |     7th     |      _regenerate_       |
 
 #### Soul Nature: Resilient
@@ -653,9 +656,9 @@ Beginning at 13th level, when you would take damage, you can use a reaction to g
 
 #### Last Gasp: Second Wind
 
-Beginning at 17th level, your life-force becomes near unstoppable. If you drop to 0 hit points and don’t die outright, you drop to 1 hit point instead and gain temporary hit points equal to five times your warden level, and each creature of your choice within 30 feet of you that you can see takes necrotic damage equal to 2d10 + your warden level.
+Beginning at 17th level, your life-force becomes near unstoppable. If you drop to 0 hit points and don't die outright, you drop to 1 hit point instead and gain temporary hit points equal to five times your warden level, and each creature of your choice within 30 feet of you that you can see takes necrotic damage equal to 2d10 + your warden level.
 
-Once you use this feature, you can’t use it again until you finish a long rest.
+Once you use this feature, you can't use it again until you finish a long rest.
 
 ### Undying Soul
 
@@ -679,16 +682,16 @@ Although you did actually die, you were resurrected and are undead. You have com
 
 Beginning at 2nd level, you have the following benefits:
 • You have advantage on saving throws against disease and being poisoned, and you have resistance to poison damage.
-• You don’t need to eat, drink, or breathe.
-• You don’t need to sleep. When you take a long rest, you must spend at least four hours in an inactive, motionless state, rather than sleeping. In this state, you remain semiconscious, and you can hear as normal.
+• You don't need to eat, drink, or breathe.
+• You don't need to sleep. When you take a long rest, you must spend at least four hours in an inactive, motionless state, rather than sleeping. In this state, you remain semiconscious, and you can hear as normal.
 
 #### Inner Power: Share Undeath
 
-Beginning at 13th level, when necromantic powers that give you life begin to unravel, those energies can affect those around you. If you drop to 0 hit points and don’t die outright, cast Raise Dead.
+Beginning at 13th level, when necromantic powers that give you life begin to unravel, those energies can affect those around you. If you drop to 0 hit points and don't die outright, cast Raise Dead.
 
 #### Last Gasp: Audience with Death
 
-Beginning at 17th level, when at death’s door, you can converse with the powers of death. You have advantage on death saving throws, and whenever you make a death saving throw, your spirit can ask an entity of death a question that can be answered with "yes," "no," or "unknown." The entity answers truthfully, using the knowledge of all those who have died.
+Beginning at 17th level, when at death's door, you can converse with the powers of death. You have advantage on death saving throws, and whenever you make a death saving throw, your spirit can ask an entity of death a question that can be answered with "yes," "no," or "unknown." The entity answers truthfully, using the knowledge of all those who have died.
 
 \page
 
@@ -735,7 +738,18 @@ Beginning at 17th level, when you are killed by a target, you can come back as a
 
 \page
 
-# WIP Notes
+# Credits
+
+All suggestions and contributions welcome! You can get involved here:
+[https://github.com/metamagic-games/dnd-homebrews](https://github.com/metamagic-games/dnd-homebrews)
+
+Created by [mcclowes](http://twitter.com/mcclowes). All feedback and suggestions welcome!
+
+- Twitter: <https://twitter.com/mcclowes>
+- Reddit: <https://www.reddit.com/user/mcclowes/>
+- Personal site: <http://www.mcclowes.com/>
+
+## WIP Notes
 
 - Some abilities require charisma? To win over the dead?
 - Kill to unlock spell slots?
@@ -750,11 +764,3 @@ Beginning at 17th level, when you are killed by a target, you can come back as a
 - Talk to tdead with and guided by spirits
 - Ritual spell
 - Not patron like, more a looses association - might offer to avenge spirit, and that spirit will help for that quest
-
-## Credits
-
-Created by [mcclowes](http://twitter.com/mcclowes). All feedback and suggestions welcome!
-
-- Twitter: <https://twitter.com/mcclowes>
-- Reddit: <https://www.reddit.com/user/mcclowes/>
-- Personal site: <http://www.mcclowes.com/>
