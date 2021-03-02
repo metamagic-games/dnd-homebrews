@@ -27,6 +27,7 @@ If you'd like to contribute, please fork the repository and use a feature branch
 ### Additional Rules
 
 - [Serious Injuries](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Rules/SeriousInjuries.pdf)
+- [Madness](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Rules/Madness.pdf)
 
 ### Classes
 
@@ -40,7 +41,7 @@ If you'd like to contribute, please fork the repository and use a feature branch
 
 #### Monk
 
-- [Way of the Selfless](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Subclasses/Monk/WayOfTheSelfless/WayOfTheSelfless.md) - These Monks have developed a number of techniques that unlock the full capabilities of their bodies, risking death in the process.
+- [Way of the Selfless](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Subclasses/Monk/WayOfTheSelfless/WayOfTheSelfless.pdf) - These Monks have developed a number of techniques that unlock the full capabilities of their bodies, risking death in the process.
 
 #### Ranger
 
@@ -48,7 +49,7 @@ If you'd like to contribute, please fork the repository and use a feature branch
 
 #### Warlock
 
-- [Gambler](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Subclasses/Warlock/Gambler/Gambler.md) - These warlocks' patrons are a mysterious entities that take great enjoyment from observing the goings on of the universe, revelling in demonstrations of particular skill or pure luck. 
+- [Gambler](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Subclasses/Warlock/Gambler/Gambler.pdf) - These warlocks' patrons are a mysterious entities that take great enjoyment from observing the goings on of the universe, revelling in demonstrations of particular skill or pure luck. 
 
 ### Races
 
@@ -65,3 +66,4 @@ If you'd like to contribute, please fork the repository and use a feature branch
 
 - [Spells](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Spells/Spells.pdf)
 - [Magic Items](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Gear/MagicItems.pdf)
+- [Drugs](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Gear/Drugs.pdf)

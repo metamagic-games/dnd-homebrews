@@ -27,18 +27,20 @@ const options = {
 };
 
 const paths = {
-  warden: "./src/Classes/Warden/Warden",
-  tribune: "./src/Subclasses/Ranger/Tribune/Tribune",
-  gambler: "./src/Subclasses/Warlock/Gambler/Gambler",
-  selfless: "./src/Subclasses/Monk/WayOfTheSelfless/WayOfTheSelfless",
-  medic: "./src/Subclasses/Fighter/CombatMedic/CombatMedic",
   brood: "./src/Races/Brood/Brood",
-  vakkyr: "./src/Races/Vakkyr/Vakkyr",
-  pearl: "./src/Races/Pearl/Pearl",
-  spells: "./src/Spells/Spells",
-  magicItems: "./src/Gear/MagicItems",
-  umbarans: "./src/Subraces/Human/Umbarans",
+  drugs: "./src/Gear/Drugs",
+  gambler: "./src/Subclasses/Warlock/Gambler/Gambler",
   injuries: "./src/Rules/SeriousInjuries",
+  madness: "./src/Rules/Madness",
+  magicItems: "./src/Gear/MagicItems",
+  medic: "./src/Subclasses/Fighter/CombatMedic/CombatMedic",
+  pearl: "./src/Races/Pearl/Pearl",
+  selfless: "./src/Subclasses/Monk/WayOfTheSelfless/WayOfTheSelfless",
+  spells: "./src/Spells/Spells",
+  tribune: "./src/Subclasses/Ranger/Tribune/Tribune",
+  umbarans: "./src/Subraces/Human/Umbarans",
+  vakkyr: "./src/Races/Vakkyr/Vakkyr",
+  warden: "./src/Classes/Warden/Warden",
 };
 
 const createRulebooks = async () => {
