@@ -32,6 +32,9 @@
     "url": "https://github.com/metamagic-games/dnd-homebrews/issues"
   },
   "homepage": "https://github.com/metamagic-games/dnd-homebrews#readme",
+  "jest": {
+    "setupFilesAfterEnv": ["./setupTests.js"] 
+  },
   "dependencies": {},
   "devDependencies": {
     "@babel/cli": "^7.12.1",

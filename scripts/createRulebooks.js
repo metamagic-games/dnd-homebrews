@@ -1,11 +1,10 @@
 import { handbooker } from "handbooker";
 
-const options = {
+const customOptions = {
   debug: true,
   printOptions: {
     displayHeaderFooter: false,
   },
-  markdownOptions: {},
 };
 
 const paths = {
@@ -25,7 +24,7 @@ const paths = {
   warden: "./src/Classes/Warden/Warden",
 };
 
-export const createRulebooks = async (rules, options=options) => {
+export const createRulebooks = async (rules, options=customOptions) => {
   console.log("Creating rulebooks...");
 
   for (let i = 0; i < rules.length; i++) {
@@ -33,7 +32,7 @@ export const createRulebooks = async (rules, options=options) => {
 
     console.log("\n>>>", rule);
 
-    await handbooker(`${rule}.md`, `${rule}.pdf`, options);
+    //await handbooker(`${rule}.md`, `${rule}.pdf`, options);
   }
 
   console.log("\nFinished!");
