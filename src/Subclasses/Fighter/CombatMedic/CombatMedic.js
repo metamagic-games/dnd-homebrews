@@ -52,7 +52,7 @@ var theCoD = AddSubClass("fighter", "combat-medic", {
       source: ["S:Combat Medic", 0],
       minlevel: 3,
       description:
-        "\nAt 3rd level, I gain the _Healer_ feat. I am an able physician, allowing I to mend wounds quickly and get my allies back in the fight. I gain the following benefits: When I use a healer's kit to stabilize a dying creature, that creature also regains 1 hit point. As an action, I can spend one use of a healer's kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature's maximum number of Hit Dice. The creature can't regain hit points from feat again until it finishes a short or long rest.",
+        "\nAt 3rd level, I gain the _Healer_ feat. I am an able physician, allowing me to mend wounds quickly and get my allies back in the fight. When I use a healer's kit to stabilize a dying creature, that creature also regains 1 hit point. As an action, I can spend one use of a healer's kit to tend to a creature and restore 1d4 hit points per my medicine proficiency bonus (minimum one), plus additional hit points equal to the creature's maximum number of Hit Dice. The creature can't regain hit points from this feature again until it finishes a short or long rest.",
     },
     subclassfeature7: {
       name: "Protective Maneuvers",
@@ -74,17 +74,18 @@ var theCoD = AddSubClass("fighter", "combat-medic", {
       source: ["S:Combat Medic", 0],
       minlevel: 10,
       description: desc([
-        "\nAs a bonus action. I can spend one use of a healer's kit to tend to a creature and restore hit points equal to 1d6 + 4 + the creature's maximum number of Hit Dice. The creature can't regain hit points from feat again until it finishes a short or long rest.",
+        "\nAs a bonus action, I can spend one use of a healer's kit to tend to a creature and restore (1d4 - 1) hit points per my medicine proficiency bonus (minimum one). The creature can't regain hit points from this feature again until it finishes a short or long rest.",
         "I gain the cantrip Spare the Dying.",
       ]),
+      action: ["bonus action", ""],
     },
     subclassfeature15: {
       name: "Preventative Medicine",
       source: ["S:Combat Medic", 0],
       minlevel: 15,
       description: desc([
-        "\nAs a bonus action, I can spend two use of a healer's kit I can give 1d6 + 4 temporary hitpoints to a target.",
-        "As an action, I can spend three uses of a healer's kit to give a target resistance to one type of damage.",
+        "\nAs a bonus action, I can spend two uses of a healer's kit to give a target 1d4 plus my medicine proficiency bonus temporary hit points until their next short or long rest.",
+        "As an action, I can spend four uses of a healer's kit to give a target resistance to one type of damage until their next short or long rest.",
       ]),
     },
     subclassfeature18: {
@@ -92,7 +93,7 @@ var theCoD = AddSubClass("fighter", "combat-medic", {
       source: ["S:Combat Medic", 0],
       minlevel: 18,
       description:
-        "\nOnce per Short Rest, when attacking a humanoid creature, I can choose to use _Anatomical Precision_. Make a medicine check. If I succeed, I gain advantage on my attack.",
+        "\nOnce per Short Rest, when attacking a humanoid creature, I can choose to use _Anatomical Precision_. Make a Medicine check with a DC equal to the target's Constitution score. If I succeed, I gain advantage on my attack.",
       recovery: "short rest",
       usages: 1,
       action: ["reaction", ""],

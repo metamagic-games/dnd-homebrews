@@ -23,8 +23,7 @@ SourceList["MG:W"] = {
   name: "Metamagic Games: Warden Class v1.1",
   abbreviation: "MG:W",
   group: "Metamagic Games",
-  url:
-    "https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Classes/Warden/Warden.md",
+  url: "https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Classes/Warden/Warden.md",
   date: "2018/06/07",
 };
 
@@ -36,7 +35,6 @@ SourceList["MG:W"] = {
   "minor illusion",
   "resistance",
   "spare the dying",
-  "stabilise",
   "true strike",
 
   // level 1
@@ -69,8 +67,9 @@ SourceList["MG:W"] = {
   if (SpellsList[wardenSpells]) SpellsList[wardenSpells].classes.push("warden");
 });
 
+// MPMB spellcastingTable: index 0 = class level 1 ... index 19 = class level 20.
+// Columns are spell slot levels 1..9.
 const wardenSpellTable = [
-  [0, 0, 0, 0, 0, 0, 0, 0, 0], // level 0
   [0, 0, 0, 0, 0, 0, 0, 0, 0], // level 1
   [0, 0, 0, 0, 0, 0, 0, 0, 0], // level 2
   [1, 0, 0, 0, 0, 0, 0, 0, 0], // level 3
@@ -97,11 +96,11 @@ ClassList["warden"] = {
   regExpSearch: /^(?=.*warden).*$/i,
   name: "Warden",
   source: ["MG:W", 0],
-  primaryAbility: "\n \u2022 Warden: Constitution, and Charisma;",
-  prereqs: "\n \u2022 Warden: Constitution 13, and Charisma 13;",
+  primaryAbility: "\n \u2022 Warden: Constitution, and Wisdom;",
+  prereqs: "\n \u2022 Warden: Constitution 13, and Wisdom 13;",
   die: 12,
   improvements: [0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 5, 5],
-  saves: ["Con", "Cha"],
+  saves: ["Con", "Wis"],
   skills: [
     "\n\n" +
       toUni("Warden") +
@@ -151,28 +150,7 @@ ClassList["warden"] = {
         "- If a marked target dies, gain 1d12 health.",
         "I can use this feature once per character level until I take a long rest.",
       ]),
-      usages: [
-        0,
-        0,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13,
-        14,
-        15,
-        16,
-        17,
-        18,
-        19,
-        20,
-      ],
+      usages: [0, 0, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
       recovery: "short rest",
       action: ["bonus action", ""],
     },
@@ -203,7 +181,7 @@ ClassList["warden"] = {
       "last words": {
         name: "Last Words",
         description: desc([
-          "When I am within 5 foot of a corpse, as an action I can create a link with a spirit through their corpse. When I do so, I cast the _speak with dead_ spell, without using a spell slot or material components. Charisma is my spellcasting ability for this spell.",
+          "When I am within 5 foot of a corpse, as an action I can create a link with a spirit through their corpse. When I do so, I cast the _speak with dead_ spell, without using a spell slot or material components. Wisdom is my spellcasting ability for this spell.",
           "Speaking with the dead in this way temporarily gives I a capability from a past life — you’re unsure whether it’s from my past or the spirit’s. When the spell ends, I gain one random benefit from the Borrowed Capabilities table. The benefit lasts until I finish a short or long rest.",
           "\n   Borrowed Capabilities",
           "| d3 | Capability |",
@@ -243,7 +221,7 @@ ClassList["warden"] = {
       "pain of death": {
         name: "Pain of Death",
         description: desc([
-          "When a creature within 15 feet of I drops to 0 hit points, I can use a reaction to cast the _bane_ spell on another target within 15 feet of I without using a spell slot or material components. I gain one random benefit from the Borrowed Capabilities table. The benefit lasts until I finish a short or long rest.",
+          "When a creature within 15 feet of me drops to 0 hit points, I can use a reaction to cast the _bane_ spell on another target within 15 feet of me without using a spell slot or material components. I gain one random benefit from the Borrowed Capabilities table. The benefit lasts until I finish a short or long rest.",
           "\n   Borrowed Capabilities",
           "| d3 | Capability |",
           "| :-: | :-: |",
@@ -286,8 +264,7 @@ ClassList["warden"] = {
       name: "Spectral Vision",
       source: ["MG:W", 1],
       minlevel: 11,
-      description:
-        "I can sense undead and ethereal creatures within 30 feet, even behind walls.",
+      description: "I can sense undead and ethereal creatures within 30 feet, even behind walls.",
       usages: 1,
       action: ["action", ""],
       recovery: "short rest",
@@ -296,9 +273,7 @@ ClassList["warden"] = {
       name: "Allies in Death",
       source: ["MG:W", 1],
       minlevel: 15,
-      description:
-        "\n   " +
-        'Choose an Ally in Death using the "Choose Feature" button above',
+      description: "\n   " + 'Choose an Ally in Death using the "Choose Feature" button above',
       choices: ["Ethereal Jaunt", "Deathly Parlay", "Audience with Death"],
       "ethereal jaunt": {
         name: "Ethereal Jaunt",
@@ -314,7 +289,7 @@ ClassList["warden"] = {
       "deathly parlay": {
         name: "Deathly Parlay",
         description:
-          "When my health reaches lower than my constitution modifier, each undead that can see or hear I within 30 feet of I must make a Charisma saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from I as it can, and it can't willingly move to a space within 30 feet of you. lt also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.",
+          "When my health reaches lower than my constitution modifier, each undead that can see or hear me within 30 feet of me must make a Charisma saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage. A turned creature must spend its turns trying to move as far away from me as it can, and it can't willingly move to a space within 30 feet of me. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.",
         source: [
           ["SRD", 35],
           ["P", 91],

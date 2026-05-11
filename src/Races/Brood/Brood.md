@@ -2,7 +2,7 @@
 
 _I was walking through the woods on the west of town when I was ambushed by bandits. Suddenly, a huge black beetle emerged from the earth behind them and devoured one of them, tearing their flesh with large mandibles. The rest of the bandits quickly fled._
 
-_The beast then tried to communicate me with a series of gutteral sounds, before it tired of me and flew away_
+_The beast then tried to communicate with me with a series of guttural sounds, before it tired of me and flew away._
 
 - Encounters in Yar-Zun, _Benton Forchristsake_
 
@@ -123,7 +123,7 @@ Once you use this trait, you can't use it again until you finish a long rest.
 
 #### Bombardier
 
-Bomardier Brood have acidic saliva, and stores sacks of the acidic substance in their chest cavity.
+Bombardier Brood have acidic saliva, and store sacks of the acidic substance in their chest cavity.
 
 **Ability Score Increase.** Your constitution and dexterity increase by 1, and your charisma decreases by 2.
 
@@ -135,6 +135,6 @@ Additionally, once per long rest when you take damage, you may cast Acid Splash 
 
 These Brood have a distinctive large horn atop their head, which they use in battle like a lance
 
-**Ability Score Increase.** Your constituion and strength increase by 1, and your intelligence decreases by 2.
+**Ability Score Increase.** Your constitution and strength increase by 1, and your intelligence decreases by 2.
 
 **Crushing Horn.\_** As a bonus action, once per short rest, you can make a special attack with your horn. You can make as an unarmed strike dealing 1d12 piercing damage.

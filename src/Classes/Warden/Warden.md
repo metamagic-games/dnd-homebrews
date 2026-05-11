@@ -29,13 +29,17 @@ You can make a warden quickly by following these suggestions. First, Constitutio
 As a warden, you gain the following class features.
 
 #### Hit Points
-___
+
+---
+
 - **Hit Dice:** 1d12 per warden level
 - **Hit Points at 1st Level:** 12 + your Constitution modifier
 - **Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per warden level after 1st
 
 #### Proficiencies
-___
+
+---
+
 - **Armour:** Light armor, medium armor, shields
 - **Weapons:** Shortswords, spears, and all simple weapons
 - **Tools:** None
@@ -365,8 +369,8 @@ At 1st level, you know two cantrips of your choice from the warden spell list. Y
 - Minor illusion
 - Resistance
 - Spare the dying
-- Stabilise
-- Srue strike
+- Spare the dying
+- True strike
 
 ##### 1st Level
 
@@ -423,8 +427,9 @@ Constitution is your spellcasting ability for your warden spells.
 
 You use your Constitution whenever a warden spell refers to your spellcasting ability. In addition, you use your Constitution modifier when setting the saving throw DC for a warden spell you cast and when making an attack roll with one.
 
-___
-- **Spell save DC** = 8 + your proficiency bonus + your Constitution modifier  
+---
+
+- **Spell save DC** = 8 + your proficiency bonus + your Constitution modifier
 - **Spell attack modifier** = your proficiency bonus + your Constitution modifier
 
 \page

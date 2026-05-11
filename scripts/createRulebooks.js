@@ -5,25 +5,7 @@ const options = {
   printOptions: {
     displayHeaderFooter: false,
   },
-  markdownOptions: {
-    //"baseUrl": null,
-    // "breaks": false,
-    // "gfm": true,
-    // "headerIds": true,
-    // "headerPrefix": "",
-    // "highlight": null,
-    // "langPrefix": "language-",
-    // "mangle": true,
-    // "pedantic": false,
-    // "sanitize": false,
-    // "sanitizer": null,
-    // "silent": false,
-    // "smartLists": false,
-    // "smartypants": false,
-    // "tokenizer": null,
-    // "walkTokens": null,
-    // "xhtml": false
-  },
+  markdownOptions: {},
 };
 
 const paths = {
@@ -43,32 +25,55 @@ const paths = {
   warden: "./src/Classes/Warden/Warden",
 };
 
+const formatMs = (ms) => `${(ms / 1000).toFixed(1)}s`;
+
+const buildOne = async (key) => {
+  const base = paths[key];
+  const start = Date.now();
+  console.log(`\n>>> ${key} (${base}.md)`);
+  await handbooker(`${base}.md`, `${base}.pdf`, options);
+  return Date.now() - start;
+};
+
 const createRulebooks = async () => {
-  console.log("Creating rulebooks...");
+  const requested = process.argv.slice(2);
+  const allKeys = Object.keys(paths);
 
-  const cvs = process.argv.slice(2);
+  const unknown = requested.filter((k) => !(k in paths));
+  if (unknown.length > 0) {
+    console.error(`\nUnknown document(s): ${unknown.join(", ")}`);
+    console.error(`\nAvailable keys:\n  ${allKeys.sort().join("\n  ")}\n`);
+    process.exit(2);
+  }
 
-  if (cvs.length > 0) {
-    for (let i = 0; i < cvs.length; i++) {
-      const rule = paths[cvs[i]];
+  const targets = requested.length > 0 ? requested : allKeys;
+  console.log(`Building ${targets.length} document(s)...`);
 
-      console.log("\n>>>", rule);
+  const failures = [];
+  const overallStart = Date.now();
 
-      await handbooker(`${rule}.md`, `${rule}.pdf`, options);
-    }
-  } else {
-    const documents = Object.keys(paths);
-
-    for (let i = 0; i < documents.length; i++) {
-      const rule = documents[i];
-
-      console.log("\n>>>", rule);
-
-      await handbooker(`${rule}.md`, `${rule}.pdf`, options);
+  for (const key of targets) {
+    try {
+      const elapsed = await buildOne(key);
+      console.log(`  ok (${formatMs(elapsed)})`);
+    } catch (err) {
+      console.error(`  FAILED: ${err.message}`);
+      failures.push({ key, err });
     }
   }
 
-  console.log("\nFinished!");
+  const total = formatMs(Date.now() - overallStart);
+  console.log(
+    `\nFinished in ${total}. ${targets.length - failures.length}/${targets.length} succeeded.`
+  );
+
+  if (failures.length > 0) {
+    console.error(`\nFailures:`);
+    for (const { key, err } of failures) {
+      console.error(`  - ${key}: ${err.message}`);
+    }
+    process.exit(1);
+  }
 };
 
 createRulebooks();

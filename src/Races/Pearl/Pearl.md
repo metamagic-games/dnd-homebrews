@@ -3,7 +3,7 @@
 _The days unaccounted for accrued slowly at first. I believe that is how they work - insidiously. My home is filled with ancient tomes written in languages I cannot comprehend, yet with accompanying notes made in my handwriting. And when the priests of Pelor prayed for my safety I could have sworn I heard a voice laughing._
 _My mind is heavy and I fear these may be my last words. My body may wake up tomorrow in the clutches of them once again, and yet my thoughts lay dormant thereafter._ - Quentin Ratley, _The Diary of Quentin Ratley_
 
-Pearls are rare and elusive creatures, devoid of a body but with inscrutible minds filled with ancient knowledge of long forgotten kingdoms.
+Pearls are rare and elusive creatures, devoid of a body but with inscrutable minds filled with ancient knowledge of long forgotten kingdoms.
 
 ### Parasitic Minds
 

@@ -44,12 +44,12 @@ RaceList["leatherwing brood"] = {
   heightMetric: " range from 1.5 to 2.1 metres tall (145 + 10d8 cm)",
   weightMetric: " weigh around 70 kg (50 + 5d8 \xD7 4d4 / 10 kg)",
   improvements:
-    "Brood: +2 Charsima and +1 to Strength, Dexterity, or Constitution;",
+    "Leatherwing Brood: +2 Wisdom, +1 Dexterity, +1 Intelligence, -1 Strength, -1 Constitution;",
   scores: [-1, 1, -1, 1, 2, 0],
   trait:
-    "Brood (+2 Wisdom, +1 to Strength and Intelligence, -1 Constitution and Strength)" +
+    "Leatherwing Brood (+2 Wisdom, +1 Dexterity and Intelligence, -1 Strength and Constitution)" +
     (typePF ? " " : "\n") +
-    "From 3rd level, you can use an action to unfurl wings, and gain a fly speed for 1 hour.",
+    "From 3rd level, I can use an action to unfurl wings, gaining a fly speed of 20 feet for 1 hour. Once per long rest.",
   features: {
     "unfurl wings": {
       name: "Unfurl Wings",
@@ -84,13 +84,12 @@ RaceList["bombardier brood"] = {
   weight: " weigh around 130 lb (110 + 2d8 \xD7 2d4 lb)",
   heightMetric: " range from 1.5 to 2.1 metres tall (145 + 10d8 cm)",
   weightMetric: " weigh around 70 kg (50 + 5d8 \xD7 4d4 / 10 kg)",
-  improvements:
-    "Brood: +2 Charsima and +1 to Strength, Dexterity, or Constitution;",
-  scores: [-1, 1, -1, 1, 2, 0],
+  improvements: "Bombardier Brood: +2 Wisdom, +1 Dexterity, +1 Constitution, -2 Charisma;",
+  scores: [0, 1, 1, 0, 2, -2],
   trait:
-    "Brood (+2 Wisdom, +1 to Strength and Intelligence, -1 Constitution and Strength)" +
+    "Bombardier Brood (+2 Wisdom, +1 Dexterity and Constitution, -2 Charisma)" +
     (typePF ? " " : "\n") +
-    "From 3rd level, you gain the cantrip Acid Splash. Once per long rest you can use it as a reaction.",
+    "From 3rd level, I gain the cantrip Acid Splash. Once per long rest, when I take damage, I can cast Acid Splash as a reaction.",
   spellcastingAbility: 6,
   spellcastingBonus: {
     name: "Bombardier Acid Saliva",
@@ -125,17 +124,16 @@ RaceList["rhinocerous brood"] = {
   weight: " weigh around 130 lb (110 + 2d8 \xD7 2d4 lb)",
   heightMetric: " range from 1.5 to 2.1 metres tall (145 + 10d8 cm)",
   weightMetric: " weigh around 70 kg (50 + 5d8 \xD7 4d4 / 10 kg)",
-  improvements:
-    "Brood: +2 Charsima and +1 to Strength, Dexterity, or Constitution;",
+  improvements: "Rhinocerous Brood: +2 Wisdom, +1 Strength, +1 Constitution, -2 Intelligence;",
   scores: [1, 0, 1, -2, 2, 0],
   trait:
-    "Brood (+2 Wisdom, +1 to Strength and Constitution, -2 Intelligence)" +
+    "Rhinocerous Brood (+2 Wisdom, +1 Strength and Constitution, -2 Intelligence)" +
     (typePF ? " " : "\n") +
-    "Sunlight Sensitivity: Disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when I or what I am trying to attack/perceive is in direct sunlight.\nVampire's Bite: I can use my bite attack if a target is charmed/grappled by me, or if it is incapacitated or restrained. If hit, I can choose to gain the damage dealt as temp HP, my prof. bonus per long rest. Vampiric Gaze: Once per short rest, I can cast charm person without using material components. Charisma is my spellcasting ability for this.",
+    "Crushing Horn: As a bonus action, once per short rest, I can make a special unarmed strike with my horn dealing 1d12 piercing damage.",
   features: {
     "crushing horn": {
       name: "Crushing Horn",
-      minlevel: 3,
+      minlevel: 1,
       usages: 1,
       recovery: "short rest",
       action: ["bonus action", ""],
@@ -151,6 +149,6 @@ WeaponsList["crushing horn"] = {
   type: "Natural",
   damage: [1, 12, "piercing"],
   range: "Melee",
-  description: "Finesse.",
+  description: "Once per short rest (bonus action).",
   abilitytodamage: true,
 };

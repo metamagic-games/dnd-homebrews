@@ -1,0 +1,7 @@
+node_modules
+*.pdf
+*.png
+*.jpg
+*.jpeg
+package-lock.json
+src/**/CHANGELOG.md

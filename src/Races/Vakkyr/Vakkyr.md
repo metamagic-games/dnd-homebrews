@@ -2,11 +2,11 @@
 
 _The dwarf - at least I think it was a dwarf - stepped out of thin air. Black dagger in hand, she seemed to have cut through the very fabric of the universe. I knew her intent from those cold eyes - she had come for my life._
 
-_Fear got the better of me, and I stumbled backwards and tripped. She was poised to strike me, when a great black claw reach out of seam in reality she had opened, and grasped her ankle. She let out a terrible scream and was dragged back into that void from which she arrived._
+_Fear got the better of me, and I stumbled backwards and tripped. She was poised to strike me, when a great black claw reached out of a seam in reality she had opened, and grasped her ankle. She let out a terrible scream and was dragged back into that void from which she arrived._
 
 - Police report
 
-Vakkyr were once dwarves that ventured into the underdark. Under it's dark influence, they bare little resemblence to their ancestors.
+Vakkyr were once dwarves that ventured into the underdark. Under its dark influence, they bear little resemblance to their ancestors.
 
 ![vakkyr](https://i.pinimg.com/originals/fa/21/81/fa2181d654e4ef5c1e1f797477c20cd9.jpg)
 

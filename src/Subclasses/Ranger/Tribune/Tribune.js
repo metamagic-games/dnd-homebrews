@@ -71,8 +71,7 @@ AddSubClass("ranger", "tribune", {
       name: "Reckless",
       source: ["HB", 0],
       minlevel: 3,
-      description:
-        "\n   " + "I'm habituated to danger, often putting myself at risk.",
+      description: "\n   " + "I'm habituated to danger, often putting myself at risk.",
       eval: 'AddACMisc(-1, "Reckless")',
     },
     subclassfeature7: {
@@ -94,9 +93,7 @@ AddSubClass("ranger", "tribune", {
       name: "Magic Hunter",
       source: ["HB", 0],
       minlevel: 7,
-      description:
-        "\n   " +
-        "I am attuned to the arcane and can cast Detect Magic at will",
+      description: "\n   " + "I am attuned to the arcane and can cast Detect Magic at will",
       spellcastingBonus: [
         {
           name: "Magic Hunter (Detect Magic)",
@@ -138,19 +135,16 @@ AddSubClass("ranger", "tribune", {
       name: "Preserve Magic",
       source: ["HB", 0],
       minlevel: 11,
-      description:
-        "\n   " +
-        "I may preserve one spell in my spell book after a short rest.",
+      description: "\n   " + "I may preserve one spell in my spell book after a short rest.",
     },
     subclassfeature15: {
       name: "Predict Magic",
       source: ["HB", 0],
       minlevel: 15,
-      description:
-        "\n   " + "I can sense spells being cast and warn myself and others.",
+      description: "\n   " + "I can sense spells being cast and warn myself and others.",
       action: ["reaction", ""],
       usages: "Wisdom modifier per ",
-      usagescalc: "event.value = Math.min(1, tDoc.getField('Wis Mod').value);",
+      usagescalc: "event.value = Math.max(1, tDoc.getField('Wis Mod').value);",
       recovery: "long rest",
     },
     "subclassfeature15.1": {
@@ -158,8 +152,7 @@ AddSubClass("ranger", "tribune", {
       source: ["HB", 0],
       minlevel: 15,
       description:
-        "\n   " +
-        "1 hour concentration. Arcane check. On success, magic item is disenchanted.",
+        "\n   " + "1 hour concentration. Arcane check. On success, magic item is disenchanted.",
       action: ["action", ""],
     },
   },
@@ -184,8 +177,7 @@ SpellsList["arcane well"] = {
   time: "Instant",
   duration: "Instantaneous",
   save: "DC12 + spell lvl",
-  description:
-    "Negate spell, DC12 + spell level. Add spell to spell book at level cast",
+  description: "Negate spell, DC12 + spell level. Add spell to spell book at level cast",
   descriptionFull:
     "DC equal to 12 + the spell's level, modified by your intelligence modifier (make this instead of any check or saving throw you would normally make). On a success, you absorb the magical energy and the spell has no effect. Add the spell to your spell book. Arcane Well must be cast at the level of the spell you are absorbing. Spells cast with a critical roll cannot be absorbed. When you fail to absorb a spell with arcane well you take (an additional) D4 damage per level of the spell.",
   atwill: true,
@@ -200,8 +192,7 @@ SpellsList["improved arcane well"] = {
   time: "Instant",
   duration: "Instantaneous",
   save: "DC12 + spell lvl",
-  description:
-    "Negate spell, DC12 + spell level. Add spell to spell book at level cast",
+  description: "Negate spell, DC12 + spell level. Add spell to spell book at level cast",
   descriptionFull:
     "DC equal to 12 + the spell's level, modified by your intelligence modifier (make this instead of any check or saving throw you would normally make). On a success, you absorb the magical energy and the spell has no effect. Add the spell to your spell book. Arcane Well must be cast at the level of the spell you are absorbing. Spells cast with a critical roll cannot be absorbed. When you fail to absorb a spell with arcane well you take (an additional) D4 damage per level of the spell.",
   atwill: true,
@@ -215,7 +206,6 @@ SpellsList["consume magic"] = {
   school: "Evoc",
   time: "1 ba",
   duration: "Instantaneous",
-  description:
-    "Remove a spell from your spell book. Heal D4 + the spell's level",
+  description: "Remove a spell from your spell book. Heal D4 + the spell's level",
   atwill: true,
 };

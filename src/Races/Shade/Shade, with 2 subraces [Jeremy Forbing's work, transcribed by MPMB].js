@@ -19,8 +19,7 @@
 	Note that the Netherese Cantrip selection is not limited to just the three shools of magic in v12.999 of the sheet. This is something that is fixed in v13 of the sheet.
 */
 
-var iFileName =
-  "Shade, with 2 subraces [Jeremy Forbing's work, transcribed by MPMB].js";
+var iFileName = "Shade, with 2 subraces [Jeremy Forbing's work, transcribed by MPMB].js";
 RequiredSheetVersion(12.999);
 
 SourceList["FRA:SS"] = {
@@ -43,8 +42,7 @@ RaceList["independent shade"] = {
   vision: [["Darkvision", 60]],
   dmgres: ["Necrotic"],
   skills: ["Stealth"],
-  skillstxt:
-    "Stealth and one other, chosen from: Deception, Investigation, or Sleight of Hand", // Independent
+  skillstxt: "Stealth and one other, chosen from: Deception, Investigation, or Sleight of Hand", // Independent
   age: " age at half the speed a normal member of their previous race would.",
   height: " are the same height as a normal member of their previous race.",
   weight: " are the same weight as a normal member of their previous race.",
@@ -97,7 +95,7 @@ RaceList["netherese shade"] = {
   improvements: "Netherese Shade: +2 Dexterity, +1 Intelligence;",
   scores: [0, 2, 0, 1, 0, 0],
   trait:
-    "Independent Shade (+2 Dexterity, +1 Charisma)" +
+    "Netherese Shade (+2 Dexterity, +1 Intelligence)" +
     (typePF ? "\n" : " ") +
     "Fragile Mortality: After I regain HD after a long rest, I must first make a DC 15 Con save, or loose half my proficiency bonus in HD." +
     (typePF ? "\n" : " ") +
