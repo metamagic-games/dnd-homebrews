@@ -12,11 +12,11 @@ It includes both:
 
 1. Clone this repo
 2. `npm install`
-3. `npm run build` (for all) or `npmr run build medic` (for a rule declared in `./scripts/createRulebooks.js`)
+3. `npm run build` (for all) or `npm run build medic` (for a rule declared in `./scripts/createRulebooks.js`)
 
 ### Using this content with the [MPMB character sheet](https://www.google.co.uk/search?hl=en&q=more+purple+more+better+patreon&meta=)
 
-When setting up you MPMB character sheet, there is an option to import a new file.
+When setting up your MPMB character sheet, there is an option to import a new file.
 
 ## Contributing
 
@@ -37,7 +37,7 @@ If you'd like to contribute, please fork the repository and use a feature branch
 
 #### Fighter
 
-- [Combat Medic](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Subclasses/Fighter/CombatMedic/CombatMedic.pdf) - These fighters have learned how to save themselves and those around them from even the most grevious of injuries, and to protect those under their care from potential ones. 
+- [Combat Medic](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Subclasses/Fighter/CombatMedic/CombatMedic.pdf) - These fighters have learned how to save themselves and those around them from even the most grievous of injuries, and to protect those under their care from potential ones. 
 
 #### Monk
 
@@ -54,8 +54,8 @@ If you'd like to contribute, please fork the repository and use a feature branch
 ### Races
 
 - [Brood](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Races/Brood/Brood.pdf) - Brood are a rare and ancient race of humanoid insects that emerge from their underground nests so rarely that they are little more than myth to most.
-- [Vakkyr](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Races/Vakkyr/Vakkyr.pdf) - Vakkyr were once dwarves that ventured into the underdark. Under it's dark influence, they bare little resemblence to their ancestors.
-- [Pearl](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Races/Pearl/Pearl.pdf) - Pearls are rare and elusive creatures, devoid of a body but with inscrutible minds filled with ancient knowledge of long forgotten kingdoms.
+- [Vakkyr](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Races/Vakkyr/Vakkyr.pdf) - Vakkyr were once dwarves that ventured into the underdark. Under its dark influence, they bear little resemblance to their ancestors.
+- [Pearl](https://github.com/metamagic-games/dnd-homebrews/blob/master/src/Races/Pearl/Pearl.pdf) - Pearls are rare and elusive creatures, devoid of a body but with inscrutable minds filled with ancient knowledge of long forgotten kingdoms.
 
 
 #### Subraces
