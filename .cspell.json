@@ -1,0 +1,24 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "files": ["src/**/*.md", "README.md"],
+  "ignorePaths": [
+    "node_modules/**",
+    "build/**",
+    "dist/**",
+    "assetts/**",
+    "package-lock.json",
+    "*.config.js",
+    "**/TEMPLATE.md",
+    "**/Ideas.md"
+  ],
+  "dictionaries": ["en_US", "softwareTerms", "dnd"],
+  "dictionaryDefinitions": [
+    {
+      "name": "dnd",
+      "path": "./.cspell/dnd.txt",
+      "addWords": true
+    }
+  ],
+  "allowCompoundWords": true
+}

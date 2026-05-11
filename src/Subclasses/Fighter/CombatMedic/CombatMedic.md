@@ -44,7 +44,7 @@ Your kit starts with 0 uses. Whenever you rest, you can choose make a survival c
 At 3rd level, you gain the _Expert Healer_ feat. You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits:
 
 - When you use a healer's kit to stabilize a dying creature, that creature also regains 1d4 hit points.
-- As an action, you can spend one use of a healer's kit to tend to a creature and restore 1d4 hit points to it per your medicine proficiency bonus (minumum one), plus additional hit points equal to the creature's maximum number of Hit Dice. The creature can't regain hit points from feat again until it finishes a short or long rest.
+- As an action, you can spend one use of a healer's kit to tend to a creature and restore 1d4 hit points to it per your medicine proficiency bonus (minumum one), plus additional hit points equal to the creature's maximum number of Hit Dice. The creature can't regain hit points from this feat again until it finishes a short or long rest.
 
 #### Protective Maneuvers
 

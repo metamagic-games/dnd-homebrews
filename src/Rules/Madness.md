@@ -37,5 +37,3 @@
 | Excitement |         |         |
 | Happiness  |         |         |
 | Sadness    |         |         |
-
-
